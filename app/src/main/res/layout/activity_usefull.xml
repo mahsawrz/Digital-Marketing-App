@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.twitter.usefull">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="توییتر طیف گسترده ای از ویژگی های مفید را ارائه می دهد که می توان از آنها برای بازاریابی تجاری استفاده کرد. در این قسمت با هدف ایجاد چندین حساب توییتر برای کسب و کار، پین کردن در توییتر، ارسال پیوندها از طریق توییت‌ها و کوتاه‌کننده‌های URL آشنا می‌شوید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چندین حساب توییتر "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بهترین روش برای توییتر به عنوان یک برند، حفظ یک حساب کاربری توییتر است. با این حال، برخی از برندها ممکن است نیاز به ایجاد چندین حساب توییتر برای آدرس دادن به چندین مکان جغرافیایی داشته باشند، در کانال‌ها/بخش‌های تجاری خاص وارد شوند و فقط برای کارمندان در مقابل مصرف‌کننده توییت کنند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگام مدیریت چندین حساب توییتر، توصیه می کنیم از Hootsuite برای ارسال و نظارت بر فعالیت توییتر استفاده کنید. این محصول رایگان مبتنی بر وب به شما امکان می‌دهد پست‌های توییتر خود را از قبل برنامه‌ریزی کنید یا به صورت زنده توییت کنید (یک URL و یک عکس را نیز پیوست کنید)، بر جریان افرادی که دنبال می‌کنید نظارت کنید، و همچنین هشتگ‌ها، کلمات کلیدی و دسته‌های خاص را نظارت کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" کوتاه کننده URL در توییتر"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="پیوندهای به اشتراک گذاشته شده در توییتر، از جمله پیوندهای به اشتراک گذاشته شده در پیام های مستقیم، به طور خودکار پردازش می شوند و به یک پیوند http://t.co کوتاه می شوند. پیوندهای کوتاه شده به شما امکان می دهند URL های طولانی را در یک توییت به اشتراک بگذارید و در عین حال حداکثر تعداد کاراکترها را برای پیام خود حفظ کنید. با ایجاد این پیوند منحصربه‌فرد برای توییتر، می‌توانید اطلاعاتی مانند تعداد دفعات کلیک روی یک پیوند را اندازه‌گیری کنید، که یک سیگنال با کیفیت مهم در تعیین میزان مرتبط و جالب بودن هر توییت در مقایسه با توییت‌های مشابه است. مگر اینکه از شخص ثالث استفاده کنید، همه URL ها به عنوان پیوند t.co کوتاه می شوند. شما نمی توانید از کوتاه شدن پیوند انصراف دهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ارسال لینک در توییت"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="می‌توانید با استفاده از جعبه توییت یا از دستگاه تلفن همراه خود، پیوندی را در یک توییت در اینترنت ارسال کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" توییت کردن یک لینک در اینترنت"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="7dp"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وارد حساب توییتر خود شوید، روی دکمه توییت کلیک کنید. URL را در کادر توییت تایپ یا جایگذاری کنید. URL با هر طولی به 23 کاراکتر تغییر می یابد، حتی اگر خود پیوند کمتر از 23 کاراکتر باشد. تعداد شخصیت شما این را نشان می دهد. برای ارسال توییت و پیوند، روی دکمه توییت کلیک کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" توییت کردن یک پیوند از یک دستگاه تلفن همراه"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه تلفن همراه دلخواه خود را باز کنید یا یک پیام متنی جدید شروع کنید. URL را تایپ کرده یا در توییت خود جایگذاری کنید. پیوندها با کوتاه کننده پیوند توییتر در هر کجا که آنها را پست کنید تنظیم می شوند. برخی از مشتریان تعداد کاراکترهای شما را هنگام نوشتن یک توییت تنظیم می کنند. برخی نمی خواهند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" توییت را پست کنید"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="سایر خدمات محبوب کوتاه‌کننده لینک عبارتند از bit.ly وURL Shortener Google . همچنین چندین سرویس وجود دارد که به شما امکان می دهد URL های کوتاه شده قابل تنظیم خود را ایجاد کنید که برند شما را در بر می گیرد."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

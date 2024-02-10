@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.insta.strategy">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="اینستاگرام به عنوان بخشی از استراتژی کسب و کار شما می تواند راه درازی برای نتایج موفقیت آمیز کسب و کار داشته باشد. در زیر برخی از نکاتی که باید به خاطر بسپارید وجود دارد."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" مشتریان خود را درگیر کنید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="از نام @ برای تبلیغ فالوور روز در اینستاگرام استفاده کنید و بلافاصله با تعداد قابل توجهی از مشتریان بالقوه ارتباط برقرار خواهید کرد. این کار باعث پیشرفت مشتریان شما می شود و آنها را ترغیب می کند که به میزان قابل توجهی بیشتر با شما کار کنند."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="نام @ برای تگ کردن هر مشتری در کامنت های داخل اینستاگرام استفاده می شود و می توانید از آن برای رشد مخاطبان خود در طول زمان استفاده کنید. این روش می تواند یک مخاطب مرتبط و درگیر با ارزش بالا برای برند یا کسب و کار شما ایجاد کند. همچنین می توانید از هشتگ (#) به عنوان روشی برای افزایش مخاطبان خود استفاده کنید."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" محتوا بسازید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="اینستاگرام یک نوع شبکه‌های آنلاین است که عمدتاً بصری است و یک مرحله عالی برای به رخ کشیدن آیتم‌ها از طریق ویدیو یا عکس است. در حین ساختن یک استراتژی، باید بفهمید که کدام استراتژی برای خدمات یا محصولاتی که تبلیغ می کنید بهترین کارایی را دارد. ویدئو اغلب ایده‌آل‌ترین رویکرد برای تبلیغ محصولات بادوام است. به عنوان مثال، ابزار، همانطور که می توانید استفاده از آیتم را نشان دهید. برای محصولاتی مانند پوشاک، تصاویر مناسب‌تر است."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" همیشه هشتگ کنید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="استفاده از هشتگ در اینستاگرام برای کسب و کار شما ضروری است. هشتگ ها به کاربران امکان می دهد محتوا یا برندهایی را که می خواهند دنبال کنند، کشف کنند. هنگامی که کاربر با جستجوی خود به نمایه شما هدایت شد، می توانید آنها را به وب سایت خود هدایت کنید. اینستاگرام اجازه می دهد حداکثر سی هشتگ در یک پست یا نظر درج شود. با این حال، اطمینان حاصل کنید که از آنها بیش از حد استفاده نکنید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" به اشکال دیگر رسانه های اجتماعی متصل شوید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:lineSpacingExtra="7dp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="به اشتراک گذاری محتوای اینستاگرام خود با سایر حساب های رسانه های اجتماعی خود مطمئناً در وقت شما صرفه جویی می کند و به افزایش سرنخ های شما کمک می کند. پروفایل اینستاگرام خود را به انواع دیگر پلتفرم های رسانه های اجتماعی مانند Twitter، Tumblr، Facebook، Flickr و Foursquare متصل کنید. به عنوان مثال، اگر یک صفحه تجاری فیس بوک دارید، می توانید آن را طوری ترتیب دهید که تمام پست ها و عکس های اینستاگرام شما در صفحه تجاری فیس بوک شما نیز ظاهر شوند."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" از تبلیغات و پست های حمایت شده استفاده کنید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="استفاده از پست ها و تبلیغات حمایت شده اینستاگرام بالاخره در سراسر جهان گسترش یافت و بسیار محبوب شد. تبلیغات اینستاگرام هنوز در مراحل اولیه در دسترس قرار دارد. تبلیغات در قالب ویدیوی 30 ثانیه ای، تصویری و همچنین در قالب چرخ فلک در دسترس هستند. این تبلیغات راهی ایده آل برای هدایت مصرف کنندگان به وب سایت شما یا بیان داستان برند شما به روشی بهتر است."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" بر اساس تقویم تحریریه پست کنید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="اینستاگرام به عنوان اپلیکیشنی برای تولید محتوا از طریق دستگاه تلفن همراه طراحی شده است. در نتیجه، استفاده از یکی از ابزارهای مختلف زمان‌بندی موجود، عملی است تا بتوانید به صورت سیستماتیک پست کنید. با استفاده از تقویم تحریریه، می توانید پست های منظم را از قبل برنامه ریزی کنید تا فالوورهای خود را درگیر نگه دارید. همچنین زمانی که در حال تبلیغ چیزی یا شرکت در یک رویداد هستید، از آن استفاده می شود. با انجام این کار، هرگز ارسال محتوا را فراموش نخواهید کرد، و می‌توان آن محتوا را برنامه‌ریزی کرد تا زمانی که به دلایلی برای انجام دستی آن در دسترس نیستید، منتشر شود."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" با اینفلوئنسرهای اینستاگرام شریک شوید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="در حال حاضر، اینستاگرام بیش از 40000 اینفلوئنسر دارد که از پلتفرم خود استفاده می کنند و موضوعات و مشاغل مختلفی را پوشش می دهند. آنها به عنوان نام‌های بزرگ اینستاگرام در نظر گرفته می‌شوند و با تنظیم تصویر خود با تأثیرگذاران مناسب، می‌توانید آگاهی تصویر و تعداد فالوورهای خود را افزایش دهید. اینفلوئنسر شما به سادگی باید دسته برند شما را در یکی از پست های اینستاگرام خود بگنجاند."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" به رقبای خود توجه کنید"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="یکی از مهم‌ترین دیدگاه‌ها برای حفظ یک کسب‌وکار پربار، نگاه کردن به مخالفت‌های خود و مطلع ماندن از آخرین تحولات است. در مورد اینستاگرام هم همینطور. بررسی پروفایل های اینستاگرام رقیب خود بسیار مهم است. این به شما چند ایده برای محتوایی می دهد که می توانید در اینستاگرام نیز پست کنید. برخی از جنبه هایی که باید در نظر گرفت عبارتند از:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" رقبا چگونه خود را در موقعیت قرار می دهند؟"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="کشف کنید که رقبای شما چگونه خود را در شبکه های آنلاین قرار می دهند. برای الهام گرفتن می توانید به سادگی از پروفایل های رقیب خود دیدن کنید. این بایوس به شما ایده می دهد که چگونه می توانید خود را در اینستاگرام قرار دهید تا برای مخاطبان هدف خود جذاب باشید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" رقبا هر چند وقت یک بار پست می گذارند؟"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="اگر به این فکر می کنید که چقدر باید در اینستاگرام فعال باشید، با تحقیقات رقابتی مشورت کنید. بدیهی است که این تنها چیزی نیست که شما باید در رابطه با فعالیت اجتماعی بدانید. شما نیز باید نگاهی به تعامل رقیب خود در اینستاگرام بیندازید. تعداد پست ها و تعامل را تجزیه و تحلیل کنید تا ببینید رقبا کجا پست می کنند و بیشترین (یا کمترین) پاسخ مخاطب را دریافت می کنند."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" رقبا چه پستی می گذارند؟"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="برای نوع پست هایی که باید در اینستاگرام منتشر کنید، با تجزیه و تحلیل محتوای برتر رقبا مخصوص آن پلتفرم، الهام بگیرید. این تجزیه و تحلیل می‌تواند به شما کمک کند تا بفهمید که آیا باید عکس‌ها یا ویدیوها را پست کنید، چه زمانی باید آن‌ها را پست کنید، و نوع زیرنویس‌هایی که باید در پست‌ها برای بهترین فرصت‌های تعامل قرار دهید. با استفاده از این پست ها به عنوان الهام، می توانید ایده های جالبی برای کسب و کار خود داشته باشید که به خوبی در اینستاگرام جا بیفتد."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" مردم در مورد رقبا چه می گویند؟"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="درک آنچه افراد در مورد رقبای شما می‌گویند می‌تواند به شما حس تعاملی را که از طریق اینستاگرام به دست می‌آورید، بدهد. به عنوان مثال، آیا افراد سوالات فروش و پشتیبانی از رقبای شما را می پرسند؟ آیا مردم درباره صنعت صحبت می کنند یا مثبت؟"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="حتی ممکن است مجبور شوید راه‌هایی را بشناسید که می‌توانید محصولات و خدمات خود را برای پر کردن محدوده‌ای که محصولات و خدمات رقبای شما از دست داده‌اند، تنظیم کنید. به طور کلی، باید شما را برای نوع بحث هایی که ممکن است برای کسب و کار خود در رسانه های اجتماعی ادامه دهید آماده کند و ایده هایی در مورد نحوه مدیریت آنها ارائه دهد."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="7dp"
+            android:text=" کمپین های پولی اینستاگرام"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="توجه به این نکته ضروری است که اینستاگرام با فرصت های تبلیغاتی پولی، چیزهای مختلفی را امتحان می کند. این برنامه به طور کلی جدید است و در حال حاضر برای برندهای بزرگی برگزار می شود که از هم اکنون در اینستاگرام حضور دارند. بدون شک چیزی است که باید مراقب آن بود، به این دلیل که آنها بیش از 300 میلیون کاربر دارند. تبلیغات در اینستاگرام به شما این امکان را می‌دهد که عکس‌ها، کپشن‌ها و پیام‌های خود را به کاربرانی که شما را دنبال می‌کنند و همچنین به کل جامعه کاربران اینستاگرام ارسال کنید."/>
+
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="اگر وب‌سایت اینستاگرام به آدرس business.instgram.com/advertising را به پایین اسکرول کنیم، در صفحه منابعی وجود دارد که می‌توانید در نظر بگیرید. می‌توانید به یک گالری الهام‌بخش نگاهی بیندازید که به شما نشان می‌دهد چگونه سازمان‌ها واقعاً از اینستاگرام استفاده می‌کنند و تخیلی هستند. همچنین می توانید نگاهی به آمار و نتایج آن دسته از سازمان هایی بیندازید که توانسته اند در اینستاگرام تبلیغ کنند. و این نتایج نشان دهنده آگاهی گسترده و نرخ بالای بازبینی تبلیغات است. همچنین برخی از مطالعات موردی در وب سایت موجود است که نشان می دهد چگونه شناخت برند برای آن سازمان هایی که از تبلیغات پولی در اینستاگرام استفاده می کنند، گسترش یافته است."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="باز هم، این درب باز در حال حاضر برای همه قابل دسترسی نیست، با این حال بدون شک چیزی است که باید مراقب آن بود. اگر در فیس بوک تبلیغ می کنید، زمانی که این برای همه باز شود، احتمالاً می خواهید در اینستاگرام نیز تبلیغ کنید."/>
+
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

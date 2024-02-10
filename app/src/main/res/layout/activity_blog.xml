@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.resane.blog">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وبلاگ در اصل نوعی وب سایت، مجله ای که به طور منظم به روز می شود. این یک پلت فرم بحث و گفتگو است علاوه بر اینکه یک دستیابی به محتوا است. افراد می توانند در مورد یک موضوع در وبلاگ بحث کنند و در مورد پست ها نظر دهند. اساساً توسط یک فرد یا یک گروه کوچک اداره می شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" وبلاگ نویسی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هر فعالیت و مهارتی که برای مدیریت یک وبلاگ لازم است در حوزه وبلاگ نویسی قرار می گیرد، به عنوان مثال، نوشتن پست، انتشار آنها، طراحی، بازاریابی اجتماعی و غیره. به عبارت ساده، وبلاگ نویسی فرآیند افزودن محتوای جدید به یک وبلاگ و به روز رسانی آن در فواصل منظم است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بلاگر (شخص) - به شخصی که در وبلاگ نویسی دخالت دارد بلاگر می گویند.\n\n بلاگر (سرویس) - این سرویسی است که توسط Google ارائه می شود که به ما امکان می دهد یک پست بنویسیم، ویرایش کنیم، به روز کنیم و آن را مدیریت کنیم. شما می توانید وبلاگ های خود را به راحتی با کمک بلاگر سفارشی کنید. این به شما امکان می دهد آنچه را که در ذهن دارید به اشتراک بگذارید و درآمد کسب کنید. این یک پلت فرم مناسب برای کاربران مشتاق و همچنین مبتدی است. هیچ دانش فنی یا کدنویسی مورد نیاز نیست. مستقیماً روی سرورهای گوگل اجرا می شود و هک آن غیرممکن است.\n\n وردپرس – این یک نرم افزار رایگان برای ایجاد و سفارشی کردن یک وب سایت یا وبلاگ دوستدار موتور جستجو است. تعدادی تم و افزونه برای تغییر وب سایت شما در صورت نیاز موجود است. تقریباً 70 میلیون نفر بخشی از جامعه وردپرس هستند. وردپرس در دو طرح رایگان و پریمیوم در دسترس است.\n\n این (Tumbler) یک پلت فرم میکروبلاگینگ است که به ما امکان می دهد یک وبلاگ بسازیم و آن را سفارشی کنیم. ممکن است از داستان‌ها، تصاویر، ویدیوها، صدا و غیره استفاده کنیم. بلاگرها می‌توانند وبلاگ‌های خود را خصوصی نگه دارند یا وبلاگ‌های دیگر را دنبال کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مزایای وبلاگ نویسی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="نفوذ آنلاین بهتر، این به ایجاد تأثیر در گرفتن یک نمایه خوب کمک می کند.\n\n منبع درآمد خوبی را تشکیل می دهد. پت فلین سالانه 100000 دلار از وبلاگ خودGreen Exam   Academy   درآمد دارد.\n\n حفظ وبلاگ می تواند به بهبود مهارت های نوشتاری شما کمک کند.\n\n یک وبلاگ نویس به راحتی می تواند به یک نویسنده منتشر شده تبدیل شود.\n\n می توانید بازخوردهای فوری را در قالب نظرات، اشتراک گذاری و غیره دریافت کنید.\n\n وبلاگ نویسان می توانند یادگیرنده خوبی باشند، زیرا تمایل به خواندن و مشارکت بیشتر در چنین مطالبی دارند.\n\n یک لیست طولانی از طرفداران دریافت کنید.\n\n وبلاگ ها می توانند به شما در ایجاد یک شبکه قوی کمک کنند.\n\n حفظ یک وبلاگ می تواند به شما در بهبود مهارت های فنی خود در وردپرس، سئو و غیره کمک کند.\n\n فروش آنلاین - وبلاگ ها می توانند یک فروشگاه مجازی عالی باشند.\n\n خود را بیان کنید - وبلاگ نویسی راهی عالی برای به اشتراک گذاشتن ایده های خود از طریق ابزارهای الهام بخش است.\n\n وبلاگ نویسی یک راه آسان و در عین حال مطمئن برای ایجاد اعتماد آنلاین است."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.mobile.fanavari">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="فناوری موبایل طی چند دهه اخیر رشد چشمگیری داشته است. سفر از تلفن بی‌سیم بی‌حجم به گوشی هوشمند شیک با تعدادی از نوآوری‌ها و اکتشافات شگفت‌انگیز همراه شده است. با استفاده از تلفن های همراه 3G که امروزه در دسترس است، کاربران می توانند کارهای بسیار بیشتری با تلفن های هوشمند خود انجام دهند تا فقط ارسال پیام صوتی یا پیامک. آنها می توانند وب را مرور کنند، آب و هوا را بررسی کنند، کتابی بخوانند، فهرستی از کارها تهیه کنند، موسیقی مورد علاقه خود را با خود حمل کنند، راه خود را در یک شهر جدید با GPRS بیابند و کارهای بیشتری انجام دهند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" فناوری بازاریابی موبایلی و دسترسی"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در چنین سناریویی، هر فرد تجاری که مایل به تمرین تکنیک بازاریابی تلفن همراه است، باید در مورد 5 روش برتر زیر که در آن فناوری های تلفن همراه نحوه تعامل کاربران با دستگاه های تلفن همراه را تغییر داده اند آگاه باشد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" دسترسی در هر مکان و هر زمان"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بر خلاف لپ تاپ ها و دسکتاپ ها، تبلت و دستگاه های تلفن همراه به راحتی قابل حمل هستند. کاربران می توانند در هر زمان و هر مکان در دستگاه های تلفن همراه خود به اینترنت دسترسی داشته باشند و استفاده از لپ تاپ ها را کاهش داده است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اپلیکیشن های موبایل راحت تر از وب سایت ها هستند"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شرکت‌هایی که پایگاه مشتری آنلاین دارند، به‌عنوان مثال درگاه‌های تجارت الکترونیک، متوجه شده‌اند که فروش و اشتراک‌هایی که از برنامه‌هایشان دریافت می‌کنند در مقایسه با وب‌سایت‌هایشان بیشتر است. این بدان معناست که خرید آنلاین از تلفن همراه آسان تر است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تبلیغات باید شخصی سازی شوند"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اکثر کاربران احساس می کنند که تلفن همراه بیشتر از لپ تاپ یا دسکتاپ دستگاه شخصی است. بنابراین آنها انتظار دارند که محتوایی که در تلفن همراه خود دریافت می کنند نیز باید شخصی سازی شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" رسانه های اجتماعی یک کانال اصلی هستند"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مشتریان شما چه متخصصان کسب و کار، چه دانش‌آموز، خانه‌ساز، نوجوان و غیره باشند، معمولاً بیش از 3 ساعت در هفته را در کانال‌های رسانه‌های اجتماعی مانند توییتر، فیس‌بوک و غیره می‌گذرانند. با کمال تعجب، اکثر این مشتریان به این کانال‌ها دسترسی دارند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" موبایل ها در حال تبدیل شدن به مینی کامپیوترها هستند"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به آرامی اما مطمئناً تکنسین‌ها و توسعه‌دهندگان تلفن‌های همراه را با ویژگی‌های کامپیوتری پر می‌کنند. با صفحه نمایش بزرگتر، عملکرد سریعتر، ظرفیت ذخیره سازی بهینه، عمر باتری بیشتر، و تعداد زیادی برنامه افزایش بهره وری. تکامل تلفن‌ها از یک دستگاه تماس ساده به رایانه‌های جیبی چند کاره، جهان را متحول کرده است."/>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

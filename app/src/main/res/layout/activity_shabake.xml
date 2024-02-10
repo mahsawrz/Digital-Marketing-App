@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.mobile.shabake">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="پلتفرم های رسانه های اجتماعی نقشی حیاتی در عصر امروز ایفا می کنند. چت کردن، توییت کردن، کامنت گذاشتن و لایک کردن نظرات دیگران به یک تمرین معمولی تبدیل شده است. با استفاده از این مزیت، بسیاری از مشاغل محصولات و خدمات خود را با استفاده از رسانه های اجتماعی به عنوان یک کانال تبلیغ می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی شبکه های اجتماعی موبایلی چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بازاریابی شبکه های اجتماعی موبایلی یک تکنیک بازاریابی از طریق رسانه های اجتماعی در دستگاه های تلفن همراه است. تحقیقات نشان می دهد که نزدیک به 71 درصد از کاربران به رسانه های اجتماعی از طریق دستگاه های تلفن همراه دسترسی دارند. دستگاه‌های تلفن همراه از دسک‌تاپ لپ‌تاپ‌ها استفاده می‌کنند، زیرا برای کاربران مفید هستند. بنابراین، آنها را به یک کانال عالی برای تبلیغات تبدیل می کند و همچنین رسانه های اجتماعی تحت تأثیر آنها قرار می گیرند. تبلیغ‌کنندگان دستگاه‌های تلفن همراه را قانع‌کننده‌تر از وب می‌دانند و آن را رسانه‌ای عالی برای بازاریابی می‌دانند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی رسانه های اجتماعی موبایل چگونه کار می کند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با استفاده از نکات زیر یک خط مشی رسانه اجتماعی موبایلی عالی ایجاد کنید :"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مشتریان خود را با عنوان، تصویر یا خط پانچ جذاب شگفت زده کنید.\n\n رسانه های بصری مانند تصاویر و ویدیوها را از طریق پلتفرم های اجتماعی به اشتراک بگذارید.\n\n کاربران رسانه های اجتماعی را از طریق اپلیکیشن موبایل خود جذب کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مزایای بازاریابی شبکه های اجتماعی موبایلی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="رسانه های اجتماعی بر روی هر دستگاه تلفن همراه، صرف نظر از اندازه و فناوری ذاتی آنها می درخشد. می‌توانید از جنبه‌های زیر از شبکه‌های اجتماعی برای دستیابی به پایگاه مشتریان بزرگ‌تر استفاده کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="راحتی - مردم شبکه های اجتماعی تلفن همراه را روی دسکتاپ مفید می یابند. اکنون به یک روند برای توییت کردن یا به روز رسانی وضعیت از طریق تلفن های هوشمند تبدیل شده است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="صمیمیت - به مشتریان احساس لمس شخصی را ارائه می دهد. مردم گوشی های هوشمند را به عنوان دارایی شخصی می دانند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="دسترسی گسترده تر - وجود دستگاه های تلفن همراه بسیار گسترده تر و دورتر از هر دستگاه دیگری از نوع مشابه است. بنابراین، میزان بیشتری از قرار گرفتن در معرض را برای شما فراهم می کند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="پاسخ سریع - پاسخ مشتریان بسیار سریعتر است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="استراتژی خوب تعریف شده - بازاریابی موبایلی می تواند استراتژی های بسیار خوبی از طریق رسانه های اجتماعی باشد و مشتریان هدف را می توان از طریق داده های جمعیت شناختی بدست آورد. این ممکن است به شما تصوری از رفتار مخاطب بدهد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اقدام در زمان واقعی - شما اقدامات زمان واقعی را دریافت می کنید. این به شما فرصتی می دهد تا روی عوامل خاصی تمرکز کنید و جنبه های دیگر را بهبود بخشید."/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.digital.google">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="کلمات پیشنهادی گوگل یا Google AdWords بازاری است که در آن شرکت ها هزینه می پردازند تا وب سایت آنها بر اساس کلمات کلیدی با بهترین نتایج جستجوی ارگانیک رتبه بندی شود. اصل اساسی این است که شما انتخاب می کنید برند خود را بر اساس کلمات کلیدی تبلیغ کنید. کلمه کلیدی کلمه یا عبارتی است که کاربر جستجو می کند و سپس تبلیغ شما را می بیند. تبلیغات شما فقط برای کلمات کلیدی که انتخاب می کنید نمایش داده می شود. گوگل کلیک های روی تبلیغات شما را می شمارد و برای هر کلیک از شما هزینه دریافت می کند. آنها همچنین تعداد بازدیدها را می شمارند، که به سادگی عددی است که به شما می گوید زمانی که کاربران آن کلمه کلیدی را جستجو کرده اند، تبلیغ شما قبلاً چند بار نشان داده شده است. اگر کلیک ها را بر نمایش ها تقسیم کنید، نرخ کلیک یا CTR دریافت می کنید. این درصد کاربرانی است که در صفحه تبلیغاتی شما قرار می گیرند، زیرا روی تبلیغ شما کلیک کرده اند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="کلمات پیشنهادی گوگل را یک خانه حراج در نظر بگیرید. شما یک بودجه و یک پیشنهاد تعیین می کنید. قیمت پیشنهادی تعیین می کند که شما مایل به پرداخت به ازای هر کلیک هستید. اگر حداکثر قیمت پیشنهادی شما 2 دلار باشد، گوگل فقط آگهی شما را به مردم نشان می دهد، در صورتی که دیگران به طور متوسط قیمت بیشتری ارائه نمی دهند. گوگل فقط نمی‌خواهد تبلیغات را با بالاترین قیمت پیشنهادی به مردم نشان دهد، آن‌ها آنقدر به کاربران خود اهمیت می‌دهند که ترجیح می‌دهند تبلیغ مرتبط‌تر و بهتری را توسط شخصی که هزینه کمتری می‌پردازد به آنها نشان دهند. بنابراین : تبلیغات با کیفیت + پیشنهاد خوب = برنده شوید!"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک حساب Google AdWords ایجاد کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای ایجاد یک حساب Google AdWords،ازwww.adwords.google.comبازدید کنید. از آنجا حساب خود را ایجاد می‌کنید و اولین کمپین خود را راه‌اندازی می‌کنید. مطابق مراحل گفته شده : مرحله 1 نوع و نام کمپین خود را انتخاب کنید./ مرحله 2 مکان جغرافیایی را انتخاب کنید که می‌خواهید تبلیغات در آن نمایش داده شود. /مرحله 3 استراتژی پیشنهادی خود را انتخاب کنید و بودجه روزانه خود را تعیین کنید. استراتژی پیشنهادی پیش‌فرض را به من به‌صورت دستی قیمت‌ها را برای کلیک‌ها تنظیم می‌کنم تغییر دهید. این به شما کنترل بیشتری می‌دهد و به شما کمک می‌کند AdWords را در سطح بیشتری از درک یاد بگیرید./ مرحله 4     اولین گروه تبلیغاتی خود را ایجاد کنید و اولین تبلیغ خود را بنویسید. هنگامی که عنوان شامل کلمه کلیدی مورد جستجوی آنها می شود، افراد بیشتری روی تبلیغات کلیک می کنند. بنابراین در صورت امکان از کلمات کلیدی خود در عنوان خود استفاده کنید. مرحله 5 کلمات کلیدی خود را در قسمت کلمه کلیدی حساب خود وارد کنید. کلمات کلیدی خود را بچسبانید. فقط با یک مجموعه شروع کنید و علائم مثبت (+)، براکت ([ ]) و نقل قول اضافه کنید تا ببینید دقیقاً چه تعداد جستجو از هر نوع دریافت خواهید کرد./ مرحله 6 حداکثر هزینه به ازای هر کلیک خود را تنظیم کنید. حداکثر قیمت هر کلیک خود را تنظیم کنید (به نام پیشنهاد پیش فرض). با این حال، این را بدانید: هر کلمه کلیدی از نظر تئوری بازار متفاوتی است، به این معنی که هر یک از کلیدواژه‌های اصلی شما به قیمت پیشنهادی خود نیاز دارند. گوگل به شما اجازه می دهد تا بعداً برای هر کلمه کلیدی قیمت های جداگانه تعیین کنید./ مرحله 7 اطلاعات صورتحساب خود را وارد کنید!"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

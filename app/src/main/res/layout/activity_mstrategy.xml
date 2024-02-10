@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.mobile.mstrategy">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مردم از تلفن همراه خود نه تنها برای حفظ ارتباط، بلکه برای مطالعه نقد و بررسی محصولات، اطلاع از محصولات جدید در بازار و البته خرید آنلاین استفاده می کنند. در چنین شرایطی، توسعه یک استراتژی بازاریابی تلفن همراه با طراحی ماهرانه برای تجارت شما مهم است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" استراتژی بازاریابی موبایلی چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="قبل از شروع توسعه یک استراتژی بازاریابی تلفن همراه، باید بفهمید که چگونه با سایر برنامه های بازاریابی شما مطابقت دارد. این به شما کمک می کند تا بفهمید چه چیزی برای تجارت شما مهم است. آیا برندسازی محصول یک هدف فعلی است؟ یا جذب مشتری و تولید سرنخ یک کار اولویت دار است؟ شاید هیچ یک از اینها و بیشتر در مورد تعامل رسانه های اجتماعی و بازاریابی ویروسی نباشد. هر چه که باشد، شما باید استراتژی بازاریابی خود را با اولویت های فعلی شرکت خود هماهنگ کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تحقیق برای اطلاعات "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تحقیقات بازار مرتبط با کسب و کار شما اولین قدم است. در اینجا چند نکته در مورد نوع تحقیقی که باید انجام دهید وجود دارد : تحقیق کنید که چگونه بازاریابی موبایلی در صنعت شما انجام می شود، می توانید به انجمن های آنلاین بپیوندید یا با شخصی شریک شوید. جمع آوری داده های مرتبط با محصول یا خدمات خود مانند مطالعات موردی، گزارش های تجزیه و تحلیل تحقیقات، کاغذهای سفید و غیره؛ با گشت و گذار در وب سایت ها، بیانیه های مطبوعاتی، کمپین آنلاین و غیره، یک تحلیل مقایسه ای انجام دهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مخاطب هدف خود را شناسایی کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شناسایی مخاطبان هدف و انتخاب های آنها به شما کمک می کند تا تصمیمات بهتری بگیرید و کمپین بازاریابی موفقی را توسعه دهید. در زیر سه مرحله مهمی وجود دارد که باید هنگام شناسایی مخاطبان هدف خود دنبال کنید"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="فهرستی دقیق از مشتریان بالقوه تهیه کنید و نام و هویت واقعی به آنها بدهید.\n\n انجام نظرسنجی های آنلاین، ایمیل های مشتریان و غیره برای درک اینکه آنها چه سوالاتی دارند.\n\n با تجسم ویژگی های خاص مانند سن، حرفه، وظیفه ای که انجام می دهند و غیره، شخصیت های مشتری ایجاد کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اهداف خود را مشخص کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آنچه می خواهید با تلاش های بازاریابی خود به دست آورید یکی از مهمترین سؤالات است. بودجه ای که به بازاریابی اختصاص می دهید و کانال هایی که برای بازاریابی محصول و خدمات خود انتخاب می کنید را تعیین می کند. شما باید آن را به وضوح تعریف کنید که می خواهید چه کاری انجام دهید. آیا فروش بیشتری دارد؟ یا آگاهی از برند بیشتر است؟ ترسیم اهداف و اهداف شما سنگ بنای استراتژی بازاریابی شما است."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

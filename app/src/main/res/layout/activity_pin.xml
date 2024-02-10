@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.digital.pin">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+               android:text="پینترست به مردم کمک می کند تا چیزها را به روشی ساده و بصری کشف کنند. سنجاق‌کنندگان ممکن است هنگام مرور تابلوهای شما، پیمایش در دسته‌ای که در آن فهرست شده‌اید یا مستقیماً شما را جستجو می‌کنند، چیزی را پیدا کنند که دوست دارند." />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پین‌های Pinterest "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در Pinterest، هر پین یک ایده است - یک هدیه، دستور غذا، یا حتی یک نقل قول. آنها همیشه به سایت هایی اشاره می کنند که از آنها آمده اند (مانند سایت شما!) اگر دکمه ذخیره را به سایت خود اضافه کنید، مردم می توانند از آن برای افزودن محتوای شما به Pinterest استفاده کنند. پین های پینترست 100 برابر بیشتر از یک توییت قابل پخش هستند و میانگین بازتوییت تنها 1.4٪ است. و همانطور که برای فیس بوک، نیمه عمر یک پین 16000 برابر بیشتر از یک پست فیس بوک است. تابلوها جایی هستند که افراد پین های خود را جمع آوری و سازماندهی می کنند. هر تخته یک داستان منحصر به فرد در مورد آنچه که آن شخص به آن اهمیت می دهد را بیان می کند. افراد می توانند تابلوهایی را که پین آنها را دوست دارند دنبال کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" حساب تجاری Pinterest "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر قبلاً حساب کاربری ندارید، یا اگر حساب شما شخصی است، برای استفاده از پتانسیل کامل Pinterest، باید برای یک حساب رسمی پینترست برای کسب و کار ثبت نام کنید. با ایجاد یک حساب تجاری، به Pinterest Analytics نیز دسترسی خواهید داشت، یکی از جدیدترین و عالی ترین ویژگی های حساب تجاری Pinterest. هنگامی که حساب خود را تأیید می کنید، به اطلاعات مهم ردیابی دسترسی پیدا می کنید. می‌توانید ببینید کدام استراتژی‌ها و محتوا کار می‌کنند، بنابراین می‌توانید به طور مداوم بازاریابی خود را بهبود ببخشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" قوانین Pinterest را باید رعایت کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وقتی نوبت به استراتژی اصلی بازاریابی پینترست می‌شود، همیشه باید از مجموعه قوانینی که در اینجا بحث شده است پیروی کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تخته ها را تمیز و منظم نگه دارید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بخش بزرگی از محبوبیت Pinterest بر اساس ساختار تمیز و سازمان یافته آن است. حتی با تخته های بزرگ با محتوای زیاد، به طور طبیعی برای چشم خوشایند و به راحتی قابل هضم است. این به معنای ایجاد تابلوهای متعدد است که در آن محتوا بر اساس دسته بندی تقسیم می شود تا محتوای مرتبط با هم جمع شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پین کردن تصاویر قابل اشتراک گذاری "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هدف یک کمپین پینترست این است که با تکرار، لایک، کامنت و فالوورهای جدید، بیشترین نمایش ممکن را داشته باشد. بخش بزرگی از این کار حول محور پین کردن تصاویری است که برای مردم جذاب است و می‌خواهند به اشتراک بگذارند. از آنجایی که این یکی از تصویر محورترین شبکه های اجتماعی است، سعی کنید تصاویر جذابی را بر اساس روانشناسی کاربر پین کنید. تحقیقات نشان داده است که تصاویر با چندین رنگ غالب عملکرد خوبی دارند و تصاویر مایل به قرمز بهتر از تصاویر با رنگ آبی هستند. تصاویر روشن بهتر از تصاویر تیره تر عمل می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" افراد مناسب را دنبال کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به دست آوردن برخی از فالوورهای اولیه اغلب یکی از سخت ترین بخش ها است زیرا ایجاد اعتبار زمان می برد. برای سرعت بخشیدن به این فرآیند، دنبال کردن چند پینر مرتبط کمک می کند. این سودمند است زیرا هر فردی که دنبال می‌کنید مطلع می‌شود، که می‌تواند فوراً در معرض دید قرار بگیرد. با فرض اینکه محتوای باکیفیتی دارید، تعداد قابل توجهی از این افراد تمایل دارند شما را دنبال کنند. هنگامی که چند فالوور به دست می آورید، یک اثر انباشته وجود دارد که در آن تعداد فالوورهای شما همچنان افزایش می یابد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" فرکانس سنجاق "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="این مهم است که تعادل مناسب سنجاق را پیدا کنید! زیاده روی می تواند فالوورهای شما را آزار دهد، خیلی کم و فراموش خواهید شد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" محتوایی را که با مخاطبان شما مطابقت دارد پین کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="غذا، صنایع دستی و زیبایی در پینترست واقعاً خوب عمل می کنند، اما مقوله ای که به برند شما مربوط نمی شود را مجبور نکنید فقط تلاش کنید و تاثیرگذاری کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" محتوای منحصر به فرد برای Pinterest ایجاد کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اندازه تصویر در کانال های رسانه های اجتماعی متفاوت است. در پینترست، همه پین ها دارای عرض یکسان و با طول نامحدود هستند. اندازه خوب برای عکاسی 736×1102 پیکسل برای یک پین معمولی است. نه خیلی بزرگ است و نه خیلی کوچک."/>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

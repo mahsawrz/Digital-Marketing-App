@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toosi"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Digital Marketing"
+        android:drawableRight="@drawable/ic_baseline_circle_24"
+        android:drawableLeft="@drawable/ic_baseline_circle_24"
+        android:fontFamily="@font/iaccent"
+        android:textAlignment="center"
+        android:textColor="@color/red"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="دیجیتال مارکتینگ یک مفهوم بسیار گسترده‌ است که مانند یک چتر، تعداد بسیار زیادی از روش‌های بازاریابی دیگر را دربر می‌گیرد .  از جمله روش های ذکر شده :"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text=" بازار آمازون\n بازاریابی محتوا\n بازاریابی دیجیتال\n بازاریابی ایمیل\n بازاریابی فیس بوک\n بازاریابی گوگل پلاس\n بازاریابی اینستاگرام\n بازاریابی موبایل\n بازاریابی رسانه های اجتماعی\n بازاریابی توییتر\n بازاریابی یوتیوب"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="19sp"
+                android:text=" تمامی مطالب ذکر شده از سایت www.tutorialspoint.com و از کتابخانه Digital Marketing  مورد استفاده و ترجمه قرار گرفته  است."/>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+        </LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.google.binesh">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گوگل پلاس یک شبکه اجتماعی قدرتمند است و این پتانسیل را دارد که بازدیدکنندگان بیشتری را به سمت کسب و کار ما بکشاند. در زیر چند استراتژی موثر برای جذب کاربران بیشتر وجود دارد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با افزودن یک نشان به وب‌سایت، صفحه Google+‎ را قابل یافتن کنید تا کاربران آن را با یک کلیک پیدا کنند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="حلقه ها را به صورت استراتژیک ایجاد کنید. سازماندهی روابط در حلقه ها سعی کنید یکی در اطراف موضوع ایجاد کنید. افراد مرتبط را جستجو کنید و برای افزودن به حلقه های خود پست کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مطالب جذاب ارسال کنید محتوای اصیل و خوب بدون شکست ترافیک زیادی را جذب می کند. در صورت لزوم تصاویر بصری را اضافه کنید. اطلاعات زیادی را برای به حداکثر رساندن خوانندگان اضافه کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از هشتگ در +Google استفاده کنید. این به یافتن آسان مطالب مرتبط کمک می کند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای تقویت تعامل با مردم تعامل کنید. فعالانه به پرسش‌ها و نظرات بازگردید. سوال و نظر بپرسید. این به کاربران این احساس را می دهد که بخشی از تجارت هستند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به جوامع بپیوندید برای آوردن ترافیک به صفحه، بخشی از جوامع باشید تا با مخاطبان ارتباط برقرار کنید. به طور منظم بدون شکست شرکت کنید. این یک خط ارتباط مستقیم با مردم باز می کند."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

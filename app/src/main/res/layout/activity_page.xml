@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.facebook.page">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اقداماتی که در یک حوزه عمومی انجام می دهید، نحوه درک مردم از شما را شکل می دهد. مهم نیست که چقدر سعی می کنیم این واقعیت را نادیده بگیریم، مردم دیگران را بر اساس آنچه می بینند قضاوت می کنند. آنها ممکن است شما را بر اساس اعمال شما قضاوت کنند. این با اقداماتی که در پلتفرم رسانه های اجتماعی انجام می دهید آشکارتر شده است. پست هایی که به اشتراک می گذارید، عکس هایی که آپلود می کنید و محتوایی که به اشتراک می گذارید بر برندسازی شخصی شما تأثیر می گذارد. همیشه مهم است که استراتژی ایجاد کنید که با روشی که می خواهید نشان داده شوید، همسو باشد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" خودت را تعریف کن "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای اینکه خودتان را تعریف کنید، باید بفهمید که چگونه می خواهید به صورت آنلاین نماینده شوید. این باید در تمام پلتفرم ها با تمام پروفایل های رسانه های اجتماعی شما سازگار باشد. مهمترین بخش در تعریف خود واقعی بودن است. یک راه عالی برای انجام این کار این است که به این فکر کنید که چه کسی هستید و لیستی از علایق خود و بهترین ویژگی هایی که شما را مشخص می کند ایجاد کنید. به این ترتیب شما از قبل برنامه ریزی می کنید و اطمینان حاصل می کنید که اقدامات شما مطابق با نحوه درک شما خواهد بود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" به استراتژی برندسازی فکر کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="همانطور که برای یک صفحه نمایه شخصی خنده دار به نظر می رسد، شما یک برند هستید. هنگامی که شخصی وارد صفحه نمایه شما می شود، مطالب، پست ها، تصاویر و ویدیوهای ارسال شده در صفحه شما را بررسی می کند. شما باید تجزیه و تحلیل کنید که چگونه درک می شوید و برند فعلی شما چیست. می توانید به پست های قبلی خود، بازی هایی که به آنها وابسته هستید و صفحاتی که دوست داشته اید نگاه کنید. ببینید آیا اینها واقعاً با استراتژی شما همسو هستند یا خیر. حذف مواردی که ضروری نیستند و مشاهده محتوای مورد علاقه شما به تغییر نام تجاری نمایه شما کمک می کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تنظیمات حریم خصوصی خود را تنظیم کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تنظیم فیلترهای حریم خصوصی شما بسیار مهم است زیرا تضمین می‌کند که کنترل‌هایی را روی افرادی که اطلاعات موجود در نمایه شما را می‌بینند تنظیم کرده‌اید. بسته به آنچه می‌خواهید افراد مختلف ببینند، می‌توانید انتخاب کنید چه کسی دسترسی محدود و چه کسی دسترسی کامل به نمایه شما داشته باشد. شما می توانید افرادی را که با آنها دوست نیستید انتخاب کنید تا فقط اطلاعات بسیار محدودی را مشاهده کنند. برای مثال، می‌توانید انتخاب کنید که فقط برخی از اطلاعات اولیه و سابقه کاری را به افرادی که شما را نمی‌شناسند نشان دهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تمام جزئیات حرفه ای را پر کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="فیس بوک به شما این فرصت را می دهد تا جزئیات حرفه ای و سابقه کاری خود را ایجاد کنید. به جای قرار دادن این موقعیت، می‌توانید تاریخ‌هایی را که کار کرده‌اید و اطلاعاتی درباره کارهایی که در این نقش انجام داده‌اید قرار دهید. هنگامی که شخصی از نمایه شما بازدید می کند تا ببیند شما چه کسی هستید، این منطقه راهی عالی برای نشان دادن سابقه کاری شما و به همین ترتیب، تبلیغ برند شخصی شما است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" شبکه و پایگاه دوستی خود را افزایش دهید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="می‌توانید با شرکت در مکالمات و پست‌هایی که توسط افراد در شبکه فعلی‌تان و همچنین پست‌هایی در صفحاتی که دوست دارید، ایجاد شبکه کنید و پایگاه دوستان خود را افزایش دهید. با درگیر شدن به روشی معنادار، می‌توانید گفتگو با افراد جدید ایجاد کنید و با افرادی که با آنها در ارتباط هستید در مورد موضوعاتی که مورد علاقه شما هستند بحث کرده و به لیست دوستان فعلی خود اضافه کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایجاد پست / به اشتراک گذاری محتوا"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با انجام این کار، افراد در شبکه فعلی خود را از چیزهایی که مورد علاقه شما هستند آگاه می کنید. این می‌تواند یک نظر، موقعیت‌های فعلی در زندگی شما، عکس‌هایی از مکان‌هایی که بوده‌اید، اطلاعات رویدادی که در آن شرکت کرده‌اید و موارد دیگر باشد. این ممکن است به اشتراک گذاری مقاله یا ویدیویی نیز باشد که برای شما جالب بود. فقط به یاد داشته باشید، هر چیزی که پست می کنید و به اشتراک می گذارید می تواند بر برند شخصی شما تأثیر بگذارد، چه خوب چه بد!"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

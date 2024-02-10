@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">دیجیتال مارکتینگ</string>
+    <string name="title_activity_product">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="osList1">
+        <item>چرا آمازون؟</item>
+        <item>چه چیزی بفروشیم؟</item>
+        <item>روش های حمل و نقل</item>
+        <item>بالاترین سود را دریافت کنید</item>
+        <item>رتبه آمازون شما</item>
+        <item>بهترین شیوه ها</item>
+    </string-array>
+    <string-array name="osList2">
+        <item>مشتری هدف</item>
+        <item>ایجاد محتوا</item>
+        <item>انواع محتوا : ایمیل های چرخه حیات</item>
+        <item>انواع محتوا : مجلات دیجیتال</item>
+        <item>انواع محتوا : برنامه های موبایل</item>
+        <item>انواع محتوا : برنامه های وب</item>
+    </string-array>
+    <string-array name="osList3">
+        <item>بررسی اجمالی</item>
+        <item>رسانه های اجتماعی</item>
+        <item>Pinterest</item>
+        <item>Linkedin</item>
+        <item>Google Adwords</item>
+    </string-array>
+    <string-array name="osList4">
+        <item>لیست پستی</item>
+        <item>اطلاعیه ها</item>
+        <item>محتوا</item>
+        <item>از قرار گرفتن در لیست سیاه خودداری کنید</item>
+        <item>UPS</item>
+    </string-array>
+    <string-array name="osList5">
+        <item>راه اندازی صفحه پروفایل</item>
+        <item>برندسازی شخصی</item>
+        <item>شناسایی اهداف</item>
+        <item>پست های با کیفیت</item>
+        <item>ایجاد طرفدار</item>
+        <item>ترفندها</item>
+    </string-array>
+    <string-array name="osList6">
+        <item>تنظیم صفحه کسب و کار</item>
+        <item>جوامع</item>
+        <item>تعامل کاربر را تقویت کنید</item>
+        <item>بهینه سازی یک صفحه</item>
+        <item>اتصال با یوتیوب</item>
+    </string-array>
+    <string-array name="osList7">
+        <item>استراتژی کسب و کار</item>
+        <item>نصب و ثبت نام</item>
+        <item>ارسال و تعامل</item>
+        <item>بررسی فعالیت</item>
+        <item>ابزارها و برنامه ها</item>
+    </string-array>
+    <string-array name="osList8">
+        <item>فناوری موبایل و دسترسی</item>
+        <item>استراتژی های بازاریابی موبایل</item>
+        <item>استراتژی های بازاریابی اپلیکیشن های موبایل</item>
+        <item>بازاریابی شبکه های اجتماعی موبایلی</item>
+        <item>درک کاربران موبایل</item>
+    </string-array>
+    <string-array name="osList9">
+        <item>معرفی</item>
+        <item>بازاریابی ویدئویی</item>
+        <item>نشانه گذاری اجتماعی</item>
+        <item>بهینه سازی تصویر</item>
+        <item>وبلاگ نویسی</item>
+    </string-array>
+    <string-array name="osList10">
+        <item>دنبال کننده ها</item>
+        <item>هشتگ ها</item>
+        <item>ویژگی های مفید</item>
+        <item>مدیریت شهرت</item>
+        <item>مدیریت تبدیل ها</item>
+    </string-array>
+    <string-array name="osList11">
+        <item>ویدیوی خلاقانه ایجاد کنید</item>
+        <item>ایجاد ریز عکسها</item>
+        <item>از ویدیوی خود کسب درآمد کنید</item>
+        <item>ترفندهای بازاریابی</item>
+        <item>تنظیمات ایمنی</item>
+    </string-array>
+
+
+</resources>

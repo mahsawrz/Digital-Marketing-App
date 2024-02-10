@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.youtube.tarfand">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگام تبلیغ یک ویدیوی YouTube، می‌توانید نکات اساسی را در نظر داشته باشید تا دید ویدیوهای خود را افزایش دهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" از تصاویر کوچک ویدیویی جذاب استفاده کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:lineSpacingExtra="7dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="باور کنید یا نه، من هنوز می بینم که بسیاری از آنها هنگام ایجاد ویدیو در YouTube از آن استفاده نمی کنند. حقیقت این است که شما به راهی برای جلب توجه بینندگان از نتایج جستجو نیاز دارید تا آنها را وادار کنید حتی ویدیوی شما را تماشا کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پیوند شما باید حاوی (//:http) باشد "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ساده به نظر می رسد، اما بسیاری از مردم قایق را در این تنگ می کنند. اگر می‌خواهید افراد روی وب‌سایت شما کلیک کنند، باید مطمئن شوید که پیوندی که ارائه می‌دهید قابل کلیک است. اگر این کار را انجام ندهید، ترافیک زیادی را به سایت خود از دست خواهید داد.\n\n به عنوان مثال، هنگامی که پیوندی مانند  www.yourwebsite.com را در توضیحات ویدیوی خود قرار می دهید، دیگر قابل کلیک نیست.\n\n در عوض، پیوند شما باید http://yourwebsite.com باشد. این به یک لینک واقعی قابل کلیک تبدیل می شود که افراد می توانند از سایت شما بازدید کنند.هر ویدیویی را که آپلود می کنید به یک لیست پخش مبتنی بر کلمات کلیدی اضافه کنید.\n این نکته مهمی است که بسیاری از مردم نمی دانند. فقط به خاطر داشته باشید که هر کاری که انجام می دهید باید با ایده افزایش ترافیک و بازدید از ویدیوهایتان باشد.\n\n بهترین راه برای انجام این کار، ایجاد ویدیوهای بسیار متمرکز بر اساس کلمات کلیدی مرتبط است. اما ویدئوهای متمرکز بر کلمه کلیدی باید به لیست های پخش متمرکز بر کلمه کلیدی اضافه شوند. چرا؟ زیرا لیست های پخش می توانند در موتورهای جستجو رتبه بندی شوند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" همیشه یک «تماس برای اقدام» در ویدیوهای خود بگنجانید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هر ویدیویی که ایجاد می‌کنید باید نوعی فراخوان برای اقدام داشته باشد. در پایان ویدیو به مخاطبان خود بگویید که می خواهید چه کاری انجام دهند. (به بخش دکمه تماس ویدیویی YouTube مراجعه کنید)"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" کیفیت صدای خود را بررسی کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مهم است که کیفیت صدای ویدیوهای خود را بررسی کنید. همیشه به خاطر داشته باشید که اگرچه خود ویدیو مهم است، صدا نیز مهم است. در نظر داشتن صدای خود هنگام ایجاد ویدیوهای خوب، تنها به تجربه کلی بیننده می‌افزاید. امروزه تهیه یک میکروفون با کیفیت بالا کار سختی نیست و بسیار ارزان است."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/bg.xml" value="0.143" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/bgshape.xml" value="0.1675" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/bgshapee.xml" value="0.143" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/default_dot.xml" value="0.144" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_light_mode_24.xml" value="0.174" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.156" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.174" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.174" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_smartphone_24.xml" value="0.143" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/ic_baseline_sms_24.xml" value="0.174" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/selected_dot.xml" value="0.144" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/drawable/tab_selector.xml" value="0.144" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/aboutus.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_act.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_app.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_binesh.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_block.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_blog.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_bussines.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_cheraamazon.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_community.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_content.xml" value="0.16822916666666668" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_contents.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_creative.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_customer.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_daramad.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_dark.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_email.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_etela.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_fan.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_fanavari.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_followers.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_forosh.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_google.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_haml.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_harz.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_hashtag.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_home1.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_how.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_image.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_img.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_install.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_introduction.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_link.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_link2.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_list.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_magazine.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_mobile.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_mstrategy.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_mydatabase.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_one.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_opage.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_opt.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_overview.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_page.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_pin.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_post.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_ppc.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_process.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_profile.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_rotbe.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_safety.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_send.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_seo.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_shabake.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_shive.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_shohrat.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_social.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_society.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_sood.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_strategy.xml" value="0.1111111111111111" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_tabdil.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_tarfand.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_target.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_temp.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_test.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_testing.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_third.xml" value="0.22" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_tmp.xml" value="0.12169312169312169" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_tool.xml" value="0.1286549707602339" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_trick.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_unit.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_usefull.xml" value="0.1164021164021164" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_video.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_view_mydatabase.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_web.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_weba.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/activity_why.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/content_opt.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/content_scrolling.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/content_seo.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/content_web.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/custom_layout.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/eight.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/eleven.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/five.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/four.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/home0.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/nine.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/one.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/optimal_activity.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/row_layout.xml" value="0.33" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/selected_dot.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/seven.xml" value="0.1" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/six.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/slidingimages_layout.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/ten.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/three.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/layout/two.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/menu/main_menu.xml" value="0.18333333333333332" />
+        <entry key="..\:/androidprojectTest/MyStartop/app/src/main/res/menu/menu_unit.xml" value="0.18333333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

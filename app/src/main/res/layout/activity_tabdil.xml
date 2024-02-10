@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.twitter.tabdil">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ردیابی تبدیل برای بازاریابی توییتر حیاتی است. هنگامی که کمپینی را اجرا می کنید که کاربران توییتر را به وب سایت شما متصل می کند، ردیابی تبدیل به شما کمک می کند تا بفهمید کاربران پس از ورود به وب سایت شما از توییت های شما چه اقداماتی انجام می دهند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اهمیت ردیابی تبدیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با ردیابی تبدیل می توانید :\n\n دقیقاً ببینید که هزینه های شما چگونه به اهداف خاصی کمک می کند، از خرید تا بازدید از محصولات خاص یا صفحات فرود وب سایت شما.\n\n بدانید که کدام تبلیغات دقیقاً در جایی که اهمیت دارد بیشترین تأثیر را دارد: زمانی که زمان خرید است. شما می توانید با ایجاد تبلیغات مشابه در آینده بهینه سازی کنید و بودجه بیشتری را به کمپین های با بالاترین عملکرد خود اختصاص دهید.\n\n نحوه تعامل مشتریان با تبلیغات شما در دستگاه‌ها را درک کنید. اگر شخصی کارت وب‌سایت شما را در تلفن همراه ببیند و در وب‌سایت شما از دسکتاپ خرید کند، می‌توانید این دو اقدام را به سفر یک مشتری متصل کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" راه اندازی ردیابی تبدیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در اینجا نحوه تنظیم ردیابی تبدیل آمده است :\n\n وارد تبلیغات توییتر شوید. منوی کشویی Tools را انتخاب کنید.\n\n روی Conversion tracking کلیک کنید.\n\n روی Create new website tag کلیک کنید.\n\n یک نام توصیفی برای تگ وب سایت وارد کنید.\n\n نوع تبدیلی را که می‌خواهید ردیابی کنید (بازدید از سایت، خرید، دانلود و غیره) انتخاب کنید.\n\n کادر «ایجاد مخاطب متناسب» را علامت بزنید که کاربرانی را که به محتوای شما به عنوان «مخاطب» پاسخ می‌دهند و سایر کاربرانی که حساب توییتر دارند و از صفحه شما بازدید می‌کنند، ثبت می‌کند. به این ترتیب، می توانید آنها را با کمپین های بازاریابی آینده هدف قرار دهید.\n\n برای تغییر بازه زمانی که یک تبدیل می‌تواند انجام شود و در داده‌های ما منعکس شود، از منوی نمایش تنظیمات تبدیل استفاده کنید. پیش فرض روی 30 روز تنظیم شده است که توصیه می شود.\n\n بر روی Save Tag کلیک کنید و قطعه کد را ایجاد کنید.\n\n برچسب وب سایت را در کد HTML صفحه ای که می خواهید ردیابی کنید قرار دهید. (اگر اعتماد به نفس ندارید، می توانید از یک توسعه دهنده وب برای انجام این کار کمک بگیرید). پس از اینکه شخصی برای اولین بار از صفحه ردیابی شده شما بازدید کرد، برچسب شما در تب ردیابی تبدیل در تبلیغات توییتر تأیید می شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بهترین روش های ردیابی تبدیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در اینجا چند بهترین روش برای ردیابی تبدیل ها وجود دارد :\n\n هر صفحه ای را که در آن تبدیل ممکن است انجام شود (از جمله صفحات تلفن همراه شما) را تگ کنید تا داده ها را از هر مسیری که مشتری می تواند طی کند، بدست آورید.\n\n همانطور که برچسب‌ها را قرار می‌دهید، به مخاطبان خاصی فکر کنید که باید در آینده برای آنها بازاریابی مجدد کنید. برای هر مخاطب (بازدیدکنندگان صفحه تبلیغاتی، افرادی که در تلفن همراه هستند، و غیره) یک برچسب متفاوت تنظیم کنید تا لیست مخاطبان تمیز و مفیدی برای هدف گیری داشته باشید.\n\n صفحه تجزیه و تحلیل شما انواع تگ ها را گروه بندی می کند. بنابراین، تمام داده‌های تگ‌های خرید با هم در نمای تبدیل گروه‌بندی می‌شوند.\n\n با کلیک بر روی هر تبدیل می توانید برچسب های خاصی را مشاهده کنید."/>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

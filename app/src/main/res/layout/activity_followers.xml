@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.twitter.followers">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از آنجایی که همه چیزهایی که در توییتر به اشتراک گذاشته می‌شود در مالکیت عمومی باقی می‌ماند، از نظر فنی همه صدایی دارند و می‌توانند در توییتر پیدا شوند. با این حال، با انتخاب فالوورهای مناسب، واقعاً توسط مخاطبان انبوه شنیده می‌شوید. مانند هر دوستی، یک رابطه خوب در توییتر با شرکت در مکالمات، اطلاعات اساسی و دادن به جامعه به دست می آید. اگرچه به راحتی می توان تعداد فالوورهای شما را درگیر کرد، اما این واقعاً فرصتی است که اغلب اوقات کیفیت می تواند از کمیت بالاتر باشد. درک این نکته مهم است که انگیزه های زیادی برای شرکت در جامعه توییتر وجود دارد - اجتماعی شدن، شبکه سازی، بحث، یادگیری، غنی سازی، ترویج و سرگرمی. به احتمال زیاد به بسیاری از این دلایل درگیر شوید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چرا من در توییتر هستم؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="یک سوال واضح که یک دارنده حساب توییتر اغلب به آن می پردازد این است که چرا من در توییتر هستم؟ بهترین راه برای فهمیدن نحوه جستجو، تعریف برخی از کلمات کلیدی است که نوع کاربر توییتر را که می خواهید با آن تعامل داشته باشید، مشخص می کند. این کلیدواژه‌ها باید آن‌هایی باشند که در محتوای توییت استفاده می‌کنید یا امیدوار باشید آن‌هایی که محتوای توییتر شما را می‌خوانند به آنها علاقه مند شوند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="پس از تایپ کلمات کلیدی خود در نوار جستجو، توییت ها به ترتیب زمانی در نتایج جستجو ظاهر می شوند. توجه داشته باشید که در زیر تب گزینه های بیشتر، این فرصت را خواهید داشت که برای راحتی این جستجو را ذخیره کنید. از اینجا شما این فرصت را دارید که محتوا را مرور کنید و در صورت لزوم درباره کاربری که توییت را به اشتراک گذاشته است اطلاعات بیشتری کسب کنید. چیزی که میبینی را دوست داری؟ روی Follow کلیک کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بسته به اینکه چقدر نیازهای بازاریابی شما تخصصی است و جایگاه صنعت شما، غربالگری توئیپ های بالقوه توییتر ممکن است فرآیندی غیرتبعیض آمیز برای جمع آوری تعداد بیشتری از دنبال کنندگان باشد، یا ممکن است کاملا انتخابی برای ایجاد یک مخاطب بسیار سرپرست، فعال و جذاب باشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ملاحظاتی برای دنبال کردن دیگران در توییتر"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ملاحظات در هنگام انتخاب مواردی که باید دنبال شوند (و مواردی که دیگران در هنگام دنبال کردن شما به آنها نگاه می کنند) عبارتند از \n\n آیا بیوگرافی آنها نشان دهنده علایق مشترک است؟\n\n نسبت فالوور به فالوور چقدر است؟ کسانی که تعداد زیادی فالوور دارند، اما تعداد کمی از آنها را دنبال می کنند، کمتر شما را دنبال می کنند.\n\n توییت های آنها چقدر جدید است و آیا اغلب توییت می کنند؟\n\n اگر پاسخ سوالات را دوست دارید، شروع به دوستیابی کنید… روی دنبال کردن کلیک کنید.\n\n توییتر به شما این امکان را می دهد که تا 2000 نفر را بدون محدودیت دنبال کنید. با این حال، پس از رسیدن به این نقطه عطف، باید تعداد معینی از آن‌ها را دریافت کنید تا قبل از اینکه محدودیت فالوور شما افزایش یابد، شما را دنبال کنند."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.youtube.creative">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای رشد و حفظ یک مخاطب وفادار در YouTube آماده هستید؟ با یک پایه خلاقانه و ایده های قوی و قابل اجرا شروع کنید. هنگامی که تصمیم می گیرید چه محتوایی در YouTube بهترین کارایی را داشته باشد، این لیست عالی از ایده ها یا سوالاتی است که قبل از شروع فرآیند ایجاد باید از خود بپرسید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="قابل اشتراک - آیا بینندگان ویدیوهای شما را به اشتراک خواهند گذاشت؟\n\n مکالمه - آیا عنصری برای صحبت مستقیم با مخاطب وجود دارد؟\n\n تعاملی - آیا مخاطب می تواند با محتوا تعامل داشته باشد؟\n\n سازگار - آیا عناصر منسجمی برای هر قسمت وجود دارد؟\n\n هدفمند - آیا مخاطبان مشخصی وجود دارد که ویدیوهای شما هدف آن قرار می گیرند؟\n\n قابل کشف - آیا بینندگان ویدیوهای شما را از طریق جستجو کشف خواهند کرد؟\n\n در دسترس - آیا یک بیننده جدید می تواند از هر قسمت قدردانی کند؟\n\n پایدار - اگر مخاطبان شما آن را دوست دارند، آیا می توانید بیشتر از آن استفاده کنید؟\n\n مشارکتی - آیا در قسمت های شما فضایی برای مهمانان وجود دارد؟"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر ایده محتوای شما با موفقیت آزمایش شود، اکنون زمان آن رسیده است که تصمیم بگیرید از چه تجهیزاتی برای ضبط ویدیو استفاده کنید. انتخاب‌ها شامل همه چیز از تلفن همراه، وب‌کم، دوربین فیلم‌برداری دستی یا نرم‌افزاری است که فعالیت‌های رایانه شما را ثبت می‌کند.\n شما همچنین یک اسکریپت می خواهید. حتی اگر در دوربین خیلی راحت هستید، این کمک خواهد کرد که جریان فیلم در حال حرکت باشد و مطمئن شوید که هیچ یک از نکات کلیدی صحبت را از دست ندهید.\n اکنون زمان ضبط فیلم شماست. هنگامی که به ایده ای برای ویدیوی خود رسیدید، هر کاری را که برای تنظیم و آماده سازی باید انجام دهید، انجام دهید، سپس ویدیو را ضبط کنید. چندین عکس بگیرید و بیشتر از آنچه فکر می کنید نیاز دارید، فیلم بگیرید. حتما در نور خوب فیلم بگیرید و با صدای بلند و واضح صحبت کنید.\n پس از ضبط، باید فایل ویدیویی را مستقیماً به YouTube برای اهداف ویرایش یا به رایانه خود منتقل کنید تا بتوانید از نرم افزار ویرایش مورد نظر خود استفاده کنید. از آنجا، تعداد بی نهایت ابزار برای بهبود تصاویر ویدیوی خود، اضافه کردن موسیقی، برش و کلیپ، و در نهایت انتشار و تبلیغ در YouTube خواهید داشت"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.resane.video">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ما مجبوریم آنچه را که در واقعیت وجود دارد ببینیم. در بازاریابی دیجیتال، آنچه مردم می بینند در واقع به فروش می رسد. این دلیلی است که بازاریابی آنلاین ویدئویی در حال افزایش است. بازاریابی ویدئویی فرآیند استفاده از ویدئو در بازاریابی برای تبلیغ یک کسب و کار یا خدمات است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تاریخچه بازاریابی ویدئویی "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بازاریابی ویدئویی از دهه 1940 یک ماژول تبلیغاتی کلیدی بوده است. اولین تبلیغ ویدیویی در سال 1941 توسط Boluva راه اندازی شد. این یک آگهی تبلیغاتی در یک ایستگاه تلویزیونی نیویورک در جریان بازی یانکی بود. از آن زمان، محبوبیت تبلیغات ویدیویی به طور مداوم در حال افزایش است. در سال 1979، زمانی که ام تی وی ویدیوی «ویدئو ستاره رادیو را کشت» را منتشر کرد، ویدیو رسانه های سنتی را مختل کرد. با بودجه 50000 دلاری در جنوب لندن تولید شد. در سال 1984، اپل یک تبلیغ تلویزیونی نمادین را برای رایانه های شخصی اپل مکینتاش راه اندازی کرد. هزینه تولید آن حدود 900000 دلار بود. سال 1995 سرآغاز Viral Videos بود. یکی از مدیران شرکت Fox Commissions یک کارت ویدیویی کریسمس (Jesus v/s Santa) برای دوستان و خانواده خود ساخت و این کارت در فضای مجازی منتشر شد. در سال 1996، کودک رقصنده میلیون ها نفر را با رقص طنز یک نوزاد انیمیشن سرگرم کرد. «چارلی دوباره انگشتم را گاز گرفت» در سال 2007 دنیا را در برگرفت. در سال 2012، ویدیوی Gangnam Style به یک موفقیت بزرگ تبدیل شد و تمام رکوردها را در یوتیوب شکست. در سال 2014، یوتیوب شروع به ایجاد ستاره های فوق العاده از مشارکت کنندگان ویدیو کرد. در همان سال، خیریه زمانی آغاز می‌شود که ALS یک میلیون نفر را وادار به شرکت در «چالش سطل یخ» کرد و 100 میلیون دلار جمع‌آوری کرد. گانگنام استایل تنها از یک ویدیو در یوتیوب 10 میلیون دلار به دست آورد. در اینجا لیستی از نمونه های دیگر از چنین ویدیوهای ویروسی وجود دارد: "/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ترکیب خواهد شد؟\n\n ردبول\n\n تیغه های ما عالی هستند\n\n ادویه قدیمی"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هزینه تولید این تبلیغات ویدیویی در مقایسه با نتیجه ای که با دستیابی مستقیم به میلیون ها قلب به دست آوردند بسیار پایین بود. مفهوم کلیدی پشت موفقیت آنها یک ایده خلاقانه و منحصر به فرد بود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یوتیوب "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="یوتیوب یک وب سایت به اشتراک گذاری ویدیو است که به شما امکان می دهد ویدیوها را آپلود، مشاهده و به اشتراک بگذارید. همچنین می توانید ویدیوها را لایک کنید و در مورد آنها نظر دهید. میلیون ها کاربر از آن استفاده می کنند. این یک ابزار عالی برای برندسازی تجاری است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک حساب کاربری در یوتیوب ایجاد کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برندسازی از طریق یوتیوب منطقی است، زیرا کاربران یوتیوب دائما در حال افزایش هستند. کلیپ های کوتاه یا توضیح مختصری ویدیویی از شرکت شما می تواند حضور شما را دو چندان کند. برای ایجاد یک حساب تجاری در YouTube، آن را با حساب +Google خود گره بزنید. دو راه مجزا برای انجام آن وجود دارد : از حساب +Google خود برای ایجاد یک حساب YouTube استفاده کنید. برای انجام این کار، روی منوی کشویی در گوشه سمت راست بالای صفحه +Google خود کلیک کنید. ایجاد کانال را انتخاب کنید و دستورالعمل ها را دنبال کنید. \n\n یک حساب YouTube ایجاد کنید تا به طور خودکار یک صفحه +Google برای شما ایجاد کند. برای انجام این کار، از طریق YouTube حرکت کنید. روی ریز عکسها در گوشه سمت راست بالای صفحه کلیک کنید. روی Creator Studio  کلیک کنید. برای ایجاد «کانال جدید» پیگیری بعدی را انتخاب کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Vimeo "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای به اشتراک گذاری ویدیوها درست مانند YouTube طراحی شده است، اما تفاوت این است که یک جامعه حرفه ای است. برای تبلیغات شرکتی در نظر گرفته نشده است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک حساب کاربری در Vimeo ایجاد کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به Vimeo.com بروید و ثبت نام کنید. مشخصات مورد نیاز را پر کنید. اکنون شما عضو ثبت نام شده Vimeo هستید. برای ایجاد یک کانال، وارد Vimeo شوید و روی «ایجاد کانال» در سمت راست کلیک کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Dailymotion "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مشابه Vimeo و YouTube است. این به کاربران امکان می دهد ویدیوها را آپلود، به اشتراک بگذارند و مشاهده کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک حساب کاربری در Dailymotion ایجاد کنید "
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با ثبت نام در Dailymotion.com به Dailymotion بپیوندید. مشخصات مورد نیاز را پر کنید. ایمیل، رمز عبور و تاریخ تولد خود را وارد کنید. نام عمومی خود را ایجاد کنید، URL را پیوند دهید و رمز عبور خود را وارد کنید. تبریک میگم کار شما تمام شده است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مزایای تبلیغات ویدیویی "
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تبلیغات ویدیویی بیشتر از تبلیغات متنی چشم نواز هستند. از این رو، احتمال تبدیل شدن آنها بیشتر است.\n\n تبلیغات ویدیویی علاقه فوق العاده بینندگان را ایجاد می کند.\n\n تبلیغات ویدیویی به دلیل برچسب های توصیفی رتبه خوبی در SERP دارند.\n\n یک تبلیغ ویدیویی در مقایسه با تبلیغات متنی یا تصویری می تواند تبلیغات سریع تری ایجاد کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تبلیغات ویدیویی خود را تبلیغ کنید "
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای کسب حداکثر سود از یک تبلیغ ویدیویی، باید آن را تبلیغ کنید و در اینجا نحوه تبلیغ یک ویدیو آمده است: "/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آن را در وبلاگ یا وب سایت خود تبلیغ کنید.\n ویدیوی خود را در ایمیل، پیام های فوری، وضعیت و غیره قرار دهید.\n آن را در همه کانال های ویدیویی ویروسی کنید.\n حضور چشمگیری در شبکه های اجتماعی داشته باشید."/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

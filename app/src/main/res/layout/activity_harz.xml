@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.mystartop1.email.harz">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در این قسمت، چند نکته را مورد بحث قرار می‌دهیم که به شما کمک می‌کند از قرار گرفتن در لیست سیاه جلوگیری کنید : انتخاب واحد - مصرف کننده را وادار کنید خدمات شما را انتخاب کند. وقت خود را با خراب شدن دروازه تلف نکنید، مطمئن باشید که دعوت شده اید. هر زمان که مشتری از سایت شما بازدید می کند، برای دریافت خبرنامه تبلیغاتی شما، گزینه انتخاب کردن را در اختیار آنها قرار می دهد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انتخاب دوگانه - این هدف شما را بسیار بهتر از یک انتخاب واحد انجام می دهد. یک ایمیل تأیید بفرستید و مطمئن شوید که مشتری واقعی است و واقعاً به خدمات شما علاقه مند است. همچنین ترس از شیطنت را کنار می گذارد. در صورتی که IP شما در لیست سیاه قرار گرفته باشد، انتخاب دوبار ساده ترین راه برای اثبات اشتباه بودن گزارش هرزنامه یک فرد است. اگر مشتری تایید کند که هدف درست شماست، از استقبال خود مطمئن هستید و خبرنامه یا محتوای تبلیغاتی شما خوانده می شود. اما، اگر تأیید نکردند، از قانون انگشت شست پیروی کنید، «هرگز ایمیل ارسال نکنید»، مشتری را از پایگاه داده خود حذف کنید. اگر سرسخت هستید و اصرار به ارسال ایمیل دارید، خطر زیادی برای قرار گرفتن در لیست سیاه وجود دارد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انصراف - همیشه گزینه انصراف را در پایین صفحه هر موضوع تبلیغاتی ارسال کنید. این به مشتریان کمک می کند تا اشتراک خدمات شما را لغو کنند، در صورتی که دیگر علاقه ای به تبلیغات ایمیل شما ندارند. از قانون انگشت شست پیروی کنید، دیگر ایمیلی ارسال نکنید. مشتری منصرف شده را از پایگاه داده خود حذف کنید. آنها دیگر برای شما وجود ندارند با تأیید در جیب خود، اکنون بر برنامه ریزی ایمیل خود تمرکز کنید. حوزه های دیگری که باید تمرکز کنید عبارتند از - خط موضوع، آدرس فرستنده، محتوا همه عناصر مهم یک ایمیل تبلیغاتی هستند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="خط موضوع - مطمئن شوید که خط موضوع شما دقیق است و قابل اعتماد به نظر می رسد. خط موضوع نباید سلام بدی داشته باشد. باید برای جلب توجه فریاد بزند، اما در عین حال گیرنده را به ایمیل مشکوک نکند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آدرس فرستنده - در صورت امکان، از آدرس @ شرکت خود استفاده کنید یا به نام شخصی خود با آدرس @ ارائه دهندگان خدمات ایمیل شناخته شده مانند yahoo، hotmail، AOL و غیره استفاده کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="محتوا - مشتریان ارزشمند خود را با محتوای تبلیغاتی خود ناامید نکنید. محتوای خود را با توجه به انتظارات مشتریان تنظیم کنید و چیزی اساسی در آن کلمات به آنها ارائه دهید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مسیر ارسال دقیق - منبع ایمیل خود را برای مشتری بلوف نکنید. ارسال‌کنندگان هرزنامه اغلب ترفند جعل ایمیل را انجام می‌دهند، یعنی جعل هدر ایمیل برای اینکه به نظر برسد از منبعی متفاوت از منبع واقعی آمده است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="فیلترهای هرزنامه را بلوف نکنید - ایمن بازی کنید، سعی نکنید یک استراتژی برای شکستن فیلترهای هرزنامه ایجاد کنید و دزدکی وارد آن شوید. هرزنامه‌ها بیشتر از شما دانش فیلترهای هرزنامه نهایی را دارند، هر استراتژی که بسازید همیشه عقب خواهید بود. اگر استراتژی خود را امتحان کنید، بلافاصله بلاک شده و در لیست سیاه قرار خواهید گرفت. این استراتژی قبلاً به عنوان هرزنامه در نظر گرفته می شود."/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بررسی کنید که آیا در لیست سیاه هستید؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="لیست‌های سیاه حاوی فهرست‌هایی از IP یا دامنه‌هایی هستند که برای صندوق‌های ورودی مصرف‌کننده تهدید هستند. اگر به یکی از سرویس‌دهنده‌ها اضافه شده‌اید، ممکن است ارائه‌دهنده خدمات ایمیل شما به‌طور خودکار به شما هشدار دهد، اما خوب است خودتان بررسی کنید. اگر در لیست سیاه هستید، سریع اقدام کنید. فقط چند شکایت هرزنامه می تواند یک فرستنده قانونی را به لیست سیاه اضافه کند."/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

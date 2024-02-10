@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:layout_weight="3"
+    android:gravity="center"
+    tools:context=".MainActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layoutDirection="rtl"
+        android:background="@color/purple_700"
+        android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:onClick="aboutUsVoid"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_baseline_view_headline_24"></ImageView>
+
+    </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center|top"
+        android:layout_weight="2.8"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="411dp"
+            android:id="@+id/txtAbout"
+            android:layout_height="45dp"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/cood"
+            android:text="Digital Marketing"
+            android:textAlignment="center"
+            android:textColor="@color/red"
+            android:textSize="23sp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="411dp"
+            android:layout_height="45dp"
+            android:fontFamily="@font/iaccent"
+            android:layout_marginTop="20dp"
+            android:text="The future of digital marketing is in your hand!"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="12sp">
+
+        </TextView>
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="250dp"
+                android:layout_marginTop="60dp"
+                android:layout_height="240dp"
+                android:gravity="center"
+                android:scaleType="fitXY" />
+        <TextView
+            android:layout_width="411dp"
+            android:layout_height="45dp"
+            android:fontFamily="@font/iaccent"
+            android:layout_marginTop="100dp"
+            android:text="آینده بازاریابی دیجیتال در دست شماست!"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+
+
+        <Button
+            android:layout_width="255dp"
+            android:id="@+id/next"
+            android:onClick="nextPageVoid"
+            android:text="بازاریابی دیجیتال"
+            android:textColor="@color/red"
+            android:fontFamily="@font/iaccent"
+            android:drawableRight="@drawable/ic_baseline_navigate_next_24"
+            android:backgroundTint="@color/toosi"
+            android:textSize="15sp"
+           android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nb"></Button>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

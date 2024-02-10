@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.mohtava.mobile">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" برنامه های کاربردی موبایل چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="موبایل و همچنین برنامه های مبتنی بر وب ابزارهای بسیار خوبی برای بازاریابی محتوای شما برای مردمی هستند که به طور فزاینده ای از تلفن های هوشمند خود به جای رایانه های شخصی خود برای دسترسی به اینترنت استفاده می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" برنامه های موبایل برای بازاریابی محتوا"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر کسب و کار شما در مورد فروش یک سرویس یا محصول به صورت آنلاین است، پس قطعا باید ایجاد یک اپلیکیشن موبایل را به عنوان یکی از اهداف محتوای اولویت دار خود در نظر بگیرید. می توانید یک برنامه بومی ساخته شده برای پلتفرم ها و دستگاه های خاص مانند Android، iPhone، iPad، Blackberry و غیره ایجاد کنید. یکی از دلایلی که چرا باید برنامه های موبایل را به عنوان بخشی از استراتژی بازاریابی محتوای خود ایجاد کنید، این است که امروزه بیشتر مردم به جای رایانه شخصی، از طریق تلفن هوشمند خود به اینترنت دسترسی دارند. داشتن یک اپلیکیشن موبایل برای کسب و کارتان به شما کمک می کند تا این بخش مشتری را جذب کنید و ترافیک و فروش بیشتری را افزایش دهید."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

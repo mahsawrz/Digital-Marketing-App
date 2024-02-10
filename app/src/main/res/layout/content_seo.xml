@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.mystartop1.seoActivity"
+    tools:showIn="@layout/activity_seo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SEO (Search Engine Optimization)"
+            android:fontFamily="@font/iaccent"
+            android:textSize="18sp"
+            android:layout_margin="17dp"
+            android:id="@+id/txtName"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="سئو همه چیز در مورد بهینه سازی یک وب سایت برای موتورهای جستجو است. سئو تکنیکی است برای: طراحی و توسعه یک وب سایت برای کسب رتبه خوب در نتایج موتورهای جستجو، بهبود حجم و کیفیت ترافیک وب سایت از موتورهای جستجو، بازاریابی با درک نحوه عملکرد الگوریتم های جستجو و آنچه بازدیدکنندگان انسانی ممکن است جستجو کنند. سئو زیر مجموعه ای از بازاریابی موتورهای جستجو است. سئو به عنوان کپی‌رایت سئو نیز شناخته می‌شود، زیرا بیشتر تکنیک‌هایی که برای ارتقای سایت در موتورهای جستجو استفاده می‌شوند، با متن سروکار دارند."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="دستیابی به بالاترین رتبه در جستجوی گوگل نیز از اهداف سئو است که به افزایش میزان رونق کسب و کارهای اینترنتی کمک می‌کند. باید ابتدا جایگاه خود را در میان رقبای خود پیدا کنید و در نهایت آن را تثبیت نمایید. این تثبیت می‌تواند به برند سازی کسب و کار شما و افزایش میزان شناخت مردم از آن، کمک کند."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="طراحی و چیدمان وب سایت اولین تصور را در مورد سایت شما ایجاد می کند. سایت‌هایی وجود دارند که بیش از حد فانتزی هستند و کاربران معمولی به آن سایت‌ها دسترسی پیدا می‌کنند و حتی بدون ایجاد یک کلیک بیرون می‌آیند."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="موتورهای جستجو بسیار باهوش هستند اما به هر حال آنها نرم افزار هستند و نه انسانی که می توانند مطالب مورد علاقه خود را بخوانند. اگر سایت خود را بیش از حد پیچیده کنید، موتور جستجو نمی تواند محتوای سایت شما را به درستی تجزیه کند و در نهایت ایندکس کردن کارآمد نخواهد بود که منجر به رتبه پایین می شود."/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" انواع سئو را می توان به سه دسته ی زیر تقسیم کرد:"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" سئو کلاه سفید:"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="مجموعه ای از تاکتیک های مورد تایید برای سئو که برای افزایش جایگاه سایت در سرپ ( صفحه نتایج موتورهای جستجو) مورد استفاده است را سئو کلاه سفید می گویند."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" سئو کلاه سیاه:"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="سئو کلاه سیاه مجموعه ای از کارهایی است خارج از قوانین موتورهای جستجو، برای کسب رتبه بهتر است. این تکنیک ها بر خلاف قوانین تایید شده است و می تواند منجر به پنالتی سایت شود."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" سئو کلاه خاکستری:"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="مجموعه ای از تاکتیک های سئو کلاه سفید و سئو کلاه سیاه را سئو کلاه خاکستری می گویند. سئو کلاه خاکستری ریسک بیشتری از سئو کلاه سفید دارد زیرا کمی از قوانین موتورهای جستجو برای کسب رتبه بهتر را زیرپا می گذارد"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:lineSpacingExtra="10dp"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="سئو هم مانند هر روش بازاریابی دیگر، اصطاحات خاص و البته مهم خود را دارد! در این بخش از مقاله می‌خواهیم اصطلاحات سئو که مهم و کاربردی هستند و هر وبمستری باید بلد باشد را بررسی کنیم."/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" Indexایندکس، ثبت صفحات سایت در گوگل \n\n    Crawling فرآیند بررسی وب‌سایت توسط ربات‌ها و خزنده‌های گوگل \n\n CTAکال تو اکشن، درخواست اقدام به عمل از کاربر \n\n  Bounce rateنرخ پرش، خارج شدن کاربر بدون ماندن در صفحه سایت شما \n\nCTRنرخ کلیک، تعداد کلیک‌های صورت گرفته نسبت به میزان مشاهده لینک‌ها  \n\n    Impression میزان دیده شدن لینک‌ها در صفحه نتایج جستجوی گوگل \n\n Anchor Text انکرتکست یا عنوان انتخاب شده برای لینک‌های سایت\n\n Meta Tag      تگ‌های موجود در کدهای سایت برای دادن اطلاعات مفید به گوگل  \n\n    Internal Links لینک‌های داخلی، لینک‌های داده شده بین صفحات موجود در سایت شما \n\n  Outbound Links لینک‌های خروجی، لینک‌های داده شده از صفحات سایت شما به سایت‌های دیگر  \n\n Responsive Design طراحی واکنش‌گرای سایت برای موبایل، تبلت و سایر دستگاه‌ها  \n\n   Backlinkبک لینک یا لینک دریافتی از سایت‌های دیگر  \n\n  Off Page SEO   سئوی خارجی، فعالیت‌های سئو انجام شده خارج از سایت \n\n   On Page SEO سئوی داخلی، فعالیت‌های سئو انجام شده روی سایت \n\n Keyword   کلمات کلیدی یا عبارات کلیدی \n\nUI   رابط کاربری \n\nUX تجربه کاربری  \n\n  SERP صفحه نتایج جستجوی گوگل  \n\n	SEM     بازاریابی موتورهای جستجو \n\n SEO   بهینه سازی سایت برای موتورهای جستجو  "
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="18sp"
+                    android:textColor="@color/red"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="نکات مختلفی در رابطه با سئو وجود دارد. ما آنها را در دسته بندی خاصی قرار نداده ایم و از این رو آنها را در دسته بندی متفرقه قرار می دهیم. این نکات را یکی یکی مرور کنید."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" انجام ندهید"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" متن پنهان را در صفحات وب خود نگه ندارید.\n\nبا قرار دادن کلمات کلیدی اشتباه، هرزنامه های متناوب ایجاد نکنید.\n\nاز پر کردن متا تگ استفاده نکنید.\n\nدر سایت خود از فریم و فلش استفاده نکنید.\n\nپیوندهای خود را با سایت های لیست سیاه مبادله نکنید.\n\nسعی نکنید با استفاده از کلمات کلیدی غلط املایی بازدیدکنندگان سایت خود را فریب دهید.\n\nایمیل های اسپم را به هزاران شناسه ایمیل ارسال نکنید.\n\nاز گرافیک زیاد در سایت خود استفاده نکنید.\n\nصفحات درگاهی زیادی ایجاد نکنید.\n\nسعی نکنید محتوای تکراری صفحات ایجاد کنید.\n\nوب سایت خود را چندین بار در یک موتور جستجو ارسال نکنید.\n\nاز عمق دایرکتوری فرعی بیشتر از 1-2 استفاده نکنید.\n\nصفحات پویا زیاد ایجاد نکنید. سعی کنید آنها را به صفحات ثابت تبدیل کنید.\n\nصفحات خود را با کد پر نکنید.\n\nصفحات خود را تودرتو نکنید."
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" انجام دهید"
+                    android:fontFamily="@font/bnazanin"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:lineSpacingExtra="10dp"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:textSize="20sp"
+                    android:text="نکات مختلفی وجود دارد که می تواند به شما کمک کند تا وب سایت خود را برای بسیاری از موتورهای جستجو بهینه کنید.\n\nگزارش صفحات را ایجاد کنید و هر صفحه باید حداقل شامل حدود 200 کلمه متن قابل مشاهده باشد تا ارتباط با Google را به حداکثر برسانید.\n\nیک نقشه سایت، راهنما، سؤالات متداول، درباره ما، پیوند به ما، حق چاپ، سلب مسئولیت، صفحات خط مشی رازداری به صورت اجباری ایجاد کنید.\n\nیک پیوند صفحه اصلی برای هر صفحه وب ایجاد کنید و مسیریابی آسان در تمام صفحات را فراهم کنید.\n\nبه URL های صفحه پویا خود توجه کنید. تا زمانی که شما بیش از 2 پارامتر در URL نداشته باشید، گوگل می تواند صفحات پویا را بخزد و فهرست کند.\n\nسایت کامل خود را برای لینک های خراب بررسی کنید. لینک های شکسته باعث کاهش رتبه صفحات دیگر شما نیز می شود."/>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

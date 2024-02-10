@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.mystartop1.webaActivity"
+    tools:showIn="@layout/activity_weba">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Web Analytics"
+            android:fontFamily="@font/iaccent"
+            android:textSize="20sp"
+            android:layout_margin="20dp"
+            android:id="@+id/txtName"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:id="@+id/txtDesc"
+                    android:textSize="20sp"
+                    android:text="تحلیل وب مطالعه روش شناختی الگوها و روندهای آنلاین/آفلاین است. این تکنیکی است که می توانید برای جمع آوری، اندازه گیری، گزارش و تجزیه و تحلیل داده های وب سایت خود از آن استفاده کنید. معمولاً برای تجزیه و تحلیل عملکرد یک وب سایت و بهینه سازی استفاده از وب آن انجام می شود. ما از تجزیه و تحلیل وب برای ردیابی معیارهای کلیدی و تجزیه و تحلیل فعالیت بازدیدکنندگان و جریان ترافیک استفاده می کنیم. این یک رویکرد تاکتیکی برای جمع آوری داده ها و تولید گزارش است. ابزار تجزیه و تحلیل بینشی از عملکرد وب سایت شما، رفتار بازدیدکنندگان و جریان داده ارائه می دهد. این ابزارها ارزان هستند و استفاده از آنها آسان است. گاهی اوقات، آنها حتی رایگان هستند."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Google Analytics "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/iaccent"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="یک ابزار تحلیلی است که آمار دقیقی از ترافیک وب ارائه می دهد. بیش از 60 درصد از صاحبان وب سایت از آن استفاده می کنند. Google Analytics به شما کمک می کند تا بازدیدکنندگان، منابع ترافیک، اهداف، تبدیل و سایر معیارها را ردیابی و اندازه گیری کنید. اساساً گزارش هایی را در مورد تحلیل مخاطب
+، تجزیه و تحلیل کسب، تجزیه و تحلیل رفتار، تجزیه و تحلیل تبدیل ایجاد می کند.
+"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="KISSmetrics "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/iaccent"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="یک ابزار قدرتمند تجزیه و تحلیل وب است که بینش های کلیدی و تعامل کاربر را در وب سایت شما ارائه می دهد. تصویر واضحی از فعالیت های کاربران در وب سایت شما تعریف می کند و داده های کسب هر بازدید کننده را جمع آوری می کند. شما می توانید به مدت یک ماه از این سرویس رایگان استفاده کنید. پس از آن، می توانید به یک طرح پولی که مناسب شماست تغییر دهید. KISSmetrics با شناخت محصولات رها شده از سبد خرید به بهبود فروش کمک می کند. این به شما کمک می کند دقیقاً بدانید که چه زمانی باید مشتریان خود را با ردیابی شکاف فعالیت خریداران تکراری پیگیری کنید. KISSmetrics  به شما کمک می کند موارد اندازه سبد خرید، نرخ تبدیل صفحه فرود، فعالیت مشتری در پورتال شما، نقاط پرش مشتری، سبد محصولات رها شده، وقوع مشتری قبل از خرید، ارزش طول عمر مشتری و غیره را شناسایی کنید."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Crazy Egg "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/iaccent"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="یک برنامه تحلیلی آنلاین است که ابزارهای ردیابی چشم را در اختیار شما قرار می دهد. بر اساس جایی که افراد روی وب سایت شما کلیک کرده اند، نقشه های حرارتی ایجاد می کند. بنابراین، این ایده را به شما می دهد که کجا تمرکز کنید. این به شما امکان می دهد داده ها را روی 15 ارجاع دهنده برتر، عبارت های جستجو، سیستم عامل ها و غیره فیلتر کنید."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Key Metrics "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/iaccent"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="شما باید چند معیار کلیدی برای کسب و کار خود پیدا کنید. شما یک وب سایت دارید و یک کد رهگیری در آن وجود دارد. اکنون، باید مطمئن شوید که چه چیزی را می خواهید اندازه گیری کنید. تجزیه و تحلیل ممکن است به شما کمک کند مشتری خود را حفظ کرده و آنها را حفظ کنید."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dashboard  "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/iaccent"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="داشبورد رابطی است که وضعیت گرافیکی روند شاخص های کلیدی عملکرد کسب و کار شما را نشان می دهد. این به شما کمک می کند تا تصمیمات آنی و هوشمندانه بگیرید. این یک نمایش بصری از داده های مهم را به شما می دهد که می توانند در یک فضای واحد محصور شوند تا به شما امکان نظارت در یک نگاه را بدهد."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="ما در اینجا مجموعه ای از اصطلاحات را فهرست کرده ایم که هنگام انجام تجزیه و تحلیل وب باید با آنها آشنا باشید :"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="سرویسی که نمایانگر عملکرد وب سایت شما در مقایسه با سایرین است.(Benchmarking)\n\nتعداد دفعاتی که کاربر بدون کاوش در صفحات وب شما خارج می شود. (Bounce Rate)\n\nعمل کلیک بر روی صفحات وب شما. (Click)\n\nتبدیل زمانی اتفاق می افتد که یک هدف تکمیل شود، به عنوان مثال، خرید، ثبت نام، دانلود و غیره. (Conversion)\n\nترافیک مستقیماً با کلیک بر روی پیوند وب سایت یا تایپ URL وب سایت خود در نوار آدرس به وب سایت شما وارد می شود. (Direct Traffic)\n\nدستورالعملی که داده‌های خاصی را از گزارش‌ها حذف یا شامل می‌شود. (Filter)\n\nمراحلی که بازدیدکنندگان برای تکمیل یک هدف برمی دارند. (Funnels)\n\nمعیاری که میزان موفقیت را تعیین می کند، به عنوان مثال، فروش یا ثبت نام. (Goal)\n\nدرصد بازدید از هر هدف به دست آمده. (Goal Conversion Rate)\n\nنمایش وب سایت شما در اینترنت. (Impression)\n\nعبارت های جستجویی که بازدیدکنندگان برای یافتن وب سایت شما استفاده می کنند. (Keywords)\n\nاولین صفحه ای که بازدیدکننده از آنجا وارد وب سایت شما می شود. (Landing Page)\n\nبازدید کننده ای که برای اولین بار به وب سایت شما می آید. (New Visitor)\n\nترافیکی که برای آن نیازی به پرداخت هزینه ندارید. به طور طبیعی می آید، به عنوان مثال، ترافیک از موتورهای جستجو. (Organic Traffic)\n\nترافیکی که باید برای آن هزینه کنید. (Paid Traffic)\n\nتعداد دفعاتی که یک صفحه مشاهده می شود. (Page View)\n\nبازدیدکنندگانی که قبلاً از صفحه شما بازدید کرده اند. بازگشت بازدیدکنندگان یک دارایی برای هر وب سایتی است. (Returning Visitor)\n\nمیانگین زمانی که یک بازدیدکننده برای دسترسی به سایت شما در یک زمان صرف می کند. (Time on Site)\n\nیک قطعه کوچک از کد درج شده در بدنه صفحهHTML. این کد اطلاعات مربوط به بازدید از یک صفحه را جمع آوری می کند. (Tracking Code)\n\nجریان بازدیدکنندگان به وب سایت شما. (Traffic)\n\nمنبعی که ترافیک از آنجا سرچشمه می گیرد. (Traffic Sources)  "
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textSize="20sp"
+                    android:textColor="@color/black" />
+
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

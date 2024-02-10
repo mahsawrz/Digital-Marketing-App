@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.google.community">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انجمن‌های +Google نقش مهمی در یافتن افرادی با سرگرمی‌ها یا علایق مشابه دارند. به گرد هم آوردن افراد برای بحث در مورد علایق خاص مانند مد، علم، حیوانات، و غیره کمک می کند. انجمن ها مکان هایی هستند که کاربرانی که به آن اضافه می شوند، در مورد یک موضوع مرتبط به اشتراک می گذارند یا سؤالات یا نظرات خاصی می پرسند. می‌توان از مردم دعوت کرد تا به انجمن بپیوندند و صفحه را می‌توان از طریق پست‌های پین‌شده، هشتگ‌ها و غیره مدیریت کرد. یک ناظر حتی می‌تواند فردی را که هر چیزی غیرمرتبط با انجمن را به اشتراک می‌گذارد، پلیس کند. در صورت عدم دریافت اعلان‌ها، می‌توانیم آنها را از صفحه انجمن غیرفعال کنیم."/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ما می توانیم جامعه خود را ایجاد کنیم. قبل از ایجاد نمایه ما، موارد خاصی را باید در نظر داشت : تنظیمات را بررسی کنید تا از عمومی یا خصوصی بودن آن مطمئن شوید. عکس اولین برداشت را می دهد. بنابراین، عکسی را عاقلانه انتخاب کنید که جامعه را به خوبی به تصویر بکشد. بخش «درباره» مهم است. این بخشی است که مردم برای کسب اطلاعات در مورد جامعه استفاده می کنند. اطلاعات واضح و منطقی در مورد جامعه بنویسید تا مردم هدف از ساختن جامعه و آنچه را که می خواهیم از طریق جامعه به اشتراک بگذاریم را درک کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایجاد انجمن "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مرحله 1 - Communities را از منوی پیمایش انتخاب کنید./ مرحله 2 - روی ایجاد انجمن کلیک کنید./ مرحله 3 - گزینه حریم خصوصی را انتخاب کنید که آیا جامعه باید عمومی یا خصوصی باشد./ مرحله 4 - نامCommunity را بگذارید./ مرحله 5 - روی «انجام شد» کلیک کنید./ مرحله 6 - افراد را به      Community  اضافه یا دعوت کنید و جامعه را برای دریافت مخاطبان زیادی به اشتراک بگذارید."/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تفاوت بین جامعه عمومی و خصوصی "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انجمن خصوصی - وقتی گزینه خصوصی را برای جامعه خود انتخاب می کنیم، باید این گزینه را انتخاب کنیم که آیا افراد می توانند جامعه ما را جستجو کنند یا خیر. جامعه عمومی - وقتی گزینه عمومی را برای انجمن خود انتخاب می کنیم، باید این گزینه را انتخاب کنیم که آیا افراد می توانند برای پیوستن به انجمن شما مجوز بخواهند یا خیر. مطمئن شوید که این گزینه را با دقت انتخاب کرده اید زیرا گزینه ای برای تغییر انتخاب خود بعدا ندارید."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.resane.society">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="نشانه‌گذاری اجتماعی یک راه عالی برای ذخیره، سازماندهی، جستجو و مدیریت نشانک‌های شما است. می توانید پیوندهای پست خود را در هر وب سایت Social Bookmarking که دوست دارید نشانه گذاری کنید. برای آن بک لینک دریافت خواهید کرد. بسیاری از وب‌سایت‌های Social Bookmaking در دسترس هستند (نسخه‌های رایگان/پرداخت). برخی از آنها فهرست شده اند : "/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Digg "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این یک وب سایت نشانه گذاری محبوب است که به شما امکان می دهد پیوندهای وب خود را سازماندهی، ذخیره و به اشتراک بگذارید. به خوانندگان مرتبط ترین داستان هایی را که به دنبال آن هستند ارائه می دهد. اگر محتوای شما در Digg به اشتراک گذاشته شود، ترافیک مرتبط زیادی دریافت خواهید کرد و سایت شما قطعا رتبه بالایی خواهد داشت."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Diigo "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این یک وب سایت حاشیه نویسی، برجسته سازی و نشانک اجتماعی است که به کاربران ثبت نام شده اجازه می دهد تا صفحات وب را نشانک کنند و هر قسمت از آن را برجسته کرده و یادداشت های چسبناک را ضمیمه کنند."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Delicious   "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این یک وب سایت نشانه گذاری اجتماعی است که به کاربران ثبت نام شده خود امکان اشتراک گذاری، ذخیره و کشف نشانک ها را می دهد."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Stumble Upon   "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این یک وب سایت معروف است که به شما امکان می دهد تصاویر، فیلم ها، صفحات وب و غیره را به راحتی کشف کنید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reddit   "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="به اعضای ثبت نام شده امکان ارسال محتوا را می دهد. کاربران می توانند به هر محتوایی «بالا» و «پایین» رأی دهند. اگر پست شما توسط بسیاری پسندیده شود، به یک موفقیت تبدیل می شود."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pinterest   "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="به شما امکان می دهد تصاویر و ویدیوها را به صورت آنلاین به اشتراک بگذارید و کشف کنید. با نشانک گذاری می توانید یک پیوند سریع دریافت کنید. برای این کار، باید دکمه‌های  pin it و follow me را اضافه کنید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" مزایای ثبت نام در سایت کتاب‌سازی   "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:lineSpacingExtra="7dp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="به عنوان یک کاربر ثبت نام شده در یک سایت نشانه گذاری، می توانید محتوای خود را ذخیره، مدیریت و به اشتراک بگذارید. از بسیاری جهات سودمند است."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="می توانید محتوای خود را سازماندهی کرده و آنها را برای استفاده در آینده نشانک گذاری کنید. زمانی که به آنها نیاز داشتید، انبوهی از موجودی به خوبی کامپایل شده برای انتخاب خواهید داشت. شما می توانید برچسب های عملی برای ویرایش صفحات در آینده ایجاد کنید. شما می توانید ایده ها و کلمات خود را با جوامع مختلف مرتبط با کسب و کار خود به اشتراک بگذارید. می توانید پیوندهای خود را پیگیری کنید. می توانید بک لینک ها را ضبط کنید. می‌توانید با نگه‌داشتن ردیابی ذکرهای مربوط به خود برای مرجع یا گواهی در نوشته‌های خود، « اشاره‌های اجتماعی » ایجاد کنید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" مزایای کتاب‌سازی اجتماعی"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:lineSpacingExtra="7dp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="ویروسی - وقتی یک صفحه وب را در یک سایت محبوب نشانک‌گذاری اجتماعی نشانک می‌کنید، بازدیدکنندگان آن را در همان صفحه می‌بینند. اگر پست شما را دوست داشته باشند، آن را نشانه گذاری کرده و در وب سایت خود به اشتراک خواهند گذاشت. بنابراین وب سایت شما می تواند ویروسی شود."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="افزایش ترافیک - هرچه تعداد سایت های نشانک اجتماعی محتوای ارزشمند شما بیشتر باشد، تعداد جلسات بیشتر می شود. وب سایت شما در معرض دید قرار می گیرد و افراد بیشتری تمایل دارند از وب سایت شما بازدید کنند."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="توصیفات کپسولی - می توانید تمام توصیفات خوب مشتریان خود را نشانه گذاری کنید و آنها را وادار کنید تا سایت نشانک را ببینند. آنها تمام صفحات، اشتراک‌گذاری‌ها و پیوندها را در یک صفحه خواهند دید."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="نرخ موفقیت خود را ردیابی کنید - می توانید تعداد رای های مثبت و منفی را برای پست خود در یک سایت نشانک ردیابی کنید. این به شما امکان می دهد تا میزان موفقیت خود را در ارائه پیام خود تجزیه و تحلیل کنید."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="برندسازی - می توانید از کلمات کلیدی مرتبط برای تبلیغ وب سایت خود استفاده کنید. شما می توانید با دیگران در جامعه خود ارتباط برقرار کنید. به ایجاد آگاهی از برند کمک می کند."/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.resane.image">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تصاویر موثر هستند، با این حال آنها می توانند منابع فشرده باشند. بنابراین مهم است که تصاویر در فشرده‌ترین و در عین حال شفاف‌ترین فرمت خود استفاده شوند. بر زمان دانلود و استفاده از پهنای باند تأثیر می گذارد. تصاویر بهینه شده منجر به بارگذاری سریعتر صفحه، کاهش استفاده از پهنای باند و مدیریت موثر حافظه می شود. Flickr و Picasa محبوب ترین وب سایت هایی هستند که مجموعه ای از ویژگی ها را در این بخش ارائه می دهند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Flickr "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="یکی از محبوب ترین وب سایت ها برای خدمات میزبانی تصویر و ویدیو است. این به کاربران اجازه می دهد تا تصاویر را به اشتراک بگذارند و جاسازی کنند. این یک پلت فرم عالی برای محققان عکس و وبلاگ نویسان است تا تصاویر را برای استفاده در وبلاگ ها و رسانه های اجتماعی میزبانی کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  Picasa "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="  این یک وب سایت به اشتراک گذاری عکس است که امکان سازماندهی تصویر و مشاهده تصویر را فراهم می کند. این به شما امکان می دهد تصاویر را انتقال، پیدا کنید، سازماندهی کنید، ویرایش کنید و به اشتراک بگذارید. این به شما امکان می دهد یک پالت غنی از جلوه ها را اعمال کنید، تصاویر خود را در +Google به اشتراک بگذارید و افراد را در عکس برچسب گذاری کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی تصویری "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بازاریابی تصویری یکی از بزرگترین روندهای در حال تکامل بازاریابی رسانه های اجتماعی است. تصاویر را می توان در بازاریابی رسانه های اجتماعی استفاده کرد تا به آن رونق خاصی بدهد. تصاویر قدرت جلب توجه مخاطب را دارند. خوانندگان اغلب وقت کافی برای خواندن مطالب طولانی ندارند. در چنین مواردی، تصاویر می توانند پیامی را که می خواهید به اشتراک بگذارید در یک بازه کوتاه ارسال کنند. تصاویر می توانند نکات شما را بهتر نشان دهند. همیشه توصیه می‌شود که متن را به صورت تصویری، هر جا که می‌توانید داشته باشید، داشته باشید. خوانندگان بصری هستند که وقتی تصویر آموزنده مناسبی به آنها ارائه شود بهتر می فهمند. تصاویر رنگ اضافه می کنند. متن بدون عکس خسته کننده می شود. خوانندگان اغلب هنگام خواندن یک متن توصیفی تک بعدی علاقه خود را از دست می دهند. تصاویر می توانند پست های شما را پر جنب و جوش تر کنند. تصاویری که با عناوین و توضیحات مناسب نسبت داده می شوند می توانند رتبه بندی نتایج جستجوی شما را افزایش دهند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تصویر مربوطه را انتخاب کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انتخاب تصاویر مناسب برای کسب و کار شما یک کار حیرت انگیز است. اما قبل از استفاده از آنها در محتوای خود باید نکاتی را در نظر داشته باشید. آیا شما مجاز به استفاده از آن هستید؟ آیا شما آن را دارید؟ نقض حق چاپ تصویر می تواند به کسب و کار شما تمام شود."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ارتباط - مطمئن شوید که تصویر با محتوایی که با آن پست شده است مرتبط است.\n\n جذاب - این باید اولویت شما باشد که تصاویر خود را جذاب، متقاعدکننده و مرتبط کنید.\n\n از فرمت و اندازه مناسب استفاده کنید - کیفیت و وضوح تصاویر خود را کنترل کنید. تصاویر با وضوح بالا خوب به نظر می رسند، اما سنگین هستند و فضای زیادی از حافظه را اشغال می کنند.\n\n قبل از آپلود یک تصویر، مطمئن شوید که آن اثر اصلی شما است یا از محدودیت‌های حق چاپ آزاد است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تصاویر خلاقانه"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تصاویر خلاقانه چشم نواز هستند. نمی توان از آنها چشم پوشی کرد. آنها شما را وادار می کنند که پیام پشت سر آنها را ببینید.\n\n برای اینکه تصاویر خود را طلسم کنند، از یک رویکرد خلاقانه استفاده کنید.\n\n ایده یا پیامی را در تصویر خود قرار دهید.\n\n از اسپلش رنگ استفاده کنید. آنها را قابل توجه می کند.\n\n بر اصل یا خط پایانی تأکید کنید.\n\n متنی را برای پشتیبانی از تصویر خود وارد کنید.\n\n از سایه ها و کنتراست استفاده کنید."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

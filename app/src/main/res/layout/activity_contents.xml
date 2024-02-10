@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.email.contents">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" کپی‌نویسی ایمیل "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بازاریابی ایمیلی شامل یک شکل منحصر به فرد از نوشتن است که بسیاری از مردم، به خصوص زمانی که تازه شروع به کار می کنند، در برنامه ریزی و اجرای آن با مشکل مواجه می شوند. شباهت های زیادی با سایر اشکال کپی رایتینگ وجود دارد، اما همچنین فرصت ها و دام های منحصر به فردی نیز وجود دارد. این مقالات برخی از عناصر نوشتن برای بازاریابی ایمیلی را بررسی می‌کنند و شما را در مراحل اولیه ساخت پیام خود راهنمایی می‌کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چگونه خطوط موضوعی بنویسیم؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="خط موضوع ایمیل شما قلابی است که مشترک شما را به باز کردن ایمیل شما می کشاند. هر عملکرد خارق‌العاده‌ای که در هنگام نوشتن ایمیل خود انجام داده‌اید، اگر موضوع مناسب را برای ایمیل انتخاب نکنید، همه اینها از بین می‌رود. خطی بنویسید که جذاب و شخصی باشد. به یاد داشته باشید که بیش از 10 کلمه نباشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اهمیت آدرس (از)"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آدرس (از) برای موفقیت در بازاریابی ایمیلی به عنوان شکلی از ارتباط ضروری است. اکثر مردم ایمیلی را باز نمی کنند مگر اینکه آدرس (از) را تشخیص دهند. اگر در حال ارسال ایمیل برای افرادی هستید که شما را با نام می شناسند، به جای ارسال از طریق بدون پاسخ، اطلاعات و خبرنامه و غیره، آنها را با ایمیل شخصی خود ارسال کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مرتبط کردن محتوای ایمیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مشترک شما باید بداند که چرا به آنها ایمیل می فرستید. این دلیل باید آنها را به یک فراخوان روشن برای اقدام هدایت کند. این CTA اقدامی را که مشترک شما باید پس از باز کردن ایمیل شما انجام دهد را مشخص می کند. با تعداد بیش از حد CTA، بازاریابان ایمیل خطر گیج کردن یا غلبه بر مشترکین را دارند. وقتی گزینه های زیادی به مشتریان ارائه می شود، ممکن است کمتر احتمال خرید داشته باشند. در عوض، فراخوان های خود را برای عمل متمرکز کنید و تلاشی را که برای عمل لازم است محدود کنید."/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="این یک یادآوری مهم برای شما است که مشتریان و مشتریان بالقوه خود را با ویژگی های پیچیده محصولات و خدمات خود اشتباه نگیرید. به یاد داشته باشید، شما یک نظریه علمی را به اساتید، وکلا یا پزشکان نمی فروشید. حتی برای آنها نیز از شما انتظاری ساده و آسان دارند. با مشتریان احتمالی خود طوری صحبت نکنید که انگار در حال ارائه پایان نامه دکترای خود به گروهی از اساتید هستید. همیشه به یاد داشته باشید، مشتریان بالقوه شما افراد عادی هستند. بازاریابی به سادگی به این معناست که به مردم بفهمانید که چگونه می توانید با استفاده از محصول و خدمات خود مشکلات آنها را حل کنید. از کلمات و گرامرها زیاده روی نکنید. لازم نیست به دیگران بفهمانید که طولانی ترین کلمات دنیا را می شناسید یا از دستور زبان صحیح مانند ضرب المثل، گذشته استمراری و غیره استفاده می کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" امضای ایمیل موثر"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="امضای ایمیل شما اغلب یکی از آخرین نقاط ارتباطی است که مصرف کننده با خدمات/نام تجاری شما دارد. یک امضای ایمیل خوب ساده، آموزنده، حرفه ای است و اطلاعات را در اولویت قرار می دهد. اما، این بدان معنا نیست که امضای شما باید کسل کننده یا خسته کننده به نظر برسد."/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

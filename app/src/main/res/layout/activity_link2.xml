@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.google.liink">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گوگل مالک پلتفرم یوتیوب است که بزرگترین ارائه دهنده خدمات ویدئویی است. ما می توانیم یک صفحه +Google از طریق YouTube ایجاد کنیم. کانال ما به صفحه +Google متصل خواهد شد. ویدیوهای عمومی ما در صفحه YouTube و Google+‎ ظاهر می‌شوند. این به جذب تعداد بیشتری از افراد کمک می کند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ممکن است چندین کاربر یک حساب کاربری را در YouTube مدیریت کنند. اگر می‌خواهیم از نام دیگری با حساب Google استفاده کنیم، آن را به حساب  Google+ متصل کنیم. بینندگان نمی توانند نام یا آدرس ما را ببینند زیرا هیچ ارتباط عمومی بین Google+  و حساب Google وجود نخواهد داشت. ما می‌توانیم این کار را برای بهبود کسب و کار خود در YouTube بدون نمایش حساب شخصی خود انجام دهیم. وقتی کانال خود را به صفحه Google+‎ متصل می‌کنیم، همان نام کانال ما در YouTube نشان داده می‌شود."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تغییر دو حساب در YouTube برای مدیریت کانال YouTube آسان است. ما به سادگی می‌توانیم این را از گوشه سمت راست بالای حساب YouTube با انتخاب حساب از لیست خود تغییر دهیم."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ادغام یوتیوب "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با باز کردن کانال YouTube، حساب Google+  به آن متصل می شود و تصویر نمایه Google+  را نمایش می دهد. ما می توانیم از +Google برای آپلود ویدیوها در YouTube استفاده کنیم."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وقتی در YouTube نظری می نویسیم، نمایه و شناسه +Google ما به سایر کاربران نشان داده می شود. علاوه بر این، وقتی نام یا تصویر را تغییر می‌دهیم، هم در صفحات YouTube و هم در Google+‎ تغییر می‌کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="7dp"
+                android:text=" ایجاد یک حساب برای اتصال YouTube با +Google"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه YouTube را باز کنید و سعی کنید ویدیوها را لایک کنید و روی آنها نظر بگذارید. ما نمی توانیم این کار را انجام دهیم زیرا با استفاده از حساب Google به آن متصل نیستیم."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مرحله 1 - به تنظیمات حساب بروید.\n\n مرحله ۲ – روی «تنظیمات حساب پیشرفته» و سپس روی اتصال با صفحه +Google کلیک کنید.\n\n مرحله 3 - از گزینه‌های صفحه Use your Google+  را انتخاب کنید و روی Next کلیک کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اتصال کانال YouTube موجود به +Google"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مرحله 1 -  تنظیمات حساب  YouTube را باز کنید.\n\n مرحله ۲ – روی گزینه Confirm your name on YouTube کلیک کنید.\n\n مرحله 3 - گزینه استفاده از نام کسب و کار را انتخاب کنید.\n\n مرحله 4 - روی «تنظیمات حساب پیشرفته» کلیک کنید و روی اتصال با صفحه +Google کلیک کنید.\n\n مرحله 5 - از میان گزینه های ارائه شده انتخاب کنید : از صفحات +Google خود استفاده کنید، از نام کاربری فعلی YouTube خود استفاده کنید، یک نام جدید ایجاد کنید، از نام حساب Google خود استفاده کنید.\n\n مرحله 6 - روی Next کلیک کنید و حساب متصل می شود."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

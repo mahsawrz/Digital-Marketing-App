@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.amazon.forosh">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در صفحه وب آمازون می توانید پیوندهای فروش را پیدا کنید. تعداد زیادی از محصولات برای فروش برای دارندگان حساب های شخصی و حرفه ای وجود دارد، به جز برخی از آنها که با ستاره مشخص شده اند و دارندگان حساب های فردی نیاز به تایید قبلی دارند. با این حال، این موارد برای دارندگان حساب های حرفه ای باز است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگامی که تصمیم خود را برای فروش در آمازون گرفتید، با اشتیاق وارد نشوید بلکه با کلیک بر روی پیوند فروش در آمازون در صفحه اصلی، لیست های دسته بندی را مرور کنید و ببینید چه محصولات دسته بندی کلی برای شما امکان پذیر است. در زیر خلاصه ای از محصولاتی آمده است که باید از فروش آنها اجتناب کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="محصولات غیرقانونی - آمازون لیستی از محصولات ممنوعه را برای هر دسته نمایش می دهد، محصولاتی که عمدتاً غیرقانونی و ناایمن هستند یا محصولاتی که خشونت را به هر شکلی مانند اسلحه گرم، تفنگ اسباب بازی، کمان پولادی و سایر سلاح ها ترویج می کنند.\n\nهک کردن دستگاه‌هایی مانند مسدودکننده‌های رادیویی و دستگاه‌های بازکننده قفل تلفن همراه.\n\nمحصولات تقلبی یا فریبنده - آمازون محصولاتی را که علامت تجاری دیگران را نقض می کنند مانند لباس، کفش، کیف یا ساعت با مارک های تقلبی مجاز نمی داند.\n\nداروهای تجویزی - زیرا اگر بدون توصیه مصرف شوند ممکن است کشنده باشند.\n\nالکل - اگرچه فروش شراب از بازرگانان دارای گواهی آمازون مجاز است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="محصولی که لیست می کنید باید اصیل و اصل باشد. اگر ادعا می‌کنید که محصول خاصی را می‌فروشید، پس محصولی که برای مشتری ارسال می‌کنید باید یکسان باشد، چیزی شبیه یا نزدیک به آن نباشد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اکنون که به خوبی در مورد مواردی که از فروش اجتناب کنید آگاه هستید، باید به فروش محصولات بیشتر و متنوع برسید. اگر یک حساب تجاری حرفه ای را انتخاب کنید، سودمند خواهد بود. هنگامی که یک حساب کاربری دارید، همیشه می توانید برای هرگونه درخواست یا راهنمایی به مرکز راهنمایی آمازون بروید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" فروش محصولات مورد استفاده "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="سوال مهم دیگری که اغلب مطرح می شود این است که آیا باید محصولات نو بفروشید یا دست دوم؟ اگر می خواهید از شر برخی از چیزهای ناخواسته در خانه خلاص شوید و از آن درآمد کسب کنید، آمازون یک پلتفرم ایده آل است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بسیاری از دسته بندی های فهرست شده در آمازون امکان فروش محصولات دست دوم مانند کتاب های دست دوم، دی وی دی، لوازم الکترونیکی و کیت های ورزشی را می دهند. فقط باید اطمینان حاصل کنید که شرایط محصول را به درستی لیست کرده اید و حداکثر جزئیات ممکن را ارائه می دهید، در غیر این صورت بازخورد منفی از مشتریان دریافت خواهید کرد که به درستی درخواست بازپرداخت می کنند."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    android:layout_weight="3"
+    tools:context="com.example.mystartop1.ThirdActivity">
+
+
+
+
+
+
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="6dp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+
+        <androidx.viewpager.widget.ViewPager
+
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+
+            android:layout_marginBottom="2dp">
+
+        </androidx.viewpager.widget.ViewPager>
+
+
+
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/tx"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/iaccent"
+        android:background="@color/toosi"
+        android:layout_gravity="bottom"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        tools:ignore="RtlCompat" />
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/toosi"
+        android:layout_height="wrap_content"
+        app:tabBackground="@drawable/tab_selector"
+        app:tabGravity="center"
+        app:tabIndicatorHeight="0dp" />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>
+
+
+
+</LinearLayout>

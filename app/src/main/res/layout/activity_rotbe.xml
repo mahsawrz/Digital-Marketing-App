@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.amazon.rotbe">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون رفتار هر فروشنده را زیر نظر دارد تا از عملکرد خوب آنها اطمینان حاصل کند. اگر فروشنده ای در مقیاس رتبه بندی خیلی پایین بیاید، برای مدت طولانی در آمازون فروش نخواهد داشت. منطقه عملکرد دارای سه پارامتر است که بر اساس آنها یک فروشنده توسط آمازون رتبه بندی می شود. اینها هستند : "/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" سلامت حساب"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این قسمت خلاصه ای سریع از سلامت حساب شما ارائه می دهد. این صفحه دارای کادرهای سبز رنگ با تیک است که نشان می دهد همه چیز در حساب خوب است. در حالت ایده‌آل، نمی‌خواهید مثلث‌های زرد یا هشت ضلعی قرمز با علامت X در آن‌ها داشته باشید که نقص‌های حساب شما را برجسته می‌کند. یکی از بررسی‌های مهم «نرخ نقص سفارش» است که درصد سفارش‌های دارای مشکل را نشان می‌دهد - یا بازخورد منفی یا ثبت ادعای تضمین A تا Z که نشان می‌دهد نمی‌توانید با مشتری به توافق برسید. سپس «زمان پاسخگویی تماس» وجود دارد که معیاری است از میزان پاسخگویی شما به پیام‌های خریدار و به موقع. هر پاسخی از طرف شما پس از 24 ساعت به عنوان پاسخ دیرهنگام رتبه بندی می شود. سپس یک «رتبه‌بندی سفارش کامل» ارائه می‌شود که درصد سفارش‌هایی را نشان می‌دهد که همه چیز برای آنها خوب پیش رفته است. آمازون این را به عنوان امتیاز POP می نامد و شما دوست دارید امتیازی 95٪ یا بالاتر داشته باشید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" رده بندی فروشنده"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="رتبه بندی فروشنده به مشتری نشان داده نمی شود، اما ابزاری حیاتی برای قرار دادن شما در جعبه خرید است. تاجری که رتبه فروش بالایی دارد جعبه خرید را دریافت می کند. امتیاز فروشنده آمازون امتیازی در مقیاس 0 تا 100 است. امتیاز 0 تا 84.49 منصفانه، 84.5 تا 96.49 خوب، 96.5 تا 98.49 به عنوان بسیار خوب و 98.5 تا 100 به عنوان برجسته در نظر گرفته می شود."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="	 بازخورد مشتری"
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="این اطلاعات بازخورد مشتری را خلاصه می کند. آمازون نحوه خدمات رسانی شما به مشتریان خود را بررسی می کند، بنابراین باید به طور مداوم برای جلب رضایت مشتری تلاش کنید."/>
+
+
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

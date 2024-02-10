@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.mohtava.content">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="متخصصان بازاریابی و کارشناسان اغلب این خط را تکرار کرده اند که این شرکت است که داستان بهتری را روایت می کند و نه شرکتی که از نظر اندازه بزرگتر است. امروزه با رشد شکل‌های جدید رسانه‌های آنلاین که مصرف‌کنندگان را مانند قبل توانمند کرده‌اند، این حقیقت حتی بیشتر مرتبط است. با این حال، این سوال هنوز تا حد زیادی بی پاسخ مانده است. چگونه داستان بهتری تعریف می کنید؟ آیا یک پوستر ۱۰×۱۰ فوتی ایجاد می‌کنید که ویژگی‌های محصول خود را فهرست می‌کند و آن را روی هر بیلبورد شهر می‌چسبانید یا یک تبلیغ تلویزیونی شیک ایجاد می‌کنید؟ کدام گزینه است که به شما تجارت بیشتر و درآمد بیشتری می دهد؟ خب، راستش را بخواهید، ساختن یک داستان خوب و ایجاد محتوای عالی به خیلی بیشتر از این نیاز دارد. از شما می خواهد که به این سؤالات پاسخ دهید: چه کسی، چه چیزی و چرا. برای ایجاد یک داستان عالی در مورد کسب و کار خود، باید به وضوح به موارد زیر پاسخ دهید :"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چرا محتوا تولید می کنید؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تعیین اهداف محتوایی اولین قدم است. چرا می خواهید نوع خاصی از محتوا ایجاد کنید؟ چه چیزی را می خواهید انجام دهید؟ آیا استراتژی محتوا با اهداف کلی کسب و کار شما مطابقت دارد؟"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مشتریان شما چه کسانی هستند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ناگفته نماند که شناسایی مشتریان مهم ترین مرحله بازاریابی محتوا است. نکته اصلی این است که مشکلات و ترجیحات مخاطبان خود را فهرست کنید و بفهمید که چه نوع محتوایی را بیشتر دوست دارند. همچنین، باید به این سوال مهم پاسخ دهید - چیزی که شما باید به مشتریان خود ارائه دهید چیست؟"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" می خواهید محتوای شما به چه چیزی برسد؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="باید از خود بپرسید - محتوای من چگونه به مشتریانم کمک می کند؟ آیا به آنها کمک می کند تا یک سفر ترتیب دهند، خانه بخرند یا برای معاینه آموزش ببینند؟ شما باید به وضوح تعریف کنید و درک کنید که محتوای شما چگونه بر زندگی مشتریان شما تأثیر می گذارد؟"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

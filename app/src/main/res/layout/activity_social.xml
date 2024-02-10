@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.digital.social">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="رسانه های اجتماعی امروزه اساساً بازاریابی دهان به دهان هستند. واداشتن مردم به ارتباط آنلاین با شما در عرصه اجتماعی به گسترش این خبر در مورد اینکه شرکت شما چیست و محصولات و خدمات شما چیست کمک می کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" سئو و رسانه های اجتماعی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای بسیاری از تیم ها، مجموعه های مختلفی از افراد وجود دارد که به طور جداگانه روی سئو و رسانه های اجتماعی کار می کنند. با این حال، این سناریو اخیرا در حال تغییر است. ممکن است این دو هنوز به طور رسمی به تیم‌های جداگانه تعلق داشته باشند، اما بازاریابان رسانه‌های اجتماعی باید در مورد دستور کار استراتژیست سئو اطلاعات بیشتری داشته باشند، تا استراتژی سئو بتواند با ارتقای محتوا همراه شود. استراتژیست‌های سئو نیز باید بدانند که چگونه با بازاریابان رسانه‌های اجتماعی کار کنند تا سیگنال‌های اجتماعی مورد نیاز را دریافت کنند تا مطمئن شوند شرکتشان در رتبه‌بندی بالا در جستجو قرار دارد. دو کارکرد رسانه های اجتماعی برای تجارت وجود دارد : آیا در گفتگو و اشتراک گذاری شرکت می کنید؟ آیا به آنچه در مورد شما گفته می شود گوش می دهید و نظارت می کنید؟"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی شبکه های اجتماعی را شروع کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر با استراتژی رسانه های اجتماعی خود از صفر شروع می کنید، در اینجا مراحل اساسی برای شروع شما آورده شده است : مرحله 1 - شبکه های اجتماعی خود را انتخاب کنید /مرحله 2 - نمایه های خود را به طور کامل پر کنید، فراموش نکنید که کلمات کلیدی خود را بارگیری کنید /مرحله 3 - صدا و لحن خود را پیدا کنید /مرحله 4 - استراتژی پست خود را انتخاب کنید - هر چند وقت یکبار، چه زمانی و چه نوع محتوا /مرحله 5 - تجزیه و تحلیل و آزمایش /مرحله 6 - خودکار کردن و تعامل"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" فیس بوک در صدر فهرست استراتژی رسانه های اجتماعی قرار دارد"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای بسیاری، رسانه های اجتماعی با فیس بوک شروع می شوند. با این حال، داشتن یک صفحه کافی نیست. بازاریابی محتوای پیچیده اکنون راهی برای تقویت تعامل در فیس بوک است. اگر کسب‌وکار شما استراتژی بازاریابی محتوا یا وبلاگی ندارد، اما می‌خواهد حضور قوی در فیس‌بوک داشته باشد، ممکن است زمان ایجاد یک استراتژی بازاریابی محتوا برای فیس‌بوک فرا رسیده باشد. "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بهینه سازی برای موبایل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تمام تلاش های رسانه های اجتماعی باید برای موبایل بهینه شود. احتمالاً شنیده اید، اما همه باید مطمئن شوند که وب سایت هایشان برای موبایل بهینه شده است. مدیران رسانه‌های اجتماعی باید از این موضوع آگاه باشند تا مطمئن شوند که قالب تبلیغاتی که انجام می‌دهند (به‌ویژه تبلیغاتی که شامل هدایت افراد به وب‌سایت‌های شرکتشان می‌شود) برای موبایل بهینه شده است. برای تجربه کاربری بهینه، هر تصویری که در رسانه های اجتماعی استفاده می شود باید در موبایل نیز قابل مشاهده باشد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بر تجربه انسانی تاکید کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ممکن است دیجیتال باشد، اما باید تجربه انسانی را در نظر بگیرید. گوگل و فیس بوک تغییراتی در پلتفرم های خود ایجاد کرده اند تا کسب و کارها را به تمرکز بیشتر بر روی تجربه انسانی تشویق کنند. برای بازاریابان رسانه‌های اجتماعی، پست‌های رسانه‌های اجتماعی شما باید مرتبط‌تر باشد، ارزش بیشتری برای مخاطبان شما فراهم کند، و تعامل باید بیشتر انسانی باشد."/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

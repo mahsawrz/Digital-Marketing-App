@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.insta.tool">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در حالی که از اینستاگرام برای تبلیغ کسب و کار خود استفاده می کنید، بسیار مهم است که به طور منظم آمار اینستاگرام خود را رصد کنید، با هدف تجزیه و تحلیل آنچه در اینستاگرام مفید بوده و چه چیزی چندان موثر نبوده است. ما در اینجا به برخی از ابزارهایی که می توانید برای نظارت بر آمار اینستاگرام استفاده کنید، خواهیم پرداخت."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تابلوی برچسب "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ابزار Tagboard برای تجربه محتوای شبکه های اجتماعی است. هر برچسب مجموعه ای از پست های رسانه های اجتماعی است که یک هشتگ معمولی را به اشتراک می گذارد. برچسب‌ها را می‌توان در وب‌سایت‌ها درج کرد، در برنامه‌های تلفن همراه هماهنگ کرد و روی نمایشگرها نشان داد. بینندگان می توانند موارد دلخواه را انتخاب کنند، بازتوییت کنند، پاسخ دهند، نظر بدهند و لایک کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Iconosquare "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ابزار Iconosquare برای نظارت و تبلیغ اکانت اینستاگرام شما است. با گروه، فعالیت های مطالعه و توسعه پیروان خود مقابله کنید. با ویجت های عکس، حساب خود را در سایر شبکه های اجتماعی تبلیغ کنید. با مسابقات عکاسی در جامعه خود نقاشی بکشید. راه اندازی، تبلیغ، تعدیل، نظارت و انتشار نتایج یک مسابقه اینستاگرامی همه در Iconosquare."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" شلوغی جمعیت "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ابزار Crowdfire برای مدیریت روابط شما در اینستاگرام و توییتر است. برای یافتن کاربران غیرفعال و فالوورهای غیرفعال و یافتن کاربران قابل توجهی برای دنبال کردن استفاده می شود. حساب‌های اجتماعی توییتر/اینستاگرام خود را زیر نظر داشته باشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Collecto "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ابزار Collecto به شما این امکان را می دهد که به حساب اینستاگرام خود متصل شوید و پس از آن بررسی های آماری را در حساب اینستاگرام شما انجام می دهد. اطلاعاتی را در اختیار شما قرار خواهد داد. به عنوان مثال، نشان می دهد که چه تعداد فالوور دارید، چه تعداد لایک دریافت کرده اید و چه تعداد کامنت دریافت کرده اید. این نشان می‌دهد که از کدام فیلترها استفاده کرده‌اید که بهترین بوده‌اند تا بدانید، بعداً، به احتمال زیاد ایده خوبی است که از همان فیلتری استفاده کنید که بسیار موفق بوده است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برنامه هایی برای کمک به پست های اینستاگرام\n\n  در زیر چند برنامه وجود دارد که به بهبود تجربه اینستاگرام شما کمک می کند. "
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+              android:text=" Layout "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="یک برنامه کلاژ اینستاگرام است و یک برنامه بسیار آسان برای استفاده است. این به شما امکان می دهد 2-9 عکس خود را در یک تصویر ترکیب کنید. سه گزینه وجود دارد که می‌توانید از بین آنها عکس‌های خود را انتخاب کنید - رول دوربین، عکس‌های اخیر، و یک گزینه چهره‌های جالب که در آن Layout عکس‌هایی را که از افراد مختلف دارید جمع‌آوری می‌کند. علاوه بر این، ویژگی‌های خلاقانه زیادی مانند آینه‌کاری، ورق زدن، تغییر اندازه و تنظیم مجدد تنها با چند ضربه وجود دارد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" TakeOff "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه ای از Crowdfire برای برنامه ریزی پست های اینستاگرام است. در نتیجه، پست‌ها را برای زمان‌هایی برنامه‌ریزی می‌کند که توسط اکثر فالوورهای شما دیده می‌شوند. TakeOff زیرنویس‌های شما را مطالعه می‌کند تا هشتگ‌های مرتبط با کشف بالا را پیشنهاد کند. همچنین می‌توانید مشتریان یا اعضای گروهی را اضافه کنید که به شما در بررسی یا ایجاد محتوا برای اینستاگرام کمک می‌کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Tapshop "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از Piqora به خرید طرفداران اینستاگرام شما کمک می کند. با این کار مشتریان شما یک صفحه سفارشی از محصولاتی که دوست داشته اند دریافت می کنند و یک ایمیل با لینک مستقیم به صفحات محصول شما دریافت می کنند، همانطور که شما آدرس های ایمیل را جمع آوری می کنید. علاوه بر این، لایک‌ها، کلیک‌ها، سفارش‌ها و درآمد ایجاد شده توسط صفحه Tapshop شما را از داشبورد انتشارات Piqora اندازه‌گیری می‌کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Snapseed  "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه ای است که برای ویرایش عکس استفاده می شود و در بین وبلاگ نویسان و انواع خلاق برجسته است. این به کاربر امکان کنترل تقریباً بر هر جنبه از عکس‌های خود را می‌دهد، از ویژگی‌های درست خودکار کامل تا تنظیمات کوچک."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" دوربین تایمر  "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در صورتی که بخواهید عکسی بگیرید که شامل خودتان باشد یا از شما بخواهد تلفن خود را روی سه پایه یا سطح دیگری قرار دهید، این برنامه می تواند با تایمر حداکثر 30 ثانیه عکس بگیرد و سپس عکس ها را صادر کند. این اپلیکیشن هم برای اندروید و هم برای آیفون قابل دسترسی است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Everlapse "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه‌ای است که با استفاده از مجموعه‌ای از عکس‌ها، ضبط‌هایی به سبک flipbook می‌سازد. بنابراین برندها و سایر کاربران می‌توانند بیش از یک عکس را در یک پست به نمایش بگذارند و حتی دیگران را برای تشکیل یک آلبوم عکس بگنجانند. در حال حاضر فقط در دستگاه های آیفون قابل دسترسی است."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.email.block">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تقویت روابط با بازاریابی ایمیلی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در اینجا کلیدهای ایجاد و حفظ روابط قوی با مشتری و گام‌های استراتژیک برای درگیر نگه داشتن مشتریان و سرمایه‌گذاری در کسب‌وکار شما وجود دارد. استراتژی‌های بازاریابی ایمیلی می‌توانند رابطه شما با مشتریان را ایجاد یا از بین ببرند، به همین دلیل ضروری است که اطمینان حاصل کنید که پیام‌های درست را به موقع ارسال می‌کنید. این شش قدم را برای تقویت موثر ارتباط با مشتری بردارید: "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" خطوط ارتباطی با مشتری را باز نگه دارید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مؤثرترین ارتباطات، فروش نرم را به جای زبان فروش سخت در بر می گیرد. خبرنامه‌ها، ایمیل‌ها، توییت‌ها و به‌روزرسانی‌های وضعیت فیس‌بوک (به طور کلی رسانه‌های اجتماعی) روش‌های آسان و مناسبی برای برقراری ارتباط و ترکیب فروش‌های نرم‌افزار هستند. گزارش های کیفیت محصول و گزارش های سالانه شرکت نیز می تواند مشتریان را آگاه کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مراحل وفاداری مشتری را بشناسید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وقتی می دانید مشتریان وفادار شما چه کسانی هستند، به رفتار آنها پاداش دهید. چیزی مانند یک سیستم امتیازی را پیاده سازی کنید که تخفیف یا خدمات رایگان را برای میزان معینی از تعامل با پروفایل های رسانه های اجتماعی یا وب سایت شما ارائه می دهد. شما همچنین می توانید به مشتریان برای ارائه ارجاعات، سرنخ فروش یا تشویق سایر مشاغل به بررسی شما پاداش دهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پشتیبانی مشتری را ارائه دهید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="متخصصان بازاریابی مجهز هستند تا به کسب و کارها نوعی پشتیبانی از مشتری ارائه دهند که همچنین روابط با مشتری را ایجاد می کند. این را می توان از طریق پست های وبلاگ، خبرنامه ها، فیس بوک، توییتر، و بازار رسانه های اجتماعی فراگیر انجام داد، بازاریابان می توانند اطلاعات، بینش، اخبار، مشاوره و حتی کمک های فنی را به مشتریان ارائه دهند. این اقدامات باعث ایجاد علاقه شرکت به مشتریانش می شود و باعث می شود آنها احساس ارزشمندی و نیاز شرکت کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" نظرات مشتریان را بخواهید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="علاوه بر نظارت بر پاسخ‌ها و تعاملات مشتریان با شما، به‌طور دوره‌ای از آنها در مورد محصولات و خدماتی که ارائه می‌دهید نظر بخواهید تا بتوانید تبلیغات و محتوایی را که به آنها ارائه می‌دهید سفارشی کنید. این امر به طور اجتناب ناپذیر تعامل مشتری را افزایش می دهد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایمیل های خود را شخصی سازی کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ایمیل های خود را با درج نام مشتری در تماس برای اقدام ایمیل شخصی سازی کنید. همچنین، ارسال ایمیل از آدرسی که شامل نام و نام خانوادگی است، به جای یک sales@ عمومی را در نظر بگیرید. sara.joe@company.com"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ارسال کارت تبریک"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گهگاه برای مشتریان خود کارت بفرستید تا میزان سپاسگزاری خود را از آنها و کسب و کارشان بیان کنید. همین یک اقدام ساده باعث می شود مشتریان شما احساس احترام، ارزش و از همه بهتر، قدردانی کنند. چند وقفه از فروش شرکت خود برای انجام یک عمل غیر خودخواهانه باعث می شود مشتریان شما احساس خوبی داشته باشند."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

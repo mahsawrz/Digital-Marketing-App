@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.insta.install">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اینستاگرام یکی از بهترین پلتفرم‌های مزایای اجتماعی است. از ایجاد آگاهی از برند گرفته تا میزبانی مسابقات و غیره."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پیمایش از طریق اینستاگرام "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" روش 1 "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای شروعی تازه، اپلیکیشن اینستاگرام را در گوشی ها و تبلت های اندرویدios / دانلود کنید. پس از نصب، برنامه را باز کنید. برای یک حساب کاربری جدید یا با استفاده از آدرس ایمیل خود یا با فیس بوک وارد شوید ثبت نام کنید. اگر با ایمیل ادامه می دهید، نام کاربری و رمز عبور را ایجاد کنید. مشخصات پروفایل خود را پر کنید و ثبت نام تمام شده است. اگر در فیس بوک ثبت نام می کنید، باید به حساب فیس بوک خود وارد شوید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" روش 2 "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="راه دیگر برای نصب برنامه استفاده از رایانه شخصی است. به instagram.com بروید و همین روند را تکرار کنید. با صفحه ورود به سیستم مواجه خواهید شد. این به کاربران جدید اجازه می دهد همانطور که در بالا توضیح داده شد برای یک حساب جدید ثبت نام کنند و کاربران بازگشته می توانند به حساب خود وارد شوند. آنها همچنین می توانند در صورت فراموشی رمز عبور خود را بازیابی کنند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در مرحله بعد، با صفحه نمایه روبرو می شوید که بیوگرافی و پست های شما را نشان می دهد. می توانید آن را ویرایش کنید. "/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="نمایه های وب به شما امکان می دهد با دنبال کردن دامنه instagram.com به حساب خود در وب دسترسی داشته باشید. دوربین یک دوربین اینستاگرام است که به شما امکان می‌دهد روی عکس‌ها کلیک کنید و آن را مستقیما یا از گالری تلفن آپلود کنید. جستجو و کاوش به شما امکان می‌دهد عکس‌ها و ویدیوها را از حساب دیگران بیابید. صفحه اصلی دوستان شما را نشان می دهد. شما می توانید آنها را لایک یا نظر دهید. فعالیت، لایک ها و نظرات روی پست های شما را نشان می دهد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" شرایط اینستاگرام "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="قبل از حرکت به جلو، دانستن برخی از اصطلاحات مهم مرتبط با اینستاگرام مهم است.\n\n پست - یک پست به تصویری اشاره دارد که توسط شخصی در اینستاگرام آپلود می شود. یک پست ممکن است شامل یک عنوان، یک برچسب جغرافیایی و همچنین برچسب های سایر کاربران باشد.\n\n لایک - اینستاگرام مانند بسیاری از وب سایت های شبکه های اجتماعی دیگر نیز بر اساس دریافت لایک و لایک کردن عکس های دیگر کاربران است. شما می توانید یک تصویر را به سادگی با دو بار ضربه زدن روی خود تصویر، یا فقط با کلیک بر روی دکمه پسندیدن در سمت چپ پایین تصویر، لایک کنید.\n\n نام کاربری شما – نام اکانت شما است که افراد برای یافتن شما آن را تایپ می کنند و همچنین آدرسی برای مشاهده آنلاین پروفایل شما در اینستاگرام است.\n\n فالوور - فالوور کاربری است که اکانت شما را دنبال می کند و هر عکسی را که در اینستاگرام منتشر می کنید مشاهده می کند.\n\n کپشن – کپشن عموماً بستر مناسبی برای هشتگ است و فرصتی را برای پیوند دادن عکس‌ها به موضوعات مناسب آنها فراهم می‌کند.\n\n نظرات – واکنش یک کاربر به عکس کاربر دیگر در اینستاگرام."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بهینه سازی پروفایل اینستاگرام "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="قبل از شروع آپلود عکس‌ها و ویدیوها در اینستاگرام، بسیار مهم است که پروفایل‌های اینستاگرام خود را با این هدف که افراد بدانند ما چه کسی هستیم و کجا می‌توانند اطلاعات بیشتری درباره ما پیدا کنند، بهینه کنید. برای این کار ابتدا از صفحه اصلی اینستاگرام، روی لینک Profile در گوشه سمت راست پایین صفحه ضربه بزنید. از اینجا می توانید پروفایل اینستاگرام خود را مشاهده کنید. متوجه خواهید شد که هنوز هیچ اطلاعاتی در اینجا وجود ندارد. برای پر کردن این، روی پیوند ویرایش نمایه خود ضربه بزنید. در این صفحه، فیلدهای متمایز مختلفی وجود دارد که می توانید آنها را پر کنید تا به افراد اطلاعات بیشتری در مورد شخصیت خود بدهید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" هنگام پر کردن جزئیات، باید موارد زیر را در نظر داشته باشید :"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:lineSpacingExtra="7dp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مطمئن شوید که بیوگرافی شما دقیقاً نشان دهنده برند شما است - بیوگرافی شما ارائه شما است. وقتی کسی تصویر شما را پیدا می‌کند، باید مطمئن شوید که بهترین (و واقعی) خود را به جلو می‌گذارید. باید مطمئن شوید که بیوگرافی شما با تصویر شما قابل پیش بینی است. به صدای برند خود پایبند باشید و گروه مورد نظر خود را مورد توجه قرار دهید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تصویر نمایه خود را با دقت انتخاب کنید - علیرغم اینکه از لوگوی خود یا چیز دیگری استفاده می کنید، مطمئن شوید که عکس نمایه شما برای اینستاگرام مناسب اندازه گیری شده است. عکس‌های پروفایل با اندازه نامناسب به نظر نامرتب می‌رسند و اعتبار برند شما را کاهش می‌دهند. مشاهده می شود که بهترین برندهای اینستاگرام از لوگوی سازمان خود به عنوان تصویر پروفایل خود استفاده می کنند. این بسیار توصیه می شود زیرا به ثابت نگه داشتن نام تجاری کمک می کند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بعد از اینکه اطلاعاتی را به پروفایل اینستاگرام ما اضافه کردید. به همین ترتیب، در صورت تمایل می توانید اطلاعات خصوصی خود را به روز کنید، با این حال، این واقعاً مهم نیست زیرا مردم آن اطلاعات را نمی بینند. هر زمان که آماده شدید، روی Done در گوشه سمت راست بالای صفحه ضربه بزنید."/>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

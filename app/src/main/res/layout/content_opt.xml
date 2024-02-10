@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.mystartop1.optActivity"
+    tools:showIn="@layout/activity_opt">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Conversion Rate Optimization"
+            android:fontFamily="@font/iaccent"
+            android:textSize="20sp"
+            android:layout_margin="20dp"
+            android:id="@+id/txtName"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:id="@+id/txtDesc"
+                    android:textSize="20sp"
+                    android:text="بهینه سازی نرخ تبدیل، که معمولاً به طور خلاصه CRO نیز نامیده می شود، اساساً تمرین افزایش فروش و سرنخ های احتمالی از هر وب سایتی است. مزیت اضافه شده این است که بدون افزایش درصد بازدیدکنندگان وب سایت قابل انجام است. با بهبود یا بهینه‌سازی نرخ تبدیل وب‌سایت، این امکان وجود دارد که بازدیدکنندگان بیشتری برای فعالیت بیشتر در وب‌سایت به دست آورید. CRO به جذب کلیک های بیشتر به صفحه اصلی یا وب سایت شما بدون هزینه اضافی کمک می کند. این یک آموزش مقدماتی است که اصول بهینه سازی نرخ تبدیل و نحوه برخورد با اجزا و اجزای مختلف آن را پوشش می دهد."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="بهینه سازی نرخ تبدیل فرآیندی برای تجزیه و تحلیل داده ها، آمار و بینش وب سایت برای بهبود عملکرد است. به بیان ساده‌تر، درصد بازدیدکنندگان تبدیل شده در وب سایت شما را افزایش می دهد. شما باید پتانسیل موجود در وب سایت خود را کشف کنید. جستجو کنید که کاربران به دنبال چه چیزی هستند و چگونه می توانید نیاز آنها را به طور کامل برآورده کنید."/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" اهمیت بهینه سازی نرخ تبدیل"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="دلایل زیادی وجود دارد که چرا CRO باید اولویت اصلی شما باشد. برخی از آنها در اینجا توضیح داده شده است
+مشتریان رایگان - مشتریان شما را بدون هزینه جذب می کند. نیازی نیست که برای تبلیغاتی مانند AdWords خیلی هزینه کنید. هزینه به ازای هر کلیک با افزایش شدید رقابت بی‌سابقه در هر منطقه در حال افزایش است. کانال های بازاریابی مانند AdWords به سرعت بودجه شما را از بین می برند.
+"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="برنده همه چیز را می گیرد - برای رقابت با مشتری، نیازی نیست سخت تلاش کنید، فقط باید بهتر از آنها عمل کنید. بهینه سازی نرخ تبدیل به شما امکان می دهد جنبه روشن تر خود را درک کنید."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="از نظر مالی به شما کمک می کند - افزایش نرخ تبدیل تا 10٪ افزایش سود را اضافه می کند و آن هم بدون هیچ هزینه اضافی."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="بدون دامنه ضرر - بهینه سازی نرخ تبدیل ضرری به شما نمی دهد. می توانید بدون دردسر آن را امتحان کنید."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="کسب و کار قوی - با CRO می توانید بیشتر در کانال های بازاریابی دیگر خرج کنید. این باعث می شود کسب و کار شما متمایز شود. این به شما کمک می کند تا در رقابت پیش بروید."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="دامنه توجه کوتاه مشتریان - با افزایش رسانه های اجتماعی، تعداد بازدید از صفحه افزایش می یابد، اما به طور همزمان مصرف کنندگان دامنه توجه کوتاهی دارند که قبلاً غالب نبود. حالا وقتی خودتان را فهرست کردید، باید متمایز شوید. برای این کار، به بهینه‌سازی کامل نرخ تبدیل نیاز دارید تا توجه مشتریان به محصول شما جلب شود."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="سهولت مشتری - CRO به شما کمک می کند تجارت خود را قانونی و ساده کنید. این یک مسیر واضح از صفحه فرود تا دکمه خرید ایجاد می کند. یک مشتری انتظار خرید با یک کلیک و دسترسی آسان را دارد. در واقع چیدمان فروشگاه بازاریابی شما یا هر چیزی که به آن علاقه دارید را بهبود می بخشد. CRO اصطکاک و اضطراب مشتریان را کاهش می دهد"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="نتایج فوری – برخلاف موتورهای جستجو نتایج فوری به شما می دهد. می توانید نرخ تبدیل بالاتری را مشاهده کنید. این باعث می شود توپ شما برای مدت طولانی در حرکت باشد. تنها چیزی که در اینجا لازم است ثبات است."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:lineSpacingExtra="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="شما باید تعیین کنید که موفقیت برای شما چیست. به عبارت دیگر، شما باید دریابید که اهدافتان چیست. هدف معیاری است برای یافتن اینکه آیا وب سایت شما به کسب و کار شما در کسب سود کمک می کند یا خیر. بسیاری از افراد تجاری نمی دانند هدف نهایی آنها چیست. اغلب ما صفحات وب را می بینیم که پر از اطلاعات ناخواسته یا با اطلاعات کمتری هستند. اگر یک شرکت تجارت الکترونیک هستید، اهداف شما باید «سبد خرید»، «خرید»، «فروش محصول»، «متوسط ارزش سفارش» و غیره باشد. برای شناسایی اهداف خود، یک مانترا را دنبال کنید. اهداف بازاریابی خود را پیدا کنید، سپس مطمئن شوید که اهداف تجاری شما باید از این اهداف بازاریابی پیروی کند. به طور غیرمستقیم، می توانید هدف بهینه سازی تبدیل خود را تعیین کنید. هدف کسب و کار شما نحوه کسب درآمد است و هدف تبدیل شما نیز همینطور است. اگر رسانه‌های اجتماعی به شما فروش مستقیم می‌دهند یا به شما فروش مستقیم می‌دهند، باید به‌جای تلاش برای کاهش نرخ پرش، آن‌ها را بهینه کنید، که تاثیر چندانی بر کسب‌وکار شما ندارد."/>
+                <ImageView
+                    android:id="@+id/imgTitle"
+                    android:layout_width="match_parent"
+                    android:src="@drawable/identifyinggoals"
+                    android:layout_height="260dp"
+                    android:scaleType="fitXY"
+                    ></ImageView>
+                <TextView
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:text=" اندازه گیری اهداف"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:gravity="right"/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="8dp"
+                    android:fontFamily="@font/bnazanin"
+                    android:lineSpacingExtra="10dp"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:text="اندازه گیری هدف برای درک میزان موفقیت برنامه های ما (اهداف مختلف) استفاده می شود. برای اندازه گیری اهداف، فهرستی مرتب تهیه کنید و اهداف را از نظر اولویت فهرست کنید. مدیریت کنید تا اهداف خود را مطابق با آن تکمیل کنید. پس از تهیه این فهرست، مقادیر هدف نسبی را تعیین کنید. این شما را به فرآیند بهینه سازی نزدیک تر می کند. زمان بیشتری را صرف اصلاح این ارزش ها کنید. از ابزار Analytics استفاده کنید. گوگل آنالیتیک بهترین ابزار برای سنجش هدف است. تجزیه و تحلیل گوگل به اندازه گیری فروش محصولات کمک می کند. با کمک اهداف تجارت الکترونیک می توانیم میزان فروش را با توجه به هر محصول اندازه گیری کنیم. ما به راحتی می توانیم اندازه گیری کنیم که کدام محصول پرفروش است. ردیابی رویداد به اندازه گیری اهداف رسانه های اجتماعی مانند میزان تکمیل هدف از طریق نمادهای اجتماعی کمک می کند. بهینه سازی استراتژیک و دوره ای است، اما همیشه جایی برای بهبود وجود دارد. بهینه‌سازی تبدیل با به دست آوردن مشتریان بیشتر در مدت زمان کوتاه‌تر و بدون صرف هزینه‌های بازاریابی، کار را برای شما به ارمغان می‌آورد."/>
+
+
+
+
+
+
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

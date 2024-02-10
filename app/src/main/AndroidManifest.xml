@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mystartop" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyStartop"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.example.mystartop1.home1"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.insta.tmpActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.youtube.safety"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.youtube.tarfand"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.youtube.daramad"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.youtube.img"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.youtube.creative"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.twitter.tabdil"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.twitter.shohrat"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.twitter.usefull"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.twitter.hashtag"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.twitter.followers"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.resane.blog"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.resane.image"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.resane.society"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.resane.video"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.resane.introduction"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mobile.dark"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mobile.shabake"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mobile.app"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mobile.mstrategy"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mobile.fanavari"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.insta.tool"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.insta.send"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.insta.install"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.insta.strategy"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.google.liink"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.google.opage"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.google.binesh"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.google.community"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.google.bussines"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.trick"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.fan"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.post"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.target"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.page"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.facebook.profile"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.email.block"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.email.harz"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.email.contents"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.email.etela"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.email.list"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.digital.google"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.digital.link"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.digital.pin"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.digital.social"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.digital.overview"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.web"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.mobile"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.magazine"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.email"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.content"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.mohtava.customer"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.shive"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.rotbe"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.sood"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.haml"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.forosh"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.amazon.cheraamazon"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.webaActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.seoActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.optActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.UnitActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.ThirdActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.SecondActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.FirstActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mystartop1.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

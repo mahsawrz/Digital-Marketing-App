@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.google.opage">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گوگل پلاس یک موتور اجتماعی قدرتمند است به دلیل ویژگی های چشمگیر آن، تعدادی ابزار قدرتمند که در برندی که توسط هر پلتفرم اجتماعی دیگری قابل تقلید نیست، سودمند است. ویژگی های Google+ کمک می کند تا آن را به ابزاری عظیم برای بهینه سازی موتور جستجو SEO  تبدیل کند. در زیر نکاتی وجود دارد که هنگام بهینه سازی صفحه برای نتایج جستجو باید به خاطر بسپارید :"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="همیشه مطمئن باشید که صفحه +Google شما باید به وب سایت شما مرتبط باشد. حتی می‌توانیم پیوند را در حلقه‌ها بچسبانیم تا تعداد افراد بیشتری از پیوند ما عبور کنند. ما همچنین می توانیم نشان +Google را به وب سایت خود اضافه کنیم. این امر تعداد فالوورهای بیشتری را تضمین می کند.\n\n اطمینان حاصل کنید که اطلاعات درباره را پر کرده و جزئیات مهم کسب و کار را پر کنید.\n\n از یک مقدمه جالب استفاده کنید و ایده روشنی از کسب و کار ارائه دهید.\n\n اطمینان حاصل کنید که اطلاعات تماس شامل شماره تلفن، آدرس و غیره را پر کنید.\n\n برچسب باید شامل یک کلمه کلیدی باشد زیرا همان چیزی است که در جستجوی گوگل نشان داده می شود، بنابراین مطمئن شوید که مرتبط است.\n\n صفحه محلی Google را ادعا کنید زیرا به بالا بردن صفحه در نتایج جستجو در نزدیکی منطقه ما کمک می کند. چه ما صفحه را ادعا کرده باشیم یا نه، مشتریان ما می توانند نظرات خود را بنویسند، اما ادعای صفحه Google صفحه ما را در نوار کناری فهرست می کند. "/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بهینه سازی پست ها و صفحه برای اشتراک گذاری"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر افراد مطلبی را در پست‌ها و صفحات ما جلب کنند، دوست دارند با شبکه خود به اشتراک بگذارند.\n\n در زیر مواردی وجود دارد که باید برای بهینه سازی پست ها / صفحات خود در نظر داشته باشید.\n\n مطمئن شوید که محتوا عالی و جذاب است.\n\n از یک تقویم سرمقاله برای پیگیری پست ها استفاده کنید.\n\n اطمینان حاصل کنید که محتوا مربوط به صفحه ای است که در آن پست شده است.\n\n به اشتراک گذاری محتوا با استفاده از کلمات کلیدی و عبارات خاص، استفاده از هشتگ قبل از کلمات کلیدی به مخاطب کمک می کند تا آن را سریع پیدا کند.\n\n حلقه‌های مناسبی را انتخاب کنید که محتوا / پست‌ها باید در آنها به اشتراک گذاشته شود. به عنوان مثال، وقتی در مورد کسب و کار به اشتراک می گذاریم، باید این محتوا را فقط در محافل تجاری منتشر کنیم.\n\n صفحه را در انجمن ها تبلیغ کنید. وب سایت باید یک نماد Google+  برای هدایت هر بیننده به صفحه داشته باشد. در مورد صفحه با مشتریان بالقوه آنلاین به صورت جداگانه یا در بحث گروهی بحث کنید."/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

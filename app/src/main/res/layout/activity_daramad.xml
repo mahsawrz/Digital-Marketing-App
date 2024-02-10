@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.youtube.daramad">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگامی که ویدیوهای YouTube شما شروع به جذب مخاطبان زیادی می کند، می توانید با فعال کردن کسب درآمد در حساب خود، آن کلیپ ها را به منبع درآمد اضافی تبدیل کنید. کسب درآمد یک فرآیند ساده است که پس از موافقت با شرایط و ضوابط YouTube برای تبلیغات شروع می شود. پس از این، می توانید اجازه دهید تبلیغات با ویدیوهای شما اجرا شود و YouTube بخشی از درآمد تبلیغات را با شما به اشتراک می گذارد.\n در اینجا مراحلی وجود دارد که می توانید برای کسب درآمد از حساب YouTube خود دنبال کنید:"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وارد حساب YouTube خود شوید و سپس روی نام خود در نوار کناری کلیک کنید تا صفحه نمایه YouTube شما باز شود.\n\n روی پیوند «مدیر ویدیو» کلیک کنید، روی «تنظیمات کانال» و سپس روی «کسب درآمد» کلیک کنید تا صفحه کسب درآمد باز شود. این صفحه حاوی اطلاعاتی در مورد انواع ویدیوهایی است که برای تبلیغات واجد شرایط هستند. به طور کلی، می‌توانید تبلیغات را فقط در ویدیوهایی که خودتان ایجاد می‌کنید مجاز کنید، و برای استفاده از هر گونه مطالب دارای حق چاپ در ویدیو باید مجوز کتبی داشته باشید.\n\n روی دکمه فعال کردن حساب من در بالای صفحه کلیک کنید، و سپس کادرهایی را که نشان دهنده توافق با شرایط و ضوابط YouTube است علامت بزنید.\n\n برای فعال کردن کسب درآمد برای حساب خود، روی «می‌پذیرم» کلیک کنید. حتی با وجود اینکه اکنون کسب درآمد برای حساب شما فعال شده است، تا زمانی که تبلیغات را برای ویدیوهای فردی فعال نکنید، درآمدی کسب نخواهید کرد.\n\n روی «تنظیمات کانال» در نوار کناری کلیک کنید و سپس روی «تأیید» کلیک کنید. شماره تلفن خود را وارد کنید، تماس صوتی یا پیامک را انتخاب کنید و سپس روی ارسال کلیک کنید. Google با شما یک کد تأیید شش رقمی تماس می گیرد یا پیامک می دهد که باید در صفحه بعدی وارد کنید. پس از ارسال کد، حساب شما تأیید می شود و می توانید از ویدیوهای خود کسب درآمد کنید.\n\n برای بازگشت به صفحه آپلود، روی «مدیر ویدیو» در نوار کناری کلیک کنید. کادر کنار یک یا چند ویدیوی خود را علامت بزنید و سپس «کسب درآمد» را از منوی «عملکردها» در بالای فهرست انتخاب کنید.\n\n انواع تبلیغاتی را که می خواهید با ویدیوهای خود مجاز کنید انتخاب کنید. YouTube همیشه تبلیغات بنری را در بالا یا کنار ویدیوهای شما نمایش می دهد، اما همچنین می توانید به تبلیغات پیش نمایش قبل از ویدیو اجازه دهید یا به تبلیغات همپوشانی اجازه دهید به صورت شفاف در قسمت پایین ویدیوی شما ظاهر شوند.\n\n پس از انتخاب خود روی کسب درآمد کلیک کنید. YouTube تبلیغات شما را پیش‌نمایش می‌کند تا مطمئن شود که الزامات کسب درآمد را برآورده می‌کنند و بعد از حدود 48 ساعت آنها را تأیید یا رد می‌کند.\n\n در برخی موارد YouTube ممکن است از شما اسناد کتبی بخواهد مبنی بر اینکه شما دارنده حق نسخه برداری مطالب موجود در ویدیو هستید. ویدیوهای شما پس از پذیرفته شدن در صفحه آپلودهای شما برچسب کسب درآمد می شوند."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

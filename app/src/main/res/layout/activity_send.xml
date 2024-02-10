@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.insta.send">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="این قسمت به ارسال عکس و فیلم در اینستاگرام می پردازد. همچنین نحوه تقویت تعامل با سایر کاربران و دنبال کنندگان را نیز پوشش می دهد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ارسال عکس و فیلم "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مهم‌ترین جزء اینستاگرام، آشکارا، به اشتراک گذاری عکس است. بنابراین برای آپلود یک عکس، ابتدا روی دکمه آبی دوربین در مرکز پنل ناوبری اینستاگرام خود کلیک کنید. اینستاگرام به‌طور خودکار دوربین دستگاه شما را فعال می‌کند، به طوری که می‌توانید در آن زمان روی عکس کلیک کنید یا تصویری را انتخاب کنید که قبلاً در دستگاه شما ذخیره شده است. اگر دومی را انتخاب کردید، روی دکمه مربع دوتایی در گوشه سمت چپ پایین صفحه کلیک کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="نکته ای که باید در نظر داشته باشید این است که اگر عکسی را از رول دوربین خود انتخاب کنید، اینستاگرام عکس ها را به مربع های کامل اندازه می دهد. بنابراین، اگر عکسی را انتخاب کنید که در ابتدا به صورت افقی گرفته شده است، باید بخش هایی از تصویر را برش دهید یا با حاشیه سیاه پیش فرض زندگی کنید. با استفاده از ویدیوی اینستاگرام، می‌توانید کلیپ‌های ویدیویی کوتاهی با طول سه تا پانزده ثانیه ضبط کنید. برای ضبط ویدئو، دکمه دوربین را فشار داده و گزینه ضبط کننده ویدئو را در سمت راست انتخاب کنید. اگر از ویدیو راضی نیستید، می توانید آن را نیز حذف کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگامی که شروع به آپلود عکس ها و ویدیوها در اینستاگرام می کنید، فالوورهای شما شروع به تعامل با آن عکس ها و ویدیوها می کنند. آنها شروع به لایک کردن و نظر دادن در مورد آنها می کنند. از این رو، مهم است که فعالیت خود را به چند دلیل مختلف بررسی کنید. به طور عمده، مهم است که به بازخورد دنبال کنندگان خود گوش دهید. احتمالاً شما به تازگی عکسی از یک محصول کاملاً جدید ارسال کرده اید و فالوورها در مورد اینکه چه چیزی را دوست دارند و چه چیزی را دوست ندارند نظر می دهند. این اطلاعات مهمی است که می توانید در اینجا در اینستاگرام جمع آوری کنید. علاوه بر این، این یک راه عالی برای سنجش میزان رفاه شما در اینستاگرام است."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وقتی در مورد تقویت کسب و کار از طریق اینستاگرام صحبت می کنیم، بازی اصلی درگیر کردن افراد است. رسانه‌های اجتماعی درباره فالوورها و لایک‌ها نیستند، بلکه مربوط به دریافت فالوورهای شما از پست‌های شما هستند. چه سودی برای آنها دارد؟ چگونه متوجه می شوید که مردم با محتوای شما درگیر هستند؟ پاسخ به این ساده است. هر چه نظرات بیشتر باشد تعامل بیشتر است. وقتی در مورد تقویت تعامل در رسانه های اجتماعی صحبت می کنیم، به نظر می رسد که افراد اینستاگرام مشتاق ترین هستند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" برای دستیابی به تعامل بیشتر : "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از هشتگ استفاده کنید هشتگ ها پست ها را در صفحه هشتگ مربوطه قابل مشاهده می کنند. هنگامی که متن شما با هشتگ دنبال می شود، صفحه شما توسط افرادی که درخواست شما را جستجو می کنند بیشتر قابل کشف است.\n\n یک انجمن بسازید. سعی کنید بزرگترین جامعه ممکن را بسازید. وقتی در مورد پست شخصی نظر می دهید، تمایل دارید که او را دنبال کنید. این تعامل به شما امکان می دهد نام شما به طور مکرر در فید آنها ظاهر شود. این باعث ایجاد تعامل می شود.\n\n از یک تم جذاب استفاده کنید. اگر مقاله شما در یک موضوع خاص باشد، جذاب تر و جذاب تر به نظر می رسد.\n\n از رنگ های زیبا استفاده کنید تا ظاهر دلپذیری به حساب کاربری خود بدهید. این باعث می شود فید شما زیبا به نظر برسد و خوانندگان را مقید کند.\n\n برای به دست آوردن فالوور، یک داستان بگویید. پست شما نباید فقط یک تصویر باشد، باید داستانی تاثیرگذار برای گفتن داشته باشد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تعامل با جامعه "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="رسانه های اجتماعی فقط تبلیغات نیستند. این در مورد تعامل با مردم، گروه ها و جوامع است. برای تعامل با انجمن اینستاگرام، نماد جستجوی ذره بین را در پایین صفحه جستجو کنید. می توانید افراد مورد نظر را در اینجا جستجو کنید. شما می توانید به دنبال دوستان، مربیان، رقبا، افرادی باشید که برای شما مفید هستند. برای شروع تعامل، پست را با دوبار کلیک کردن روی پست یا با کلیک روی دکمه قلب لایک کنید. برای ارتقای سطح بیشتر این تعامل، با کلیک کردن روی نماد حباب چت، نظر بدهید. افراد خاصی را با استفاده از پیشوند @ قبل از نام آنها ذکر کنید. جامعه اینستاگرام قطعا راه جدیدی برای تعامل با مردم است. بیش از 150 میلیون نفر هر ماه در این پلتفرم با یکدیگر تعامل دارند."/>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

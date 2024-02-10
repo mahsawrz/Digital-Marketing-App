@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.home1">
+
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:background="@color/toosi"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/red"
+            android:textSize="20dp"
+            android:fontFamily="@font/bnazanin"
+            android:text="بازار آمازون" />
+
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="10dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+      android:text="آمازون، غول تجارت الکترونیک   یکی از قدیمی ترین بازرگانان در وب است و بیش از 200 میلیون مشتری در سراسر جهان دارد. آمازون بازار بی‌رقیب برای فروش آنلاین محصولات است. این یک پلتفرم عالی برای انجام تجارت آنلاین است و هم برای خریداران   و  هم برای فروشندگان مفید است. آمازون یک سایت تجارت الکترونیک بسیار محبوب است که می تواند به گسترش دسترسی شما در بازار و بهبود دیده شدن محصول شما به روشی منحصر به فرد کمک کند. در این آموزش سعی خواهیم کرد، نحوه عملکرد Amazon Marketplace را درک کنیم."/>
+
+</LinearLayout>

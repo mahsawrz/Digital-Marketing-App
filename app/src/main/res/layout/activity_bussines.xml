@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.google.bussines">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گوگل پلاس بیش از 300 میلیون کاربر فعال دارد. از این رو، می توان از آن برای اهداف تجاری برای دستیابی به میلیون ها مشتری در سراسر جهان استفاده کرد. پلتفرم +Google از طریق داشبورد «Google برای کسب‌وکار من» مدیریت می‌شود. از نقشه‌ها، جستجو، و +Google استفاده می‌کند تا نمایان شدن بیشتر برند ما در جستجو را آسان کند. این به کاربران اجازه می دهد تا تجربیات خود را در قالب نقد به اشتراک بگذارند. ما می‌توانیم از این بررسی‌ها برای کسب اعتبار بیشتر، بهبود رتبه جستجو و تأثیرگذاری بر خریداران استفاده کنیم. برای راه اندازی یک صفحه تجاری ابتدا باید یک حساب کاربری ایجاد کنیم."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از مکان های business.google.com یا Google برای کسب و کار من دیدن کنید. در صورت وجود تعداد زیادی کسب و کار در مکان های مختلف، باید برای همه آنها به صورت جداگانه یک حساب کاربری ایجاد کنیم. روی نماد ☰ در گوشه سمت چپ بالای صفحه کلیک کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="روی ایجاد حساب تجاری کلیک کنید. نوع کسب و کار را وارد کنید، سه گزینه برای انتخاب ارائه می دهد : ویترین فروشگاه - اگر قرار است مشتریان از محل کسب و کار ما بازدید کنند، این گزینه را انتخاب کنید. در نتایج جستجو، Google+‎ مکان، مدت زمان و سایر اطلاعات تماس مانند شماره تلفن، آدرس و غیره را نشان می‌دهد. منطقه خدمات - اگر قرار است به مشتریان در محل خود خدمات ارائه شود، این گزینه را انتخاب کنید. در نتایج جستجو، Google+‎ مکان، مدت زمان و سایر اطلاعات تماس مانند شماره تلفن، آدرس و غیره را نشان می‌دهد. نام تجاری - در نتایج جستجو، Google+‎ مکان، مدت زمان و سایر اطلاعات تماس را نشان نمی‌دهد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="منطقه خدمات و ویترین گزینه برای مشاغل محلی هستند و برند برای نوع محصول است. از گزینه 1 و 2، اگر یکی از آنها را انتخاب کنیم، از ما خواسته می شود نام کسب و کار و مکان را انتخاب کنیم. اطلاعات کسب و کار را اضافه کنید با افزودن عکس های برند و همچنین با ایجاد یک URL که آدرس وب قابل تشخیصی از برند را ارائه می دهد، نمایه کسب و کار را برای دیگران مناسب و جذاب جلوه دهید. همچنین می توانیم با انتخاب مکان، صفحه کسب و کار را به صفحات موجود متصل کنیم. روی مدیریت این مکان کلیک کنید. روی نماد همبرگر در سمت چپ بالای صفحه کلیک کنید. تنظیمات را انتخاب کنید و سپس روی Connect a other page کلیک کنید. صفحه +Google را که قرار است به صفحه حساب کسب و کار متصل شود از منوی کشویی انتخاب کنید و روی انجام شد کلیک کنید. یک حساب کاربری ایجاد خواهد شد. هر زمان که بخواهیم می‌توانیم حساب تجاری را تغییر نام دهیم یا حذف کنیم."/>
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

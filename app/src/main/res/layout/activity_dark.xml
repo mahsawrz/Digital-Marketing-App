@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.mobile.dark">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="دستگاه های تلفن همراه به کاربران کمک می کنند تا در جهان حرکت کنند. مشتریان برای تمام جنبه های نیاز خود از دستگاه های تلفن همراه استفاده می کنند. آنها بر اساس اطلاعاتی که می بینند عمل می کنند. بنابراین تبلیغ‌کنندگان باید تبلیغات آنلاین را گسترش دهند و باید تلاش کنند تا در موبایل دیده شوند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" کاربران موبایل - آمار"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="طبق نظرسنجی انجام شده توسط گوگل با مشارکت Ipsos OTX MediaCT بر روی بیش از 5000 کاربر، 89٪ در طول روز از گوشی های هوشمند استفاده می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" خارج از این "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="89٪ متصل می مانند\n\n 82% تحقیق و خواندن اخبار\n\n 75% ناوبری\n\n 65% سرگرمی\n\n 45 درصد مدیریت و برنامه ریزی می کنند\n\n 70٪ از دستگاه های تلفن همراه برای خرید استفاده می کنند\n\n 82 درصد به تبلیغات در دستگاه های تلفن همراه توجه می کنند که حدود 42 درصد از آنها جلو می روند و روی تبلیغات کلیک می کنند"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تبلیغ کنندگان باید از خدمات مبتنی بر مکان استفاده کنند تا به راحتی در دسترس باشند. در حال حاضر داشتن یک وب سایت واکنش گرا ضروری است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" راه هایی برای شناخت مخاطبان موبایل "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="می توانید از روش های زیر برای درک بیشتر مخاطبان تلفن همراه خود استفاده کنید :"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اندازه گیری ضبط های کاربر - در اینجا هر حرکت کاربر ضبط می شود. این امر به دام انداختن رفتار کاربران آسان می کند.\n\n نقشه های حرارتی به شما اطلاعاتی از عملکرد کاربران ارائه می دهد. می‌توانید ببینید که آن‌ها کجا بیشتر ضربه می‌زنند و نیاز به تغییر رابط کاربری شما دارند.\n\n تجزیه وتحلیل‌های درون برنامه‌ای بی‌درنگ به شما بینشی از روان کاربر و تمام اقداماتی که روی صفحه‌نمایش انجام می‌دهند، می‌دهد."/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

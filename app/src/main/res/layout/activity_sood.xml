@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.amazon.sood">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="کسب بالاترین سود هدف نهایی همه فروشندگان است و باید چنین باشد، زیرا این چیزی است که اکثر فروشندگان را به بازار آمازون می کشاند. دو پارامتر کلیدی در فرمول بندی یک کسب و کار سودآور وجود دارد. آنها هستند : تقاضا برای محصول شما، حاشیه فروش."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" تقاضا برای محصول شما "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="شما می توانید با سنجش تقاضای محصولی که روی آن سرمایه گذاری می کنید، ارزش آن را داشته باشید یا خیر. سعی کنید ببینید چند نفر دقیقاً به خرید محصولی که قرار است بفروشید علاقه مند هستند. چه نیازی به همین است؟ چند فروشنده دیگر در صف پاسخگویی به تقاضا و با چه محصولی با کیفیت هستند؟"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" حاشیه در فروش "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="حاشیه ای که در فروش خود به دست می آورید به همان اندازه مهم است. چیزی که افراد زیادی می فروشند لزوماً به این معنی نیست که با سود بالا به فروش خوبی می رسد. هیچ معیار استانداردی برای اینکه دقیقاً چه چیزی حاشیه خوب است وجود ندارد. حاشیه ها تا حد زیادی به کمیت بستگی دارد. اگر تقاضا زیاد باشد و حاشیه سود کمتری برای محصول دریافت کنید، حتی در آن صورت فروش به طور خودکار به سوددهی تبدیل خواهد شد."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="در زیر چند ترفند برای هدف قرار دادن فروش بالا آورده شده است :"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="جعبه خرید را هدف قرار دهید - برنده شدن در جعبه خرید چیزی فراتر از قیمت است. کاهش قیمت برای شکست دادن فروشنده ای با رتبه بندی ضعیف، که در غیر این صورت ارزشی برای برنده شدن در جعبه خرید ندارد."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="قیمت های خود را با شرایط با رقبا مقایسه کنید - قیمت های خود را با محصول جدید رقبا در برابر یک محصول جدید و کارکرده مقایسه کنید و سپس قیمت خود را فهرست کنید."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="از گله پیروی نکنید - از قیمت گذاری در برابر تاجران با رتبه پایین اجتناب کنید. خریداران دوست ندارند از فروشنده ای با رتبه پایین خرید کنند. اگر چند تاجر قیمت های خود را برای مبارزه با آن کاهش می دهند، بخشی از آنها نباشید. به سادگی دور بمانید و روی اهداف مختلف تمرکز کنید."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="سعی کنید بالاترین رتبه را به دست آورید - مشتری شما بدون شک بزرگترین دارایی شماست! محصول با کیفیت را با نرخ های قابل اعتماد و خدمات حمل و نقل خوب به مشتری خود عرضه کنید. به شکایات پس از معامله نگاه کنید و سعی کنید بیشتر آنها را حل کنید. قیمت و کیفیت خود را دائما بررسی کنید. به بازخورد مشتری توجه کافی داشته باشید و به هر سوالی پاسخ دهید. همه اینها در نهایت شما را وارد منطقه فروشنده با رتبه بالا می کند."/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

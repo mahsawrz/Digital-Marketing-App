@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.email.etela">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ایمیل یک راه فوق العاده برای اعلام محصول یا خدمات جدیدی است که کسب و کار شما ارائه می دهد. کلید هیجان‌انگیز کردن مخاطبان در مورد آخرین پیشنهاد کسب‌وکارتان، پاسخ دادن به این چهار سؤال در ایمیل اعلام محصول بعدی است : چیست؟ چرا باید اهمیت بدهم؟ شامل چه چیزی است؟ چگونه می توانم آن را دریافت کنم؟"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به مخاطبان خود بگویید دقیقاً چرا به آنها ایمیل می‌فرستید و محصول یا خدماتی که در دسترس دارید. به عنوان مثال: موسسه ABC خوشحال است که یک کلاس ریاضی جدید را اعلام می کند یا آخرین مجموعه ما اکنون در فروشگاه پوشاک XYZ موجود است. ساده و مستقیم باشید و به مخاطبان خود اطلاع دهید که چه چیزی جدید است. از بیانیه مختصر، کوتاه و مستقیم خود به عنوان عنوان ایمیل یا حتی در خط موضوع خود استفاده کنید. در ایمیل خود، باید تصویری از محصول جدید یا تصویری که نشان دهنده خدمات جدید شما باشد نیز قرار دهید. بله، واقعاً درست است که یک تصویر هزار کلمه ارزش دارد، و این هزار کلمه کمتر است که برای کمک به فروش محصول جدید خود باید بنویسید!"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چرا باید اهمیت بدهند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در ایمیل خود، به مخاطبان خود بگویید که چرا باید وقت خود را صرف مراقبت از پیام شما کنند. مزایای محصول یا خدمات جدید خود را به آنها بگویید که مستقیماً بر آنها تأثیر می گذارد. در مثال مؤسسه ما، می‌توانید چیزی مانند کلاس ریاضی جدید ما برای دانش‌آموزانی که به‌دنبال شغل حسابدار هستند، عالی است. بیان واضح مزایای محصول یا خدمات جدید می تواند علاقه مشتریان شما را برانگیزد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" شامل چه چیزی است؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هدف از ایمیل اعلام محصول این است که خوانندگان شما را به اندازه کافی علاقه مند کند تا بر روی تماس برای اقدام شما کلیک کنند. نیازی نیست فهرستی از لباس‌های شسته ‌شده را از هر کالایی که در محصول جدیدتان گنجانده شده است، بنویسید. با این حال، شما باید ویژگی های اصلی را که برای مصرف کنندگان جالب است، درج کنید. در مثال فروشگاه لباس ما، می‌توانید چیزی شبیه این بگویید: آخرین مجموعه ما از اوایل دهه ۷۰ الهام گرفته شده است و شامل کیف‌های جین، لباس‌های سرپوشیده، دامن‌های جیر و موارد دیگر است. تمام لباس‌های ما با وعده‌ی کیفیت ساخته شده‌اند. فهرست ساده ای از ویژگی های کلیدی یک محصول یا خدمات جدید به تمرکز ایمیل شما کمک می کند. اگر تخفیف یا تبلیغ ویژه ای برای معرفی محصول ارائه می دهید، باید در ایمیل شما نیز بسیار برجسته باشد. به عنوان مثال: فقط برای مدت زمان محدود، 15٪ تخفیف برای هر کالایی در مجموعه جدید ما ذخیره کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چگونه می توانم آن را دریافت کنم؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="کاملاً مشخص کنید که گیرنده ایمیل شما باید چه کاری انجام دهد تا محصول یا خدمات جدید شما را دریافت کند. اگر محصول یا خدمات را به صورت آنلاین می فروشید، دکمه واضح خرید کن کار می کند. اگر می‌خواهید افراد را برای دریافت جزئیات بیشتر به وب‌سایت هدایت کنید، بیشتر بدانید را امتحان کنید. اگر می خواهید کاربران را به سمت تماس یا بازدید سوق دهید، شماره تلفن یا آدرس فیزیکی خود را در ایمیل برجسته کنید. ما یک مولد دکمه تماس به اقدام مفید برای ایمیل های شما داریم."/>
+        </LinearLayout>
+    </ScrollView>
+        </LinearLayout>

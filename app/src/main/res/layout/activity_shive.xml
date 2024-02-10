@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.amazon.shive">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="برای اطمینان از اینکه ادغام آمازون با فروشگاه شما به خوبی کار می کند و فروش گسترده ای دارید، چند روش برتر وجود دارد که باید از آنها مراقبت شود."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="برای استفاده موثر از Amazon Marketplace باید موارد زیر را در نظر داشته باشید :"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="  به جای اشتراک انفرادی، یک اشتراک تجاری حرفه ای دریافت کنید.\n\n  به جای اینکه مسئولیت بزرگ حمل و نقل محصول را به عهده بگیرید، با خدمات FBA بفروشید. این به شما کمک می کند تا هجوم عظیم سفارش ها را بدون مالیات بر زمان و منابع خود مدیریت کنید.\n\n  در بین فروشندگان دارای امتیاز بالا رقابتی بمانید و برنده جعبه خرید باشید.\n\n  بر روی بازخورد مشتری کار کنید سعی کنید توصیه های واقعی را اجرا کنید.\n\n  مطمئن شوید ارزی که در حساب فروشنده آمازون خود استفاده می کنید همان ارزی است که در فروشگاه خود استفاده می کنید.\n\n  هنگام اعمال قیمت فروش در فهرست آمازون، «تاریخ شروع فروش» و «تاریخ پایان فروش» را تعیین کنید تا مدت زمانی را که کالا را با قیمت پایین‌تری عرضه می‌کنید، محدود کنید.\n\n  لیست های منحصر به فرد را اضافه کنید. محصولات منحصر به فرد بیشتر در معرض فروش خوب هستند.\n\n  برای جذب مشتریان تخفیف ارائه دهید.\n\n  موجودی کافی برای انجام سفارشات آمازون در بازه زمانی مشخص شده ارسال داشته باشید.\n\n  برای سفارشات آمازون، قبل از کلیک بر روی تکمیل سفارش، روش ارسال و شماره پیگیری را به سفارش اضافه کنید تا مطمئن شوید که اطلاعات ردیابی به آمازون بازگردانده می شود. برای یک سفارش فقط از یک شماره پیگیری می توان استفاده کرد."/>
+
+
+
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

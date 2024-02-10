@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.mobile.app">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اپلیکیشن‌های موبایل امروز در خشم هستند و برای مدت طولانی در آینده نیز وجود خواهند داشت. دلیل ساده است - یک برنامه تلفن همراه شخصی تر از یک وب سایت است. اگر مشتریان برنامه ای را دوست داشته باشند یا اگر به آن نیاز دارند، دانلود می کنند. این یکی از دلایلی است که چرا یک برنامه تلفن همراه اغلب درآمد بیشتری را نسبت به یک وب سایت برای یک تجارت به ارمغان می آورد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اپلیکیشن موبایل چیست؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برنامه تلفن همراه یک برنامه کامپیوتری است که مخصوصاً برای اجرا بر روی دستگاه‌های تلفن همراه از جمله تلفن‌های همراه، تبلت‌ها، تلفن‌های هوشمند و غیره توسعه یافته است. به عنوان مثال، اگر یک وب سایت آنلاین دارید که در درجه اول محتوا را به مشتریان خود ارائه می دهد، ممکن است بخواهید به جای یک برنامه کاربردی، به دنبال یک وب سایت تلفن همراه باشید. با این حال، برای مشاغل خاصی مانند یک بازی که نیاز به استفاده از دوربین یا سایت تجارت الکترونیکی دارد که از داده‌های موقعیت جغرافیایی استفاده می‌کند، ممکن است با یک برنامه تلفن همراه منتفع شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اپلیکیشن موبایل چگونه کار می کند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر همیشه مشتریان را در کانون توجه خود قرار دهید، یک اپلیکیشن موبایل می تواند شگفتی هایی برای کسب و کار شما ایجاد کند. به عنوان مثال، اگر مشتریان شما عمدتاً حرفه ای در تجارت هستند که از تلفن بلک بری استفاده می کنند، ممکن است یک برنامه بازی برای آنها جذاب نباشد. نکته اصلی این است که شما باید قبل از طراحی اپلیکیشن موبایل، استفاده/علاقه مشتریان خود را به دقت بررسی کنید. هنگامی که تصمیم به توسعه استراتژی اپلیکیشن موبایل گرفتید، باید به دو نکته مهم زیر توجه کنید:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1)  برنامه خود را برای چندین دستگاه و پلتفرم طراحی کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="دو تا از محبوب‌ترین نرم‌افزارهای کاربردی موبایل «سیستم‌عامل اپل» و «سیستم‌عامل اندروید» هستند. با این حال، سیستم عامل مایکروسافت نیز قابل توجه است. . بنابراین، هنگام طراحی اپلیکیشن خود، مطمئن شوید که روی هر سه نرم افزار کاربردی برتر اجرا می شود. هنگامی که این کار را انجام دادید، باید به جزئیات طراحی دیگر مانند اندازه صفحه نمایش دستگاه های مختلف تلفن همراه، قابلیت استفاده از رابط و غیره توجه کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" 2) روش های مختلف برای بازاریابی اپلیکیشن موبایل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="راه های مختلفی برای بازاریابی اپلیکیشن موبایل شما وجود دارد. اولین موردی که به ذهن می رسد البته اپ استور اپل است. بازار اندروید نیز وجود دارد. این فروشگاه ها برخی از بهترین مکان ها برای نمایش اپلیکیشن های موبایل شما هستند. شما همچنین می توانید آنها را در سایت های دانلود مستقیم مانند download.com، getjar.com و غیره بازاریابی کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مزایای اپلیکیشن موبایل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="قدرتمندترین جنبه یک اپلیکیشن موبایل، ایده شخصی سازی است. از یک وب‌سایت صرف، به ابزاری شخصی تبدیل می‌شوید که به مشتریان خود کمک می‌کند تا تعدادی از فعالیت‌ها را از خرید آنلاین گرفته تا انجام یک بازی انجام دهند. کل فرآیند فروش روی سر می‌چرخد و شرکت شما با مشتریانی که همچنان با خریدهای درون‌برنامه‌ای به شما پول پرداخت می‌کنند، رابطه صمیمی برقرار می‌کند و همچنین نام برند شما را از طریق دهان به دهان محبوب می‌کند."/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.mohtava.email">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایمیل چرخه حیات چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ایمیل‌های چرخه حیات اساساً ایمیل‌های مبتنی بر مجوز هستند که به مشتریان شما ارزش ارائه می‌دهند. هنگامی که مشتریان شما برای محصول یا خدمات شما ثبت نام می کنند، می توانید از آنها بخواهید که این اشتراک های ایمیل را دریافت کنند. خبرنامه های الکترونیکی معمولاً به صورت هفتگی یا ماهانه توزیع می شوند. بیایید ببینیم چه زمانی و چرا می‌توانید این ایمیل‌ها را ارسال کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایمیل‌های چرخه زندگی چگونه کار می‌کنند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اینها ایمیل هایی با محتوای آموزشی برای مشتریان جدید هستند. منظور ما از محتوای آموزشی، بینش‌ها، استراتژی‌ها یا دانش‌هایی است که شما به‌عنوان یک کسب‌وکار به مشتریان خود ارائه می‌دهید تا به آنها در انجام وظایفشان کمک کنید. به عنوان مثال، فرض کنید شما یک شرکت آموزش الکترونیکی هستید که نرم افزار آموزشی را به شرکت ها می فروشد. می‌توانید ایمیل‌های چرخه عمر ایجاد کنید، که استراتژی‌های مفیدی را برای غلبه بر چالش‌های مرتبط با آموزش مانند کاهش هزینه‌ها و صرفه‌جویی در ساعات کاری کارمندان به مشتریان خود ارائه می‌دهد. می توانید این ایمیل های چرخه عمر را در طول یک هفته، ماه یا حتی یک سال پخش کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مزایای استفاده از ایمیل چرخه حیات"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مزایای چرخش ایمیل های چرخه حیات بسیار زیاد است. از آنجایی که ایمیل های چرخه عمر برای مشتریان جدید شما هدف قرار می گیرند، هدف اصلی آنها هدایت قیف فروش شما است. با این حال، شما مستقیماً محصول یا خدماتی را به مشتریان خود ارائه نمی کنید. در عوض، شما سعی می کنید به آنها ارزش بدهید، به طوری که آنها به شما به عنوان رهبران فکری در صنعت نگاه کنند. از این نظر، بیشتر مربوط به برندسازی است، اما به آرامی مشتریان شما را به سمت فروش سوق می دهد."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

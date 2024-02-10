@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.mohtava.customer">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شناسایی مخاطبان هدف خود بخش آسانی است. چیزی که برای یک کسب و کار چالش برانگیزتر است، درک مشکلات مشتریانش است. هنگامی که مشکلات مصرف کنندگان خود را درک کردید و نیازهای آنها را درک کردید، می توانید راه حل های عالی برای رفع این نیازهای خاص ارائه دهید. هنگامی که می خواهید یک استراتژی بازاریابی محتوا ایجاد کنید، شناخت مخاطبان و نیازهای آنها مهمترین کار است. اما چگونه مطمئن می شوید که مشکلات واقعی مشتریان خود را نوشته اید و آنها را فقط تصور نکرده اید؟ شما می توانید این کار را با انجام چهار مرحله ذکر شده در زیر انجام دهید :"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مشتریان اصلی خود را فهرست کنید "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای فهرست دقیق مشتریان اصلی خود، نام و هویت خاصی به آنها بدهید. به عنوان مثال، اگر شما یک شرکت مسافرتی را اداره می کنید، ممکن است مخاطبان شما در زیر مجموعه قرار گیرند: مسافران باتجربه، مسافران گاه به گاه، گردشگرانی که از یک شهر بازدید می کنند، ساکنان محلی در حال گشت و گذار در شهر و غیره."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اطلاعات مربوط به مشتریان خود را جمع آوری کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شما می توانید اطلاعات مشتریان اصلی خود را به روش های مختلفی جمع آوری کنید  : یک نظرسنجی از مشتریانی که از سایت شما بازدید می کنند انجام دهید، سوالاتی را که مشتریان می پرسند از خدمات مشتری خود بپرسید، ایمیل ها و بازخورد مشتریان را در صفحه تماس یا راهنمایی خود بخوانید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ویژگی های مشتریان اصلی خود را شناسایی کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شناسایی ویژگی های مشتریان اصلی شما به معنای یادگیری تجربیات مشتریان است. برای مثال، مسافران باتجربه ممکن است درباره کدهای فرودگاه و بلیت های الکترونیکی بدانند، اما مسافران گاه به گاه ممکن است ندانند. چنین اطلاعات جامعی به شما کمک می کند تا محتوایی بسازید که نیازهای هر مشتری را برآورده کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" ایجاد شخصیت"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="بهترین راه برای تجسم و درک نیازهای مشتری، ایجاد شخصیت است. هنگام ایجاد آن، جزئیات خاصی را به مشتری بدهید، به عنوان مثال: یک نام اختصاص دهید - امیر، سن - 45 سال، حرفه - مدیر ارشد فناوری اطلاعات، وظایف وب - روزانه اخبار فناوری را می خواند، بلیط های سفر را رزرو می کند، آخر هفته ها چیزهایی می خرد و غیره."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.mystartop1.email.list">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" لیست پستی چیست؟ "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="لیست پستی صرفاً لیستی از آدرس هایی است که همان اطلاعات به آنها ارسال می شود. اگر شما یک ناشر مجله بودید، فهرستی از آدرس های پستی همه مشترکین مجله را خواهید داشت. در مورد یک لیست پستی الکترونیکی، ما از لیستی از آدرس های ایمیل افراد علاقه مند به شنیدن یا بحث در مورد یک موضوع معین استفاده می کنیم."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" لیست های اعلامیه "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از اینها استفاده می شود تا یک فرد یا گروه بتواند اعلانات را برای گروهی از افراد ارسال کند، دقیقاً مانند فهرست پستی ناشر مجله برای ارسال مجلات. به عنوان مثال، یک گروه ممکن است از یک لیست پستی استفاده کند تا به طرفداران خود در مورد کنسرت های آینده خود اطلاع دهد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" لیست بحث"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="این برای اجازه دادن به گروهی از افراد برای بحث در مورد موضوعات در بین خود استفاده می شود، با هر کسی که می تواند نامه ای را به لیست ارسال کند و آن را برای همه افراد گروه توزیع کند. این بحث همچنین ممکن است تعدیل شود، بنابراین فقط پست‌های منتخب برای کل گروه ارسال می‌شوند یا فقط افراد خاصی مجاز به ارسال به گروه هستند. به عنوان مثال، گروهی از علاقه مندان به هواپیمای مدل ممکن است از یک لیست پستی برای به اشتراک گذاشتن نکاتی در مورد ساخت مدل و پرواز خود استفاده کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مجموعه ای از ایمیل ها"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اولین کار برای بازاریابی ایمیلی جمع آوری آدرس ایمیل کسانی است که مایلند به شما گوش دهند. روش های زیادی برای جمع آوری داده ها با جزئیات وجود دارد، اما برای این آموزش، من فقط یک مرور کلی از روش های مختلف ارائه می دهم."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" فرمولی برای رشد لیست ایمیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در تجزیه و تحلیل وب سایت ها و تکنیک های برخی از سازندگان لیست ایمیل عالی، فرمول خاصی شروع به ظهور کرد. اگر می‌توانستیم فرآیند ساخت یک لیست ایمیل عظیم را فقط به ابتدایی‌ترین بخش‌های آن تقسیم کنیم، به این شکل به نظر می‌رسید : آیا واقعاً می تواند به این سادگی باشد؟ من هم اینچنین فکر میکنم. اساساً همه چیز با محتوا شروع می شود. مردم سایت شما را به دلیل محتوای شگفت انگیز شما پیدا خواهند کرد. آنها برای این محتوای شگفت انگیز باز خواهند گشت. محتوای شما پایه و اساس ایمیلی خواهد بود که برای آنها ایمیل می کنید، که دلیلی برای مشترک ماندن (یا عدم اشتراک) آنها خواهد بود. همه چیز با محتوای شگفت انگیز شروع می شود. اگر محتوای شگفت انگیزی دارید، شروع به درخواست ایمیل کنید. افرادی که علاقه مند هستند مایلند آن محتوا را هر چند وقت یکبار که شما ایجاد می کنید دریافت کنند و مستقیماً به صندوق ورودی آنها تحویل داده شود."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" استراتژی های رشد لیست ایمیل"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آخرین دستورالعمل شما به خواننده  CTA (Call-to-Action)است - به نظر می رسد کسانی که لیست می سازند، وب، وبلاگ خود را به بهترین شکل طراحی می کنند و دعوت به عمل می کنند. شما نمی توانید از تماس های آنها برای ثبت نام فرار کنید. ممکن است یک ثبت نام در یک پاپاور، یک ثبت نام در بالای یک پست وبلاگ، یک ثبت نام دیگر در پایین وجود داشته باشد. اساساً، طراحی فرض می‌کند که افراد سایت را متفاوت می‌بینند و برای به حداکثر رساندن شانس اینکه یک مشترک بالقوه فرم ثبت‌نام را ببیند، بهتر است فرم‌های ثبت‌نام را در همه جا قرار دهید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ببخشید و بگیرید - پیوست کردن چیزی با ارزش به فرم ثبت نام ایمیل یک راه مطمئن برای ایجاد علاقه در ذهن خوانندگان است. اساساً، چیزی را به صورت رایگان به قیمت یک آدرس ایمیل (که همه ما می دانیم ارزش آن بسیار بیشتر از رایگان برای سایتی است که آن را دریافت می کند) هدیه دهید. برای مثال، می‌توانید کتاب‌های الکترونیکی، برگه‌های تقلب، سری‌های ایمیل، ویدیو، محتوای وبلاگ خصوصی و دسترسی زودهنگام به ویژگی‌های جدید را ضمیمه کنید."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="انتخاب مفید در پیوندها - به خاطر داشته باشید که افراد می توانند در مکان هایی غیر از فرم ثبت ایمیل در لیست ایمیل ثبت نام کنند. می‌توانید پیوند را دریافت کنید و آن را در تعداد زیادی از مکان‌های مختلف مانند امضای ایمیل، پیام‌های رسانه‌های اجتماعی و بیوگرافی وبلاگ مهمان به اشتراک بگذارید. بسته به نرم افزار ایمیل شما، احتمالاً صفحه فرود اختصاص داده شده به ثبت نام ایمیل وجود دارد. پس از دریافت لینک، آن را در دسترس داشته باشید. شما هرگز نمی دانید چه زمانی ممکن است فرصت استفاده از آن را داشته باشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" قدرت اجتماعی خود را آشکار کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر می دانستید 80000 نفر دیگر قبلاً ثبت نام کرده اند، آیا برای پیوستن به یک لیست ایمیل مستعدتر هستید؟ مفهوم اثبات اجتماعی می گوید بله، به همین دلیل است که می بینید بسیاری از سایت ها اندازه لیست ایمیل خود را در فرم ثبت نام خود تبلیغ می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" محتوای قابل توجه ایمیل ایجاد کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر می‌خواهید افراد مشترک باشند و ایمیل‌های شما را برای دوستان، خانواده و همکارانشان که قبلاً در لیست ایمیل شما نیستند، ارسال کنند، باید محتوای شما شگفت‌انگیز باشد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چگونه بهترین سایت ها ثبت نام می کنند؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اکنون که دیدید راه‌های مختلفی برای رشد فهرست ایمیل وجود دارد، مایلم به شما نشان دهم که برخی از سایت‌های برتر چگونه این ایده‌ها را پیاده‌سازی می‌کنند. در اینجا ترفندی برای به دست آوردن ثبت نام های بیشتر ایمیل با این لینک وجود دارد. به هر نامگذاری در توییتر پاسخ دهید، اغلب با افرادی که محتوای شما را به اشتراک گذاشته اند، گفتگو کنید. به عنوان بخشی از این مکالمه، پیشنهادی برای ثبت نام در لیست ایمیل او ارسال می کنید و برای انجام این کار، پیوند مستقیم را ارسال می کنید. مشترکین ایمیل فعلی خود را با قرار دادن دکمه های اشتراک گذاری اجتماعی و دکمه ایمیل به دوست در ایمیل های بازاریابی خود تشویق کنید تا ایمیل های شما را به اشتراک بگذارند و فوروارد کنند. در پایین ایمیل‌های خود، یک CTA اشتراک را به‌عنوان یک پیوند متنی ساده درج کنید تا کسانی که ایمیل‌های ارسال‌شده را دریافت می‌کنند نیز بتوانند به راحتی شرکت کنند."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

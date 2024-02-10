@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.mystartop1.amazon.cheraamazon">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون، غول تجارت الکترونیک، یکی از قدیمی ترین تاجران وب است و بیش از 200 میلیون مشتری در سراسر جهان دارد. آمازون بازار بی‌رقیب برای فروش آنلاین محصولات است. این یک پلتفرم عالی برای انجام تجارت آنلاین است و هم برای خریداران و هم برای فروشندگان مفید است. آمازون یک سایت تجارت الکترونیک بسیار محبوب است که می تواند به گسترش دسترسی شما در بازار و بهبود دید محصول شما به روشی منحصر به فرد کمک کند. "/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="دلایل مختلفی وجود دارد که چرا باید به فروش در بازار آمازون فکر کنید. در این فصل مقدماتی، اجازه دهید نگاهی به برخی از دلایل برجسته ای بیندازیم که چرا باید بازار آمازون را انتخاب کنید."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" افزایش فروش "
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="بهترین دلیل فروش در آمازون، مقیاس بازدیدکنندگان آنلاین آنهاست. آمازون به تنهایی چشم 85 میلیون بازدید کننده را در ماه جلب می کند، بنابراین می توانید تعداد مواردی را که بر اساس آنها فروش شما افزایش می یابد، محاسبه کنید. همچنین احتمال اینکه محصول شما به دست مشتریان برسد نیز افزایش می یابد."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" مشتریان بالقوه را از سراسر جهان به دست آورید "
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون میلیون ها مشتری متنوع در سراسر جهان دارد که به طور مکرر از آن بازدید می‌کنند. اگر با آمار پیش برویم، از هر چهار خریدار آنلاین هر یک از آمازون خرید می‌کنند. آنها با قصد صریح خرید از بازار آمازون بازدید می‌کنند و ممکن است هنگام مرور محصول شما را کشف کنند که ممکن است آن را از فروشنده دیگری خریداری کرده باشند یا هرگز با آن برخورد نکرده باشند."/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="بنابراین، شما یک مشتری بالقوه به دست می آورید و اگر با محصولات باکیفیت به آنها خدمات ارائه دهید، شانس برنده شدن در یک تجارت تکراری و جهانی تماما از آن شماست."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" ارسال سریع و بدون استرس"
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون می‌تواند محصول شما را از طریق سرویس FBA آمازون(Fulfillment by Amazon)، سریع‌تر و با نرخ‌های ارزان‌تر از آنچه خودتان انجام دهید، به مشتری ارسال کند. با افزودن متن Fulfilled by Amazon یا لوگوی Prime آن به محصول خود، رضایت مشتری را افزایش می دهید."/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="می توانید بنشینید و استراحت کنید و از ارسال محصول بدون استرس و قابل اعتماد لذت ببرید! شما همچنین می‌توانید محصول را خودتان ارسال کنید، که در آن شما مسئول بسته‌بندی محصول و ارسال آن توسط خودتان هستید یا یک سرویس تکمیل را استخدام کنید تا آن را به هر نحوی که می‌خواهید برای شما انجام دهد."/>
+    <ImageView
+        android:id="@+id/imgTitle"
+        android:layout_width="match_parent"
+        android:src="@drawable/ss"
+        android:layout_height="300dp"
+        android:scaleType="fitXY"
+        ></ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" طیف وسیعی از محصولات"
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="یک لیست از محصولاتی وجود دارد که می توانید در آمازون بفروشید. شما می توانید کم یا زیاد بفروشید، آمازون تمام ابزارها و تجربیات مورد نیاز را برای داشتن یک فروش موفق در اختیار شما قرار می دهد."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" تجربه خرید آسان و قابل اعتماد برای مشتریان"
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="مشتریان خرید بی‌دردسر را دوست دارند، چیزی که فقط با یک کلیک خرید آمازون می تواند به شما کمک کند. از این رو، هنگامی که در آمازون فروشنده شدید، با تخصص تجارت الکترونیک آمازون، گزینه های پرداخت آسان و تحویل آن که کسب و کار آنلاین شما را تزئین می کند، آشنا می شوید."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" پرداخت های امن و به موقع"
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون پرداخت های بی دردسر و به موقع ارائه می دهد. پرداخت محصول شما به حساب بانکی شما واریز می شود و از طریق ایمیل به شما اطلاع داده می شود که پرداخت شما انجام شده است. همچنین، آمازون هزینه های خود را تنها پس از انجام فروش کسر می کند."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" خدمات کمک‌کننده حرفه ای آمازون"
+        android:fontFamily="@font/bnazanin"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:gravity="right"/>
+    <com.uncopt.android.widget.text.justify.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/bnazanin"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="آمازون خدمات حرفه ای ارائه می دهد تا شما را در هر مرحله از فروش آنلاین محصول خود راهنمایی کند، مانند اینکه چه محصولی را باید بفروشید و چگونه بفروشید."/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

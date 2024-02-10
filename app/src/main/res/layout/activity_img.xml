@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.youtube.img">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ریز عکسها به افراد امکان می دهد عکس فوری ویدیوی شما را ببینند. پس از اتمام آپلود ویدیو، می‌توانید یک تصویر کوچک از سه گزینه پیش‌فرض که YouTube به‌طور خودکار ایجاد می‌کند، انتخاب کنید. برای انتخاب موردی که می‌خواهید استفاده کنید، به سادگی روی تصویر کوچک کلیک کنید و روی ذخیره تغییرات کلیک کنید.\n\n در اینجا نحوه تغییر یک تصویر کوچک در هر زمان آمده است : به مدیر ویدیوی کانال خود بروید.\n برای ویدیوی مربوطه ای که می خواهید تغییر دهید، روی ویرایش کلیک کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تصاویر کوچک ویدیوی سفارشی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر حساب شما تأیید شده و از وضعیت خوبی برخوردار است، ممکن است توانایی آپلود تصاویر کوچک سفارشی برای آپلودهای ویدیوی خود را داشته باشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" آپلود ریز عکسهای سفارشی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای آپلود یک تصویر کوچک سفارشی هنگام آپلود ویدیو، مراحل زیر را دنبال کنید.\n\n ویدیوی خود را ضبط یا آپلود کنید.\n در پایان مرحله پردازش ویدیو در رابط آپلود، گزینه ای برای انتخاب یک تصویر کوچک سفارشی در بخش «تصاویر کوچک ویدیو» مشاهده خواهید کرد.\n برای آپلود یک تصویر کوچک سفارشی برای یک ویدیوی موجود \n\n به مدیر ویدیوی کانال خود بروید.\n یک ویدیو را پیدا کنید و روی دکمه ویرایش کلیک کنید.\n روی دکمه بندانگشتی سفارشی کلیک کنید و یک تصویر کوچک را آپلود کنید.\n پس از آپلود تصویر کوچک، فراموش نکنید که روی دکمه ذخیره تغییرات کلیک کنید.\n تصویر کوچک سفارشی شما باید تا حد امکان بزرگ باشد، زیرا از تصویر به عنوان تصویر پیش نمایش در پخش کننده تعبیه شده نیز استفاده می شود."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="ما تصاویر کوچک سفارشی به شما را توصیه می کنیم :\n\n دارای رزولوشن 1280×720 (با حداقل عرض 640 پیکسل).\n در قالب‌های تصویر مانند JPG.، GIF.، BMP. یا  PNG. آپلود شود.\n زیر حد 2 مگابایت بمانید.\n سعی کنید از نسبت تصویر 16:9 استفاده کنید زیرا بیشترین استفاده را در پخش کننده ها و پیش نمایش های YouTube دارد."/>
+       </LinearLayout>
+    </ScrollView>
+</LinearLayout>

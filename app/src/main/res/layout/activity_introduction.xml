@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.resane.introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="تجارت در عصر امروز تحت سلطه مشتریان و خواسته های آنهاست. مردم ترجیح می‌دهند قبل از خرید محصول، ارجاع‌ها، نظرات را در نتایج جستجوی Google یا یک وب‌سایت ببینند. برای ایستادن در کنار جریان، باید یاد بگیریم که مردم در مورد ما چه می گویند. برای تعامل و تأثیرگذاری بر توده ها، باید فعالانه در جوامع مربوطه شرکت کنید. برای مدیریت شهرت آنلاین خود باید با رسانه های اجتماعی تعامل داشته باشید. بازاریابی رسانه های اجتماعی برای هدف قرار دادن پایگاه مشتریان گسترده تر و گسترش کسب و کار شما ضروری است. بازاریابی رسانه های اجتماعی فعالیت هدایت ترافیک وب سایت از طریق سایت های رسانه های اجتماعی است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" رسانه های اجتماعی چیست؟"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="رسانه های اجتماعی پلتفرمی هستند که به ما امکان می دهد در شبکه های اجتماعی شرکت کنیم. ما می‌توانیم پست‌های خود را در پلتفرم‌های مختلف رسانه‌های اجتماعی به اشتراک بگذاریم تا دید کسب‌وکار را بهبود ببخشیم. امروزه بهترین منبع برای به روز رسانی اخبار، بازاریابی، آموزش و سرگرمی است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تاریخچه بازاریابی رسانه های اجتماعی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:lineSpacingExtra="7dp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به نظر می‌رسد رسانه‌های اجتماعی روند جدیدی هستند، اما ریشه‌های آن به آغاز عصر رایانه می‌رسد. آنچه امروز می بینیم نتیجه قرن ها توسعه رسانه های اجتماعی است. شبکه های کاربری که در سال 1979 راه اندازی شد، اولین مولد رسانه های اجتماعی بود و سفر از شبکه های کاربری تا فیس بوک طولانی است. شبکه های کاربری به کاربران اجازه می داد در گروه های خبری پست کنند. به دنبال آن سیستم‌های تابلوی اعلانات (BBS) که به کاربران اجازه ورود و تعامل را می‌داد، دنبال شد. خدمات آنلاین مانند progidy پیش درآمد BBS بودند. پس از خدمات آنلاین، چت اینترنتی مطرح شد که جای خود را به پیام‌رسانی فوری داد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در دهه 90، سایت ها و انجمن های دوستیابی در اوج بودند، که منجر به توسعه شبکه های اجتماعی شد. اما آنها به کاربران اجازه ندادند لیست دوستان را ایجاد کنند. پس از یک دهه بازی خریداری شد و تعطیل شد. وبلاگ نویسی در این مرحله پدیدار شد و باعث ایجاد حسی در رسانه های اجتماعی شد. حتی امروزه نیز محبوب است. "/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شبکه های اجتماعی مدرن در سال 2000 وارد تصویر شدند. اپل Friendster خود را در سال 2002 راه اندازی کرد. میلیون ها کاربر دارد. Hi5 و Linkedin در سال 2003 راه اندازی شدند. Linkedin زمینه ای برای حرفه ای ها برای ارتباط با یکدیگر است. MySpace نیز در سال 2003 ایجاد شد و تا سال 2006 به خوبی شناخته شد. به طور مشابه فیس بوک در سال 2004 راه اندازی شد و از MySpace، Orkut، Multiply و غیره پیشی گرفت و هنوز در حال گسترش است. در این دهه همچنین پلتفرم‌های اشتراک‌گذاری رسانه مانند photobucket، flickr، یوتیوب، اینستاگرام، و غیره، همراه با پلت‌فرم‌های خبری و نشانه‌گذاری مانند Digg و Delicious در نظر گرفته شد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="از سال 2000، رسانه های اجتماعی به افق شکوفا شده اند و هنوز هم بی حد و حصر در حال گسترش هستند. در کنار اشتراک گذاری رسانه ها، بسیاری از پورتال های دیگر که به روز رسانی های بلادرنگ را ارائه می دهند، معرفی شدند، به عنوان مثال، توییتر، تامبلر و غیره. در سال 2007، فیس بوک سیستم تبلیغاتی خود را راه اندازی کرد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" اهمیت رسانه های اجتماعی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:lineSpacingExtra="7dp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اهمیت رسانه های اجتماعی قابل بحث نیست. این یک کانال قدرتمند بازاریابی است - یک تغییر دهنده بازی برای هر تجارت. این انعطاف پذیری را برای ما در هر دو سطح شخصی و تجاری فراهم می کند. صاحبان مشاغل می توانند رتبه بندی جستجو، سرنخ ها، فروش و ترافیک را با استفاده از رسانه های جستجو بهبود بخشند. این را می توان با کاهش هزینه های بازاریابی انجام داد. علاوه بر کسب و کار، بستری جالب برای ارتباط با دوستان و عزیزان است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی ویروسی"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:lineSpacingExtra="7dp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هر موضوع داغی که مسری باشد، بازاریابی ویروسی است. این «افشا کردن یک ایده» برای یک علت است. این پیامی است که با انتقال آن از یکی به دیگری با هدف تقویت کسب و کار شما ویروسی می شود. بازاریابی ویروسی رسانه های اجتماعی استفاده از کانال های رسانه های اجتماعی برای انتشار هر پیامی برای ایجاد آگاهی از برند است. نرخ بازاریابی ویروسی ممکن است در هر سطح متفاوت باشد."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

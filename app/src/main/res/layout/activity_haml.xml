@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.mystartop1.amazon.haml">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="روش حمل و نقلی که در آمازون استفاده می کنید، با توجه به اینکه با بازه زمانی انتخابی مشتریان مطابقت دارد، انتخاب شماست. همانطور که قبلا ذکر شد، استفاده از سرویسFBA (تامین توسط آمازون) مفید است. هر چه هر روز زمان کمتری را صرف تنظیم بسته بندی مناسب کنید، زمان بیشتری برای یافتن و فهرست بندی محصولات جدید خواهید داشت."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="بسیاری از مشتریان آمازون هستند که خواهان تجربه کامل آمازون هستند. آنها از آمازون می خواهند که حمل و نقل را انجام دهد. برخی دیگر ممکن است ترجیح دهند محصولات را از بازرگانان غیر FBA خریداری کنند، تنها در صورتی که تفاوت قیمت قابل توجه باشد یا گزینه ارسال آمازون وجود نداشته باشد."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" مدیریت حمل و نقل "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="شما می توانید حمل و نقل را خودتان مدیریت کنید یا می توانید برای همین امر به آمازون اعتماد کنید. اگر مسئولیت حمل و نقل را بر عهده می گیرید، آمازون سفارش می گیرد و اطلاعات مورد نیاز را برای شما ارسال می کند. مسئولیت بسته بندی و ارسال محصول برای مشتری بر عهده شماست."/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="آمازون همچنین سرویس Fulfillment by Amazon (FBA) را ارائه می دهد. تنها کاری که باید انجام دهید این است که محصول خود را به انبار آمازون ارسال کنید و آمازون مسئولیت بسته بندی و ارسال محصول را برای شما بر عهده دارد. بنابراین، شما می توانید به راحتی حساب آمازون خود را در هر نقطه در سراسر جهان اجرا کنید."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" ارسال به انبار آمازون "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="فرض کنید می خواهید با سرویس آمازون FBA کار کنید و می خواهید آمازون حمل و نقل را انجام دهد. در این صورت باید مراحل زیر را دنبال کنید:"/>
+
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" برای یک حساب FBA ثبت نام کنید و دکمه حمل و نقل آمازون را هنگام فهرست کردن محصول انتخاب کنید و روی دکمه ذخیره و پایان کلیک کنید. برای ارسال محصول باید به انبار مناسب آمازون ارسال شود.\n\n  یک طرح حمل و نقل جدید ایجاد کنید که شامل تمام اطلاعات مربوط به محموله ای است که باید به آمازون ارسال شود. آدرسی که محصول از آنجا ارسال خواهد شد، آدرسی است که هنگام تنظیم حساب خود وارد کرده اید. با این حال، می توانید این آدرس را با وارد کردن یک آدرس Ship-From دیگر تغییر دهید.\n\n  در مرحله بعد، باید جزئیات نوع محصول را وارد کنید، خواه محصولاتی که جداگانه  ارسال می کنید یا محصولات بسته بندی شده.\n\n   اگر ده‌ها موبایل دست دوم ارسال می‌کنید که هر کدام مدل متفاوتی دارند یا مدل مشابهی دارند اما شرایط متفاوتی دارند، به عنوان یک محصول جداگانه فهرست می‌شوند. آمازون بارکد هر کالایی را که ارسال می کنید اسکن می کند.\n\n   برعکس، اگر ده‌ها واحد یکسان را ارسال می‌کنید، همه با شماره SKU یکسان و شرایط یکسان، محموله به عنوان یک محموله بسته‌بندی شده درج می‌شود. آمازون فقط بارکد یک مورد را از هر مورد بررسی می کند و تعداد موارد را وارد می کند. "
+            android:fontFamily="@font/bnazanin"
+            android:textSize="20sp"
+            android:lineSpacingExtra="10dp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:gravity="right"/>
+        <com.uncopt.android.widget.text.justify.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingExtra="10dp"
+            android:fontFamily="@font/bnazanin"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="شما باید تعداد واحدهایی را که برای فروش آماده کرده اید به آمازون اطلاع دهید. هنگامی که مشخص کردید چند واحد برای فروش ارائه می دهید، آمازون می تواند تغییرات سهام را که در فروشگاه شما رخ می دهد شناسایی کند. به همین دلیل، همیشه باید مطمئن باشید که موجودی کافی برای پوشش مقدار نمایش داده شده در آمازون دارید."/>
+
+        <ImageView
+            android:id="@+id/imgTitle"
+            android:layout_width="match_parent"
+            android:src="@drawable/easyshipsettings"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            ></ImageView>
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

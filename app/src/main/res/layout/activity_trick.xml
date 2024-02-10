@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.facebook.trick">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="راه های مختلفی برای جلب توجه و جذب طرفداران جدید در فیس بوک وجود دارد، موفق ترین کمپین ها همیشه آنهایی بوده اند که خلاقانه ترین بوده اند. بهترین توصیه ای که هنگام ایجاد یک استراتژی بازاریابی به شما داده می شود این است که کمپینی ایجاد کنید که منحصر به فرد و متمایز از بقیه باشد، اما در عین حال مختصر و در جهت هویت برند شما باشد. در زیر ایده های مختلفی وجود دارد که می توان برای رشد صفحه فیس بوک خود پیاده سازی کرد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" پیشنهاد ویژه فقط به طرفداران فیس بوک"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر یک وب سایت تجارت الکترونیک دارید، این کار بسیار مؤثر است. شما می توانید یک کد کوپن ایجاد کنید که می تواند در خرید بعدی آنها استفاده شود. این کد کوپن منحصر به افرادی است که در صفحه فیس بوک شما هستند. این عالی است، زیرا افرادی که صفحه شما را دوست دارند به محصول شما علاقه مند هستند، ممکن است کسانی را که خرید نکرده اند را به این کار ترغیب کند. همچنین این مزیت را دارد که توسط افراد از صفحه شما به صفحه دیگران به اشتراک گذاشته شود. این افراد که ممکن است در مورد شما به عنوان شخصی که اشتراک‌گذاری می‌کند ندانند، معتقدند که این تخفیف به یکی از دوستان، خانواده، همکاران یا خودشان علاقه‌مند است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" از کاربران خود سوال بپرسید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="با پرسیدن سوال از کاربران خود، می توانید بحثی را در مورد پست شروع کنید. افراد همچنین ممکن است یکی از دوستان خود را به مکالمه متصل کنند تا آنها را درگیر کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" چندین تصویر را به تبلیغات فیس بوک خود اضافه کنید"
+                android:fontFamily="@font/bnazanin"
+                android:lineSpacingExtra="7dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگامی که یک تبلیغ با چندین تصویر ارسال می کنید، یک چرخ فلک برای کاربران ایجاد می کند تا از آن عبور کنند. شما واقعا می توانید در اینجا خلاق باشید و از طریق تصاویر داستانی را در تبلیغات خود بگویید. این کار باعث می‌شود فردی که به آگهی نگاه می‌کند، تمام تصاویر را بچرخاند تا داستان کامل را دریافت کند. تصویر نهایی می تواند حاوی یک دکمه فراخوان باشد تا کاربران را به صفحه یا وب سایت شما هدایت کند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" متن را زیر 20% روی تصاویر تبلیغاتی نگه دارید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر تصویر شامل بیش از 20 درصد متن باشد، دستورالعمل های فیس بوک پست تقویت شده را نمی پذیرد. اگر قصد دارید پست را به عنوان یک تبلیغ پولی تقویت کنید، زمانی که شما یا طراحتان در حال ایجاد تصویر هستید، از این موضوع آگاه باشید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک مسابقه ایجاد کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در گذشته، ایجاد یک مسابقه و کاربرانی که در آن شرکت می کردند، سخت بود. تغییرات اخیر اکنون کار را آسان کرده است. ایجاد یک مسابقه یا جایزه یک راه عالی برای افزایش مخاطبان شما است زیرا می توانید به مردم بگویید که پست هدیه را به اشتراک بگذارند و نظر بدهند تا شانس برنده شدن داشته باشند. این باعث افزایش تعامل می شود و پست به اشتراک گذاشته شده فرصتی برای تبلیغات ارگانیک در صفحه دیگران می دهد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" از هشتگ ها استفاده کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="فیسبوک این امکان را دارد که به هر پست هشتگ اضافه کند. این به افراد کمک می کند تا محتوای مرتبط و مرتبط را فیلتر کرده و پیدا کنند. این به شما این امکان را می دهد که به طور ارگانیک شناخته شوید. اگرچه هشتگ‌ها در فیس‌بوک به اندازه اینستاگرام محبوب نشده‌اند، اما همچنان فرصتی برای دستیابی به دسترسی بیشتر فراهم می‌کنند. هنگام استفاده از هشتگ ها در فیس بوک، عاقلانه است که آنها را به یک یا دو هشتگ کاملاً تعریف شده محدود کنید، نه اینکه پست را با هشتگ های زیادی که افراد معمولاً جستجو نمی کنند، پخش کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="7dp"
+                android:text=" محتوای ایجاد شده/ پیشنهاد شده توسط طرفداران را به اشتراک بگذارید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="گاهی اوقات یکی از طرفداران چیز جالبی برای شما ارسال می کند. به جای رد کردن آن، شاید نگاهی به گنجاندن آن در یکی از پست های خود و دادن اعتبار به آن طرفدار بیندازید. این نشان می دهد که برند شما جامعه ای است که طرفداران شما به آن علاقه زیادی دارند. شما به جای انتشار یا انتشار اطلاعات، با طرفداران خود همکاری و کار می کنید."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

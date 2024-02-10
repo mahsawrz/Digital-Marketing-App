@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.digital.link">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="لینکدین می‌تواند ابزار قدرتمندی برای افراد و شرکت‌هایی باشد که به دنبال ایجاد ارتباطات جدید، تولید سرنخ و ایجاد برند خود هستند. بازاریابی لینکدین علاوه بر اینکه راهی عالی برای جذب استعدادهای جدید است، احتمالاً یک ابزار بازاریابی برتر است. به طور مداوم ثابت می کند که پلت فرم انتخابی برای راه اندازی محصولات بازاریابی و تولید سرنخ است. یک استراتژی بازاریابی جامع لینکدین مستلزم مدیریت مداوم، نظارت، تجزیه و تحلیل و تنظیمات است. در اینجا، ما مجموعه ای از نکات مهم را فهرست کرده ایم که به شما کمک می کند از استراتژی بازاریابی لینکدین خود بیشترین بهره را ببرید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" یک صفحه شرکتی پویا برای برند خود ایجاد کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="برای ایجاد یک حضور تجاری در لینکدین و دسترسی به ویژگی های اضافی که دید شما را افزایش می دهد، باید یک صفحه شرکت لینکدین ایجاد کنید. این صفحه را افزونه وب سایت خود در نظر بگیرید و نمایه کامل شامل محصولات و خدمات را پر کنید. کارمندان و مشتریان خود را به دنبال کردن صفحه دعوت کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" در صنعت خود یک مرجع باشید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شما باید برنامه ریزی کنید که چه نوع محتوایی را می توانید ارائه دهید که تصمیم گیرندگان را وادار کند تا دو بار در مورد رویکردهایی که در پیش گرفته اند فکر کنند. به بحث هایی فکر کنید که می توانید ایجاد کنید تا شما را به عنوان یک رهبر فکر برجسته کنید. همچنین تعیین کنید که آیا محتوا مرتبط است و برای چه کسی، و اینکه آیا محتوا الهام بخش مشتریان بالقوه برای اقدام است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" در اجتماع شرکت کنید"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="مهم این نیست که چه تعداد ارتباط برقرار می کنید یا تعداد فالوورهایی که در لینکدین و دیگر پلتفرم های رسانه های اجتماعی دارید. بهترین راه برای مشارکت در رسانه های اجتماعی، ایجاد یک جامعه است. در لینکدین، می توانید گروه های واقعی را که مدیریت می کنید ایجاد کنید. نقش فعالی را در نظر بگیرید و گروهی را در صنعتی که در آن فعال هستید ایجاد کنید. یا به سادگی به یک گروه موجود بپیوندید و محتوای مربوطه را به اشتراک بگذارید. در هر صورت، شما مخاطبین جدیدی ایجاد خواهید کرد و در گفتگوهای ارزشمند با رهبران صنعت در زمینه خود شرکت خواهید کرد."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مشاهده آمار"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="آمار جدید ناشر لینکدین بینش شگفت انگیزی را نه تنها در مورد تعداد افرادی که هر پست را مشاهده می کنند، بلکه طول عمر هر پست، جمعیت خوانندگان و افرادی که با پست های شما درگیر هستند ارائه می دهد. برای مشاهده آمار خود، به برگه چه کسی پست‌های شما را مشاهده کرده است، که در زیر نمایه در پیمایش اصلی زیر چه کسی نمایه شما را مشاهده کرده است، بروید. برای مشاهده نموداری که تعداد بازدیدها در 7 روز، 15 روز، 30 روز، 6 ماه یا 1 سال گذشته را نشان می دهد، روی هر پست کلیک کنید. این به شما چشم اندازی باورنکردنی می دهد تا مدت زمان ماندگاری هر پست را ببینید. این اعداد و همچنین عناصر خود پست ها را مرور کنید تا الگوهایی را ببینید که به شما می گوید خوانندگان شما به چه موضوعات، قالب و طولی بیشتر علاقه مند هستند."/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

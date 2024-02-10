@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.youtube.safety">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" حالت محدود "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="وقتی صحبت از مشاهده ویدیوها در یوتیوب می شود، صاحب حساب می تواند انواع خاصی از ویدیوها را غیرفعال یا فعال کند. تنظیمات ایمنی معمولاً برای ویدیوهایی اعمال می‌شود که کودکان و نوجوانان کوچک‌تر نباید آن‌ها را ببینند. هنگام روشن کردن این تنظیم، حالت محدود نامیده می شود. YouTube از پرچم‌گذاری انجمن، محدودیت‌های سنی، و سیگنال‌های دیگر برای شناسایی و فیلتر کردن محتوای بالقوه نامناسب استفاده می‌کند.\n\n طبق گفته YouTube، حالت محدود در سطح مرورگر یا دستگاه کار می کند، بنابراین باید آن را برای هر مرورگری که استفاده می کنید روشن کنید. اگر مرورگر شما از چندین نمایه پشتیبانی می کند، باید آن را برای هر نمایه فعال کنید. اگر می خواهید حالت محدود فعال بماند. برای هر کسی که از این مرورگر استفاده می کند، می توانید حالت محدود را قفل کنید.\n\n روش قفل یا باز کردن حالت محدود به شرح زیر است : \n\n پس از فعال شدن، حالت محدود بدون توجه به اینکه وارد سیستم شده اید یا خیر (و اگر شخص دیگری به حساب YouTube دیگری وارد شود، روشن می ماند). مطمئن شوید که از حسابی خارج شده اید که حالت محدود را روشن کرده است تا سایر کاربران رایانه نتوانند تنظیمات را تغییر دهند."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

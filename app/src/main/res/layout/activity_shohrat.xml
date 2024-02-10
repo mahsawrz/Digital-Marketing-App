@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.twitter.shohrat">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شهرت خوب ارزش بسیار بیشتری نسبت به پول دارد. اگر از توییتر برای بازاریابی محصول، تجارت یا برند خود استفاده می کنید، مدیریت شهرت خود در توییتر بسیار مهم است."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" استفاده از Google Alerts برای مدیریت شهرت "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="این(Google Alerts) ابزاری عالی برای اطمینان از اینکه اجازه نمی‌دهید ذکر آنلاین از نام تجاری شما بی‌توجه باشد. شما باید این مراحل ساده را دنبال کنید :"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="به وب سایت Google Alerts بروید. نام شرکت، نام تجاری یا سایر کلمات کلیدی صنعت خود را در کادر متنی عبارت Search وارد کنید. آن را به عنوان یک نوع هشدار همه چیز ذخیره کنید. بنابراین می‌توانید اعلان‌های روزانه تمام مقالات خبری، وب‌سایت‌ها، وبلاگ‌ها، ویدیوها و گروه‌هایی را که کلمات کلیدی شما را ذکر می‌کنند، دریافت کنید."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" استفاده از IFTTT برای مدیریت شهرت "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:lineSpacingExtra="7dp"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="منبع دیگر If This then That (IFTTT) است که کارهای ساده آنلاین را با استفاده از یکی از اساسی ترین اصول خودکار می کند: اگر این اتفاق افتاد، آن را انجام دهید.\n\n این (IFTTT) به شما امکان می دهد قوانینی (به نام دستور العمل ها) تنظیم کنید، از دریافت آخرین به روز رسانی های آب و هوا به عنوان یک پیام متنی گرفته تا ارسال خودکار عکس های اینستاگرام به توییتر (یا هر پلتفرم دیگری). می‌توانید با انتخاب یک کانال ماشه قسمت «اگر این اتفاق بیفتد» و یک کانال عمل بخش «پس آن را انجام بده»، یک دستور تهیه کنید. برای نظارت بر آنچه مردم در مورد شرکت شما می گویند، دستورالعملی تنظیم کنید که فیدهای RSS وب سایت های مهم صنعت را اسکن می کند، سپس یک هشدار ایمیل روزانه همراه با نتایج برای شما ارسال می کند- اگر [وب سایت] شرکت شما را ذکر کرد، سپس یک هشدار ایمیل دریافت کنید.\n\n نظارت بر ذکر اجتماعی یا Social Mention نتایجی را بر اساس احساس غوغای رسانه های اجتماعی در اطراف شرکت شما برمی گرداند. می‌توانید چندین وب‌سایت را در یک مکان زیر نظر داشته باشید و حتی بفهمید که افراد هنگام صحبت درباره شرکت شما از چه کلمات کلیدی استفاده می‌کنند. برای راه اندازی Social Mention ، عبارت(های) جستجوی خود را در کادر نوشتاری تایپ کنید و کانالی مانند وبلاگ، میکروبلاگ، نشانک، تصویر، ویدئو یا سوال را انتخاب کنید. می توانید نتایج را بر اساس تاریخ، منبع و زمان مرتب کنید.\n\n وقتی برند شما موضوع شهر در یک پلتفرم اجتماعی مانند توییتر است، در اینجا چند نکته کلیدی برای پاسخ وجود دارد :"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="رسانه های اجتماعی در زمان واقعی کار می کنند. اگر مشکلی پیدا کردید، می‌توانید فوراً از طریق یک پاسخ سریع آن‌ها را برطرف کنید. شما نمی توانید منتظر بمانید تا مشکلات یا بحث های ناسالم در مورد برند و کسب و کار خود به خودی خود از بین برود.\n\n ملایم باشید - از دست دادن عصبانیت یا تهدید در هنگام پاسخ دادن خودداری کنید. با گوش دادن به دیگران، احترام و حمایت دیگران را جلب می کنید و در نتیجه فرصت های تجاری بیشتری ایجاد می کنید.\n\n فعال باشید - وقتی بحث های مربوط به صنعت تجارت شما باز می شود، صمیمانه و زودتر با دیدگاه خود درگیر شوید.\n\n مودب باشید - هنگام بحث در مورد یک موضوع در رسانه های اجتماعی باید از لحن و زبان مناسب استفاده کنید. مشکل در مدتی حل می شود، اما تصور شما به عنوان یک نماد تجاری برای مدت طولانی در ذهن باقی می ماند."/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

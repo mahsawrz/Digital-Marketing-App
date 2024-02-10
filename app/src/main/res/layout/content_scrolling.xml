@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.mystartop1.UnitActivity"
+    tools:showIn="@layout/activity_unit">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A/B Testing"
+            android:fontFamily="@font/iaccent"
+            android:textSize="20sp"
+            android:layout_margin="20dp"
+            android:id="@+id/txtName"
+            android:textColor="@color/black"
+            android:gravity="center"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:lineSpacingExtra="10dp"
+                android:text="تست A/B یکی از بهترین راه ها برای مقایسه دو یا چند نسخه از یک برنامه یا یک صفحه وب است. این به شما امکان می دهد تعیین کنید کدام یک از آنها عملکرد بهتری دارد و می تواند نرخ تبدیل بهتری ایجاد کند. که این  راه یکی از ساده ترین راه ها برای تجزیه و تحلیل یک برنامه یا یک صفحه وب، برای ایجاد یک نسخه جدید است و مؤثرتر است. "
+                android:fontFamily="@font/bnazanin"
+                android:textColor="@color/black"
+                android:id="@+id/txtDesc"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" مثال"
+                android:layout_margin="8dp"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/bnazanin"
+                android:textColor="@color/black"
+                android:layout_margin="8dp"
+                android:textSize="20sp"
+                android:text="فرض کنید یک صفحه وب وجود دارد و تمام ترافیک به این صفحه هدایت می شود. اکنون به عنوان بخشی از تست A/B، تغییرات جزئی مانند سرفصل، شماره گذاری و غیره را در همان صفحه ایجاد کرده اید و نیمی از ترافیک آن به نسخه اصلاح شده این صفحه وب هدایت می شود. اکنون نسخه A و نسخه B از همان صفحه وب را دارید و می توانید با استفاده از آمار و تجزیه و تحلیل اقدامات بازدیدکننده را برای تعیین نسخه ای که نرخ تبدیل بالاتری به همراه دارد، نظارت کنید.
+نرخ تبدیل به عنوان نمونه ای تعریف می شود که هر بازدید کننده در وب سایت شما اقدام دلخواه را انجام دهد. تست A/B شما را قادر می سازد تا بهترین استراتژی بازاریابی آنلاین را برای کسب و کار خود تعیین کنید. به تصویر زیر دقت کنید. این نشان می دهد که نسخه A نرخ تبدیل 15٪ و نسخه B نرخ تبدیل 22٪ را ارائه می دهد.
+"/>
+
+            <ImageView
+                android:id="@+id/imgTitle"
+                android:layout_width="match_parent"
+                android:src="@drawable/overview"
+                android:layout_height="260dp"
+                android:scaleType="fitXY"
+                ></ImageView>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="10dp"
+                android:textSize="20sp"
+                android:text="تست A/B برای تصمیم گیری تجاری بر اساس نتایج به دست آمده از داده ها به جای پیش بینی استفاده می شود. این به شما امکان می دهد تا تغییراتی از وب سایت یا برنامه خود ایجاد کنید و سپس به شما کمک می کند تا تصمیم خود را برای ایجاد تغییرات تأیید یا رد کنید.
+این تست به شما این امکان را می دهد که سایت یا اپلیکیشن خود را به گونه ای بهینه کنید که نرخ تبدیل را افزایش دهد. نرخ تبدیل بالاتر به معنای دریافت ارزش بیشتر از کاربران فعلی شما به جای پرداخت هزینه بیشتر برای جذب ترافیک است. تست A/B همچنین می‌تواند به شما کمک کند تا عوامل دیگری مانند فرهنگ کاری و غیره را در تجارت تغییر دهید. به شما کمک می‌کند تا از داده‌های ریاضی و آمار برای تعیین جهت تغییرات محصول خود استفاده کنید.
+چه یک طراح، یک تحلیلگر کسب و کار یا یک توسعه دهنده باشید، A/B تست راه ساده ای برای استفاده از قدرت داده ها و آمار برای کاهش خطرات، بهبود نتایج و داده محور شدن در کارتان ارائه می دهد.
+"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" دراجرای یک تست A/B : "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:layout_margin="8dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در صورتی که احتمال شکست دادن تغییرات اصلی بیش از 5% وجود دارد، همیشه تست A/B را انجام دهید.
+آزمایش باید برای مدت زمان قابل توجهی اجرا شود، به طوری که شما باید داده های نمونه کافی برای انجام آمار و تجزیه و تحلیل داشته باشید.
+"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:textColor="@color/black"
+                android:layout_margin="8dp"
+                android:textSize="20sp"
+                android:text="تست A/B در مورد ایجاد تغییرات متعدد از یک برنامه یا یک وب سایت و سپس مقایسه همه این نسخه ها با استفاده از نمونه ها، برای تعیین بهترین تنوعی است که حداکثر نرخ تبدیل را دارد. انواع مختلفی از تغییرات وجود دارد که می تواند در یک صفحه وب یا یک برنامه کاربردی اعمال شود. تست A/B فقط به یک برنامه یا یک صفحه وب محدود نمی شود، زیرا می توانید تغییراتی را برای سایر محصولات نیز ایجاد کنید. "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" بازاریابی ایمیل "
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/bnazanin"
+                android:textColor="@color/black"
+                android:lineSpacingExtra="10dp"
+                android:layout_margin="8dp"
+                android:textSize="20sp"
+              android:text="یک شرکت با پایگاه داده مشتریان 2000 نفری تصمیم می گیرد یک کمپین ایمیل با کد تخفیف ایجاد کند تا از طریق وب سایت خود فروش داشته باشد. دو نسخه از ایمیل با فراخوانی متفاوت و شناسایی کد تبلیغاتی ایجاد می کند. برای 1000 نفر، ایمیلی را به همراه دعوت به اقدام ارسال می کند که در آن نوشته شده است: پیشنهاد این شنبه به پایان می رسد! از کد A1 استفاده کنید. و به 1000 نفر دیگر ایمیلی را به همراه دعوت به اقدام ارسال می کند که در آن نوشته شده است: پیشنهاد به زودی به پایان می رسد! از کد B1 استفاده کنید. تمام عناصر دیگر کپی و طرح ایمیل ها یکسان هستند. سپس شرکت با تجزیه و تحلیل استفاده از کدهای تبلیغاتی، نظارت می کند که کدام کمپین دارای میزان موفقیت بالاتری است. ایمیلی که از کد A1 استفاده می کند دارای نرخ پاسخگویی 5٪ است (50 نفر از 1000 نفری که ایمیل فرستاده شده از کد برای خرید محصول استفاده کرده اند) و ایمیل با استفاده از کد B1 دارای نرخ پاسخ 3٪ است (30 نفر از گیرندگان از کد استفاده کرده اند خرید محصول). بنابراین شرکت تعیین می کند که در این مورد، اولین Call To Action موثرتر است و از آن در فروش های آتی استفاده خواهد کرد. یک رویکرد ظریف تر شامل استفاده از آزمون های آماری برای تعیین اینکه آیا تفاوت ها در نرخ پاسخ بین A1 و B1 از نظر آماری معنی دار هستند یا خیر (یعنی به احتمال زیاد تفاوت ها واقعی، قابل تکرار هستند و به دلیل شانس تصادفی نیستند)."/>
+                <com.uncopt.android.widget.text.justify.JustifiedTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/bnazanin"
+                    android:textColor="@color/black"
+                    android:layout_margin="8dp"
+                    android:lineSpacingExtra="10dp"
+                    android:textSize="20sp"
+                    android:text="در مثال بالا، هدف از آزمون تعیین این است که کدام راه مؤثرتر برای تشویق مشتریان به خرید است. با این حال، اگر هدف آزمایش این بود که ببیند کدام ایمیل نرخ کلیک بالاتری را ایجاد می کند - یعنی تعداد افرادی که واقعاً پس از دریافت ایمیل روی وب سایت کلیک می کنند - ممکن است نتایج متفاوت باشد. به عنوان مثال، حتی اگر تعداد بیشتری از مشتریان دریافت کننده کد B1 به وب سایت دسترسی داشته باشند، زیرا در Call To Action تاریخ پایان تبلیغات ذکر نشده است، بسیاری از آنها ممکن است نیازی به خرید فوری نداشته باشند. در نتیجه، اگر هدف آزمایش صرفاً این بود که ببینیم کدام ایمیل ترافیک بیشتری را به وب‌سایت وارد می‌کند، ایمیل حاوی کد B1 ممکن است موفق‌تر باشد. یک تست A/B باید یک نتیجه تعریف شده داشته باشد که قابل اندازه گیری باشد، مانند تعداد فروش انجام شده، تبدیل نرخ کلیک، یا تعداد افرادی که ثبت نام/ثبت می کنند."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" تست A/B برای قیمت گذاری محصول "
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:lineSpacingExtra="10dp"
+                android:text="تست A/B می تواند برای تعیین قیمت مناسب برای محصول مورد استفاده قرار گیرد، زیرا این شاید یکی از سخت ترین کارها هنگام عرضه محصول یا خدمات جدید باشد.
+تست A/B(مخصوصاً برای کالاهای دیجیتال معتبر) روشی عالی برای یافتن اینکه کدام قیمت و پیشنهاد کل درآمد را به حداکثر می‌رساند.
+"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

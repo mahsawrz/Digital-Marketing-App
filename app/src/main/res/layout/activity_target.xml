@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mystartop1.facebook.target">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شناسایی مخاطبان هدف شما مهم است زیرا به شما کمک می‌کند افرادی را که پست‌های شما را می‌بینند به افرادی که بیشتر اهمیت می‌دهند محدود کنید. هنگامی که از سازنده تبلیغات استفاده می کنید، فیس بوک به شما کمک می کند تا مخاطبان هدف را بر اساس موقعیت مکانی و همچنین جمعیت شناختی مانند سن، علایق و جنسیت تقسیم کنید. شما همچنین قادر خواهید بود تبلیغات خود را بر اساس آنچه افراد در اینترنت خارج از فیس بوک انجام می دهند، هدف قرار دهید. شما کنترل کاملی بر روی مخاطبی که می خواهید به آن برسید بدست می آورید. بسته به نیازهای کسب و کار خود و استراتژی که در حال حاضر در حال اجرای آن هستید، می توانید یکی یا ترکیبی از گزینه های هدف را انتخاب کنید."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" انتخاب مخاطب مناسب"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگامی که به دنبال شناسایی هدف خود هستید، باید مخاطب مناسبی را که می خواهید به آن برسید انتخاب کنید. قبل از ایجاد بازار هدف مناسب، سوالات مهم را از خود بپرسید: با چه دستگاهی می خواهم به مشتریانم دسترسی داشته باشم؟ دسکتاپ، موبایل، تبلت یا ترکیبی؟ چند کمپین راه اندازی خواهم کرد؟ آیا پیام های مرتبطی وجود خواهد داشت که بخواهم گروه های خاصی از افراد را هدف قرار دهم؟ چگونه بیشترین ارزش را از آگهی خود دریافت کنم؟"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" گزینه های هدف برای انتخاب"
+                android:fontFamily="@font/bnazanin"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:gravity="right"/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="هنگام یافتن مخاطب می‌توانیم از میان این گزینه‌ها انتخاب کنیم : مکان، سن، جنسیت و زبان، منافع، رفتار – اخلاق، دسته بندی ها، اتصالات (افرادی که قبلاً به هر یک از صفحات شما متصل هستند)."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="شناسایی بازار هدف بسیار مهم است، زیرا هر چه بهتر این تعریف را داشته باشید، کمپین موفق‌تر خواهد بود. این می تواند بازاریابی فیس بوک شما را بسیار مقرون به صرفه تر کند. اگر بازار هدفی را انتخاب نکنید، هزینه به ازای هر جذب کاربر بسیار بیشتر خواهد بود. به عنوان مثال، بدون مخاطب هدف تعریف شده، اگر 100 نفر یک پست تقویت شده را ببینند، شاید تنها 10 نفر علاقه مند شوند. اگر پست را به طور خاص برای آن 10 نفر هدف قرار دهید، در هزینه 90 نفر دیگر که در وهله اول هیچ علاقه ای به دیدن پست ندارند، صرفه جویی می کنید."/>
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

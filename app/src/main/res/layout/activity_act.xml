@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.mystartop1.insta.acti">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در صورتی که پنج عکس در اینستاگرام پست می‌کنید و یکی از آن عکس‌ها به طور قابل توجهی لایک و کامنت بیشتری نسبت به چهار عکس دیگر دریافت می‌کند، بررسی آن عکس برای کشف دلیل تاثیرگذاری آن بسیار حیاتی است. می‌توانید با عکس‌ها و ضبط‌های بعدی که در اینستاگرام آپلود می‌کنید، این دستاورد را بازتولید کنید. خوشبختانه، اینستاگرام یک ویژگی داخلی برای این کار دارد. از صفحه اصلی، اگر روی پیوند چهارم در پایین صفحه ضربه بزنید، که حباب چت با قلب در آن است، ما را به صفحه فعالیت خود می برد."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="اگر فعالیت خوانده‌نشده‌ای دارید، یا اگر افراد با نظر شما تعامل داشته‌اند و هنوز آن را بررسی نکرده‌اید، یک نقطه نارنجی کوچک درست زیر آن حباب چت وجود خواهد داشت. ادامه دهید و روی آن پیوند ضربه بزنید. پس از ضربه زدن بر روی لینک Activity، می توانید تمام فعالیت هایی را که افراد با اکانت اینستاگرام شما انجام می دهند، مشاهده کنید. همچنین خواهید دید که افراد چه زمانی عکس‌های شما را لایک کرده یا روی آن نظر بگذارند."/>
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="10dp"
+                android:fontFamily="@font/bnazanin"
+                android:layout_margin="8dp"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:text="در بالای این صفحه دو تب وجود دارد. یکی از آن ها تب You است که در آن تمام فعالیت هایی که به شما مربوط می شود را مرور می کنید، یعنی همه لایک ها، کامنت ها و فالوهایی که در اینستاگرام دریافت می کنید. از طرف دیگر، اگر روی تب Following ضربه بزنید، تمام فعالیت‌هایی که در اینستاگرام دنبال می‌کنید به شما نشان می‌دهد. اما از نقطه نظر تجاری، حیاتی ترین جنبه این ویژگی عموماً تب You است که می توانید ببینید مردم در مورد محتوای شما چه فکر می کنند."/>
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
